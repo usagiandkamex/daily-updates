@@ -29,7 +29,7 @@ RSS/Atom フィードからのニュース**収集**は Python スクリプト�
 生成記事の構成: 1. Microsoft / 2. AI / 3. Azure / 4. クラウド / 5. セキュリティ
 （各セクション 最大 3 トピック、読了目安 約5分）
 
-### イベントカレンダー（毎日 3:00 JST）
+### イベントカレンダー（毎日 4:00 JST）
 
 `scripts/generate_events_calendar.py` が connpass（関東・オンラインの IT イベント）と
 大手ベンダーの大規模カンファレンス情報（Google News RSS）を収集し、`docs/events.json` を
