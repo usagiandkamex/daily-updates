@@ -1,0 +1,3 @@
+feedparser>=6.0.0
+googlenewsdecoder>=0.1.7
+requests>=2.31.0
