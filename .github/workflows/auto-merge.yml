@@ -1,0 +1,54 @@
+name: 自動マージ
+
+# デイリーアップデート / テクニカル雑談 のワークフロー完了時に、
+# 'auto-merge' ラベル付きのオープン PR を自動マージする。
+# gh aw safe-outputs が作る PR は GITHUB_TOKEN 作成のため pull_request イベントを
+# 起動しない。そのため workflow_run（完了）をトリガーにする。
+on:
+  workflow_run:
+    workflows:
+      - "デイリーアップデート"
+      - "テクニカル雑談"
+    types:
+      - completed
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    # 生成ワークフローが成功したときのみマージする
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: auto-merge ラベル付き PR をマージ
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          PRS=$(gh pr list --repo "$REPO" --state open --label auto-merge --json number -q '.[].number')
+          if [ -z "$PRS" ]; then
+            echo "auto-merge 対象の PR はありません。"
+            exit 0
+          fi
+
+          # マージ失敗時は最大3回リトライ（GitHub側の一時的な競合やレート制限が解消されるよう90秒待機）
+          MAX_RETRIES=3
+          RETRY_WAIT=90
+          for PR in $PRS; do
+            echo "PR #${PR} をマージします"
+            for i in $(seq 1 $MAX_RETRIES); do
+              if gh pr merge "$PR" --repo "$REPO" --merge --delete-branch; then
+                echo "マージ成功（試行 $i/$MAX_RETRIES）"
+                break
+              fi
+              if [ $i -lt $MAX_RETRIES ]; then
+                echo "マージ失敗（試行 $i/$MAX_RETRIES）。${RETRY_WAIT}秒後にリトライします..."
+                sleep $RETRY_WAIT
+              else
+                echo "PR #${PR} のマージが ${MAX_RETRIES} 回失敗しました。"
+                exit 1
+              fi
+            done
+          done

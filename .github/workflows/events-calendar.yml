@@ -1,0 +1,125 @@
+name: イベントカレンダー更新
+
+# connpass から IT イベントを取得し docs/events.json を更新する決定論的ワークフロー。
+# AI 生成を伴わないため通常の GitHub Actions として実装する。
+on:
+  schedule:
+    # 毎日 3:00 JST (= 18:00 UTC 前日)
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: events-calendar
+  cancel-in-progress: false
+
+jobs:
+  update-events:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v6
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: 依存関係インストール
+        run: pip install -r scripts/requirements.txt
+
+      - name: 対象日・ブランチ名の設定
+        run: |
+          TARGET_DATE=$(TZ=Asia/Tokyo date +%Y%m%d)
+          echo "TARGET_DATE=${TARGET_DATE}" >> $GITHUB_ENV
+          echo "TARGET_DATE_FORMATTED=$(TZ=Asia/Tokyo date +%Y/%m/%d)" >> $GITHUB_ENV
+          echo "BRANCH_NAME=events-calendar-${TARGET_DATE}" >> $GITHUB_ENV
+
+      - name: 既存ブランチ・PRのクリーンアップ
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: ${{ env.BRANCH_NAME }}
+        run: |
+          EXISTING_PRS=$(gh pr list --head "$BRANCH_NAME" --state open --json number --jq '.[].number' 2>/dev/null || true)
+          for pr_number in $EXISTING_PRS; do
+            echo "既存PR #${pr_number} をクローズします"
+            gh pr close "$pr_number" --comment "再実行のためクローズします。" || true
+          done
+          if [ -z "$EXISTING_PRS" ]; then
+            echo "クローズ対象の既存PRはありません。"
+          fi
+          if git ls-remote --exit-code --heads origin "$BRANCH_NAME" >/dev/null 2>&1; then
+            echo "既存ブランチ $BRANCH_NAME を削除します"
+            git push origin --delete "$BRANCH_NAME" || true
+          fi
+
+      - name: ブランチ作成
+        env:
+          BRANCH_NAME: ${{ env.BRANCH_NAME }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH_NAME"
+
+      - name: イベントカレンダーデータ生成
+        env:
+          CONNPASS_API_KEY: ${{ secrets.CONNPASS_API_KEY }}
+        run: python scripts/generate_events_calendar.py
+
+      - name: 変更をコミット & プッシュ
+        env:
+          BRANCH_NAME: ${{ env.BRANCH_NAME }}
+          TARGET_DATE_FORMATTED: ${{ env.TARGET_DATE_FORMATTED }}
+        run: |
+          git add docs/events.json
+          if git diff --staged --quiet; then
+            echo "変更なし。スキップします。"
+            echo "HAS_CHANGES=false" >> $GITHUB_ENV
+          else
+            echo "HAS_CHANGES=true" >> $GITHUB_ENV
+            git commit -m "chore: イベントカレンダーデータ更新 (${TARGET_DATE_FORMATTED})"
+            git push origin "$BRANCH_NAME"
+          fi
+
+      - name: プルリクエスト作成・承認 & マージ
+        if: env.HAS_CHANGES == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: ${{ env.BRANCH_NAME }}
+          TARGET_DATE_FORMATTED: ${{ env.TARGET_DATE_FORMATTED }}
+        run: |
+          PR_URL=$(gh pr create \
+            --title "イベントカレンダーデータ更新 (${TARGET_DATE_FORMATTED})" \
+            --body "## イベントカレンダーデータ更新
+
+          - docs/events.json を更新
+
+          ---
+          > このPRは GitHub Actions により自動作成されました。" \
+            --base main \
+            --head "$BRANCH_NAME")
+
+          if gh pr review "$PR_URL" --approve --body "自動承認します。"; then
+            echo "PR を自動承認しました。"
+          else
+            echo "警告: 自動承認に失敗しました。GITHUB_TOKEN では自己承認できない環境の可能性があります。" >&2
+          fi
+
+          MAX_RETRIES=3
+          RETRY_WAIT=30
+          for i in $(seq 1 $MAX_RETRIES); do
+            if gh pr merge "$PR_URL" --merge --delete-branch; then
+              echo "マージ成功（試行 $i/$MAX_RETRIES）"
+              break
+            fi
+            if [ $i -lt $MAX_RETRIES ]; then
+              echo "マージ失敗（試行 $i/$MAX_RETRIES）。${RETRY_WAIT}秒後にリトライします..."
+              sleep $RETRY_WAIT
+            else
+              echo "マージが ${MAX_RETRIES} 回失敗しました。"
+              exit 1
+            fi
+          done

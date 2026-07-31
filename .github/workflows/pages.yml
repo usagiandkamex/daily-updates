@@ -1,0 +1,88 @@
+name: GitHub Pages デプロイ
+
+# updates/ smallchat/ の記事と docs/events.json から静的サイトを生成し GitHub Pages へデプロイする。
+# 公式 Pages アクションを使う決定論的ワークフローのため通常の GitHub Actions として実装する。
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'updates/**'
+      - 'smallchat/**'
+      - 'scripts/generate_pages_data.py'
+      - 'docs/**'
+  workflow_run:
+    workflows:
+      - "デイリーアップデート"
+      - "テクニカル雑談"
+      - "イベントカレンダー更新"
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v6
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+
+      - name: データ生成 (docs/data.json)
+        run: python scripts/generate_pages_data.py
+
+      - name: GitHub Pages 設定
+        uses: actions/configure-pages@v5
+
+      - name: Pages アーティファクトをアップロード
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url || steps.deployment_r1.outputs.page_url || steps.deployment_r2.outputs.page_url }}
+    steps:
+      - name: GitHub Pages へデプロイ
+        id: deployment
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: デプロイ失敗のため待機中 (再試行 1/2)
+        if: steps.deployment.outcome == 'failure'
+        run: |
+          echo "デプロイが失敗しました。30秒後に再試行します..."
+          sleep 30
+
+      - name: GitHub Pages へデプロイ (再試行 1/2)
+        id: deployment_r1
+        if: steps.deployment.outcome == 'failure'
+        uses: actions/deploy-pages@v4
+        continue-on-error: true
+
+      - name: デプロイ失敗のため待機中 (再試行 2/2)
+        if: steps.deployment.outcome == 'failure' && steps.deployment_r1.outcome == 'failure'
+        run: |
+          echo "デプロイが再度失敗しました。60秒後に最終試行します..."
+          sleep 60
+
+      - name: GitHub Pages へデプロイ (再試行 2/2)
+        id: deployment_r2
+        if: steps.deployment.outcome == 'failure' && steps.deployment_r1.outcome == 'failure'
+        uses: actions/deploy-pages@v4
