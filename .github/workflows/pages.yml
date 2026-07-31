@@ -11,12 +11,10 @@ on:
       - 'scripts/generate_pages_data.py'
       - 'docs/**'
   workflow_run:
-    # 記事は auto-merge がマージした後に main へ入るため、マージ完了後に Pages を再生成する。
-    # デイリー/雑談の完了直後だと PR 未マージで新記事が反映されない。
-    # イベントカレンダーは自身でインラインマージするため完了時点で main が更新済み。
+    # マージは全て auto-merge ワークフローに集約している。マージ完了後に main を反映するため
+    # 自動マージの完了のみを購読する（生成ワークフロー直後だと PR 未マージで反映されない）。
     workflows:
       - "自動マージ"
-      - "イベントカレンダー更新"
     types:
       - completed
   workflow_dispatch:

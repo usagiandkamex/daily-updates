@@ -9,6 +9,7 @@ on:
     workflows:
       - "デイリーアップデート"
       - "テクニカル雑談"
+      - "イベントカレンダー更新"
     types:
       - completed
 

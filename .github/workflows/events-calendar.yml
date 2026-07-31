@@ -84,14 +84,16 @@ jobs:
             git push origin "$BRANCH_NAME"
           fi
 
-      - name: プルリクエスト作成・承認 & マージ
+      - name: プルリクエスト作成
         if: env.HAS_CHANGES == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH_NAME: ${{ env.BRANCH_NAME }}
           TARGET_DATE_FORMATTED: ${{ env.TARGET_DATE_FORMATTED }}
         run: |
-          PR_URL=$(gh pr create \
+          # マージは auto-merge ワークフローに集約するため、ラベルを付けて PR 作成のみ行う。
+          gh label create auto-merge --description "自動マージ対象" --color 0E8A16 --force || true
+          gh pr create \
             --title "イベントカレンダーデータ更新 (${TARGET_DATE_FORMATTED})" \
             --body "## イベントカレンダーデータ更新
 
@@ -100,26 +102,5 @@ jobs:
           ---
           > このPRは GitHub Actions により自動作成されました。" \
             --base main \
-            --head "$BRANCH_NAME")
-
-          if gh pr review "$PR_URL" --approve --body "自動承認します。"; then
-            echo "PR を自動承認しました。"
-          else
-            echo "警告: 自動承認に失敗しました。GITHUB_TOKEN では自己承認できない環境の可能性があります。" >&2
-          fi
-
-          MAX_RETRIES=3
-          RETRY_WAIT=30
-          for i in $(seq 1 $MAX_RETRIES); do
-            if gh pr merge "$PR_URL" --merge --delete-branch; then
-              echo "マージ成功（試行 $i/$MAX_RETRIES）"
-              break
-            fi
-            if [ $i -lt $MAX_RETRIES ]; then
-              echo "マージ失敗（試行 $i/$MAX_RETRIES）。${RETRY_WAIT}秒後にリトライします..."
-              sleep $RETRY_WAIT
-            else
-              echo "マージが ${MAX_RETRIES} 回失敗しました。"
-              exit 1
-            fi
-          done
+            --head "$BRANCH_NAME" \
+            --label auto-merge
