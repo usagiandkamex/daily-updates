@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Daily Updates — 記事詳細">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>Daily Updates</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== Header ===== -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="index.html" class="site-logo">
+        <span class="logo-icon">📰</span>
+        <span class="logo-text">Daily Updates</span>
+      </a>
+      <nav class="site-nav" aria-label="メインナビゲーション">
+        <a href="index.html#latest">Latest</a>
+        <a href="index.html#archive">Archive</a>
+        <a href="index.html#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="section-article">
+      <div class="container">
+        <a href="index.html" class="btn-back">← 一覧に戻る</a>
+        <div id="article-meta" class="article-meta"></div>
+        <article id="article-body" class="article-body">
+          <div class="loading">記事を読み込み中…</div>
+        </article>
+        <div class="article-footer-nav">
+          <a href="index.html" class="btn-back">← 一覧に戻る</a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- ===== Footer ===== -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© 2026 Daily Updates ·
+        <a href="https://github.com/usagiandkamex/daily-updates" target="_blank" rel="noopener">GitHub</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="article.js"></script>
+</body>
+</html>

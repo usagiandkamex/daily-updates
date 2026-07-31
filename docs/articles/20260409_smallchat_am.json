@@ -1,0 +1,18 @@
+{
+  "slug": "20260409_smallchat_am",
+  "date": "20260409",
+  "date_formatted": "2026/04/09",
+  "type": "smallchat_am",
+  "title": "2026/04/09 テクニカル雑談（午前）",
+  "github_url": "https://github.com/usagiandkamex/daily-updates/blob/main/smallchat/20260409_am.md",
+  "tags": [
+    "AI",
+    "Azure",
+    "Microsoft",
+    "クラウド",
+    "セキュリティ"
+  ],
+  "excerpt": "Microsoftは、Windows 11において「コントロールパネル」を完全に廃止し、「設定アプリ」へ統合すると発表しました。この変更により、すべての設定が一元化され、ユーザーインターフェースがよりシンプルで直感的になることを目指していま…",
+  "body": "Windows 11、コントロールパネル廃止へ Azure MigrateがAzure Filesの評価をサポート Microsoftは、Windows 11において「コントロールパネル」を完全に廃止し、「設定アプリ」へ統合すると発表しました。この変更により、すべての設定が一元化され、ユーザーインターフェースがよりシンプルで直感的になることを目指しています。 Azure MigrateでAzure Filesの評価が可能になりました。この機能により、オンプレミスのSMBやNFSファイルの移行計画が効率化されます。",
+  "content": "# 2026/04/09 テクニカル雑談（午前）\n\n## 1. Microsoft\n\n### Windows 11、コントロールパネル廃止へ\n\n**要約**  \nMicrosoftは、Windows 11において「コントロールパネル」を完全に廃止し、「設定アプリ」へ統合すると発表しました。この変更により、すべての設定が一元化され、ユーザーインターフェースがよりシンプルで直感的になることを目指しています。\n\n**影響**  \nエンジニアにとっては、スクリプトや自動化ツールの修正が必要になる可能性があります。特に、既存のプロセスがコントロールパネルを利用している場合、設定アプリへの移行を考慮する必要が出てきます。\n\n**参考リンク**  \n[Windows 11、コントロールパネル廃止へ](https://ascii.jp/elem/000/004/388/4388318/)\n\n---\n\n---\n\n---\n\n## 2. AI\n\n---\n\n---\n\n---\n\n## 3. Azure\n\n---\n\n### Azure MigrateがAzure Filesの評価をサポート\n\n**要約**  \nAzure MigrateでAzure Filesの評価が可能になりました。この機能により、オンプレミスのSMBやNFSファイルの移行計画が効率化されます。\n\n**影響**  \nオンプレミスからクラウドへの移行を計画しているエンジニアにとって、Azure Migrateの新機能は、移行プロセスの計画と実行を大幅に簡素化します。\n\n**参考リンク**  \n[Azure Files assessments are now available using Azure Migrate](https://ascii.jp/elem/000/004/017/4017782/2/)\n\n---\n\n---\n\n## 4. クラウド（AWS / GCP / OCI）\n\n---\n\n---\n\n---\n\n## 5. セキュリティ\n\n---\n\n---\n\n\n"
+}

@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Daily Updates — 最新の IT・ビジネスニュースをデイリーで自動収集・要約">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>Daily Updates</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ===== Header ===== -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#" class="site-logo">
+        <span class="logo-icon">📰</span>
+        <span class="logo-text">Daily Updates</span>
+      </a>
+      <nav class="site-nav" aria-label="メインナビゲーション">
+        <a href="#latest">Latest</a>
+        <a href="#events">Events</a>
+        <a href="#archive">Archive</a>
+        <a href="#about">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- ===== Latest Section ===== -->
+    <section id="latest" class="section-latest">
+      <div class="container">
+        <h2 class="section-title">Latest</h2>
+        <p class="section-subtitle">最新のデイリーアップデート・テクニカル雑談をまとめて確認</p>
+        <div id="latest-grid" class="cards-grid" aria-live="polite">
+          <div class="loading">データを読み込み中…</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Events Calendar Section ===== -->
+    <section id="events" class="section-events">
+      <div class="container">
+        <h2 class="section-title">Events</h2>
+        <p class="section-subtitle">関東・オンライン開催の IT イベントを月次カレンダーで確認できます</p>
+
+        <div id="calendar-widget" class="calendar-widget">
+
+          <!-- Loading state -->
+          <p id="cal-loading" class="loading">イベントデータを読み込み中…</p>
+
+          <!-- Month navigation -->
+          <div class="cal-nav" aria-label="月ナビゲーション">
+            <button type="button" id="cal-prev" class="cal-nav-btn" aria-label="前の月">‹</button>
+            <span id="cal-month-label" class="cal-month-label" aria-live="polite"></span>
+            <button type="button" id="cal-next" class="cal-nav-btn" aria-label="次の月">›</button>
+          </div>
+
+          <!-- Calendar grid -->
+          <div class="cal-grid" role="grid" aria-label="イベントカレンダー">
+            <div class="cal-grid-header" role="row">
+              <div role="columnheader" aria-label="日曜日">日</div>
+              <div role="columnheader" aria-label="月曜日">月</div>
+              <div role="columnheader" aria-label="火曜日">火</div>
+              <div role="columnheader" aria-label="水曜日">水</div>
+              <div role="columnheader" aria-label="木曜日">木</div>
+              <div role="columnheader" aria-label="金曜日">金</div>
+              <div role="columnheader" aria-label="土曜日">土</div>
+            </div>
+            <div id="cal-days" class="cal-days" role="rowgroup"></div>
+          </div>
+
+          <!-- Day detail panel -->
+          <div id="cal-day-panel" class="cal-day-panel" hidden aria-live="polite">
+            <div class="cal-day-panel-header">
+              <span id="cal-day-title" class="cal-day-title"></span>
+              <button id="cal-close-panel" class="cal-close-btn" aria-label="閉じる">✕</button>
+            </div>
+            <ul id="cal-events-list" class="cal-events-list" aria-label="イベント一覧"></ul>
+          </div>
+
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== Archive Section ===== -->
+    <section id="archive" class="section-archive">
+      <div class="container">
+        <h2 class="section-title">Archive</h2>
+        <p class="section-subtitle">過去のアップデートをタグ・日付・種別で絞り込み</p>
+
+        <!-- Filters -->
+        <div class="filters-bar" role="search" aria-label="アーカイブフィルター">
+
+          <div class="filter-row">
+            <span class="filter-label">検索</span>
+            <div class="search-filter">
+              <label for="global-search" class="sr-only">アーカイブを検索</label>
+              <input type="search" id="global-search" class="search-input" placeholder="🔍 キーワードで検索…" autocomplete="off">
+              <button id="clear-search" class="btn-clear" style="display:none" aria-label="検索をクリア">✕ クリア</button>
+            </div>
+          </div>
+
+          <div class="filter-row">
+            <span class="filter-label" id="tag-filter-label">タグ</span>
+            <div id="tag-filters" class="tag-filter-list" role="group" aria-labelledby="tag-filter-label"></div>
+            <button id="clear-tags" class="btn-clear" style="display:none" aria-label="タグフィルターをクリア">✕ クリア</button>
+          </div>
+
+          <div class="filter-row">
+            <span class="filter-label">期間</span>
+            <div class="date-filter">
+              <label for="date-from" class="sr-only">開始日</label>
+              <input type="date" id="date-from" class="date-input" aria-label="開始日">
+              <span class="date-sep" aria-hidden="true">〜</span>
+              <label for="date-to" class="sr-only">終了日</label>
+              <input type="date" id="date-to" class="date-input" aria-label="終了日">
+              <button id="clear-dates" class="btn-clear" style="display:none" aria-label="日付フィルターをクリア">✕ クリア</button>
+            </div>
+          </div>
+
+          <div class="filter-row">
+            <span class="filter-label" id="type-filter-label">種別</span>
+            <div class="type-filter" role="group" aria-labelledby="type-filter-label">
+              <label class="type-checkbox"><input type="checkbox" value="daily" checked> Daily</label>
+              <label class="type-checkbox"><input type="checkbox" value="smallchat_am" checked> SmallChat AM</label>
+              <label class="type-checkbox"><input type="checkbox" value="smallchat_pm" checked> SmallChat PM</label>
+            </div>
+            <button id="clear-types" class="btn-clear" style="display:none" aria-label="種別フィルターをクリア">✕ クリア</button>
+          </div>
+
+          <div class="filter-actions">
+            <button id="clear-all" class="btn-clear-all" style="display:none" aria-label="すべてのフィルターをクリア">🔄 すべてクリア</button>
+          </div>
+
+        </div><!-- /filters-bar -->
+
+        <p id="archive-count" class="archive-count" aria-live="polite"></p>
+        <div id="archive-grid" class="cards-grid" aria-live="polite"></div>
+        <nav id="pagination" class="pagination" aria-label="ページネーション"></nav>
+
+      </div>
+    </section>
+
+    <!-- ===== About Section ===== -->
+    <section id="about" class="section-about">
+      <div class="container">
+        <h2 class="section-title">About</h2>
+        <div class="about-content">
+          <p>
+            このサイトは
+            <a href="https://github.com/usagiandkamex/daily-updates" target="_blank" rel="noopener">
+              daily-updates
+            </a>
+            リポジトリから自動生成されます。
+          </p>
+          <ul>
+            <li><strong>Daily Updates</strong>：毎日 7:30 JST に IT・ビジネス・SNS のニュースを自動収集・要約</li>
+            <li><strong>SmallChat</strong>：1 日 2 回（3:00 / 15:00 JST）SNS 中心の IT 関連話題をカジュアルに紹介</li>
+          </ul>
+          <p>Azure / 技術系 / ビジネス系 / SNS / コミュニティの計 79 ソース（Daily Updates）および SNS / テックブログ中心の 92 ソース（SmallChat）から自動収集しています。</p>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- ===== Footer ===== -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <p>© 2026 Daily Updates ·
+        <a href="https://github.com/usagiandkamex/daily-updates" target="_blank" rel="noopener">GitHub</a>
+      </p>
+      <p id="footer-generated" class="footer-generated"></p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+  <script src="calendar.js"></script>
+</body>
+</html>
