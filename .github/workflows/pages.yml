@@ -11,9 +11,11 @@ on:
       - 'scripts/generate_pages_data.py'
       - 'docs/**'
   workflow_run:
+    # 記事は auto-merge がマージした後に main へ入るため、マージ完了後に Pages を再生成する。
+    # デイリー/雑談の完了直後だと PR 未マージで新記事が反映されない。
+    # イベントカレンダーは自身でインラインマージするため完了時点で main が更新済み。
     workflows:
-      - "デイリーアップデート"
-      - "テクニカル雑談"
+      - "自動マージ"
       - "イベントカレンダー更新"
     types:
       - completed
@@ -45,10 +47,10 @@ jobs:
         run: python scripts/generate_pages_data.py
 
       - name: GitHub Pages 設定
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6
 
       - name: Pages アーティファクトをアップロード
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: docs/
 
@@ -61,7 +63,7 @@ jobs:
     steps:
       - name: GitHub Pages へデプロイ
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         continue-on-error: true
 
       - name: デプロイ失敗のため待機中 (再試行 1/2)
@@ -73,7 +75,7 @@ jobs:
       - name: GitHub Pages へデプロイ (再試行 1/2)
         id: deployment_r1
         if: steps.deployment.outcome == 'failure'
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
         continue-on-error: true
 
       - name: デプロイ失敗のため待機中 (再試行 2/2)
@@ -85,4 +87,4 @@ jobs:
       - name: GitHub Pages へデプロイ (再試行 2/2)
         id: deployment_r2
         if: steps.deployment.outcome == 'failure' && steps.deployment_r1.outcome == 'failure'
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
