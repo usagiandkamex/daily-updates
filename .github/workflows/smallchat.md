@@ -35,6 +35,8 @@ network:
     - python
     - news.google.com
     - microsoft.com
+    - azure.microsoft.com
+    - devblogs.microsoft.com
     - itmedia.co.jp
     - gigazine.net
     - publickey1.jp
@@ -55,11 +57,18 @@ network:
     - nhk.or.jp
     - toyokeizai.net
     - bbci.co.uk
+    - feeds.bbci.co.uk
     - cnbc.com
+    - search.cnbc.com
     - dj.com
+    - feeds.a.dj.com
     - hatena.ne.jp
     - reddit.com
     - qiita.com
+    - aws.amazon.com
+    - cloudblog.withgoogle.com
+    - blog.google
+    - github.blog
 
 runtimes:
   python:
