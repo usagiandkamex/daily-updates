@@ -25,6 +25,7 @@ FEEDS = {
     "azure": [
         {"name": "Azure Release Communications", "url": "https://www.microsoft.com/releasecommunications/api/v2/azure/rss"},
         {"name": "Azure Blog", "url": "https://azure.microsoft.com/en-us/blog/feed/"},
+        {"name": "Azure DevOps Blog", "url": "https://devblogs.microsoft.com/devops/feed/"},
         {"name": "Google News Azure", "url": "https://news.google.com/rss/search?q=Azure+%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88&hl=ja&gl=JP&ceid=JP:ja"},
     ],
     # --- 技術系 (日本語) ---
@@ -52,6 +53,12 @@ FEEDS = {
         {"name": "ZDNet", "url": "https://www.zdnet.com/news/rss.xml"},
         {"name": "Dev.to", "url": "https://dev.to/feed"},
         {"name": "Slashdot", "url": "https://slashdot.org/index.rss"},
+        {"name": "AWS News Blog", "url": "https://aws.amazon.com/blogs/aws/feed/"},
+        {"name": "AWS What's New", "url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/"},
+        {"name": "Google Cloud Blog", "url": "https://cloudblog.withgoogle.com/rss/"},
+        {"name": "GitHub Blog", "url": "https://github.blog/feed/"},
+        {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/"},
+        {"name": "InfoQ", "url": "https://feed.infoq.com/"},
     ],
     # --- ビジネス系 (日本語) ---
     "business_ja": [
