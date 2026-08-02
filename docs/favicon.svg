@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background rounded square -->
+  <rect width="32" height="32" rx="6" fill="#0969da"/>
+  <!-- Paper body -->
+  <rect x="6" y="5" width="20" height="22" rx="2" fill="#ffffff"/>
+  <!-- Headline bar -->
+  <rect x="9" y="9" width="14" height="3" rx="1" fill="#0969da"/>
+  <!-- Body text lines -->
+  <rect x="9" y="14" width="14" height="1.5" rx="0.75" fill="#c8d0da"/>
+  <rect x="9" y="17" width="11" height="1.5" rx="0.75" fill="#c8d0da"/>
+  <rect x="9" y="20" width="12" height="1.5" rx="0.75" fill="#c8d0da"/>
+  <rect x="9" y="23" width="8"  height="1.5" rx="0.75" fill="#c8d0da"/>
+</svg>
