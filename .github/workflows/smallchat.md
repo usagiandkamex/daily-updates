@@ -27,13 +27,17 @@ engine: copilot
 permissions:
   contents: read
 
-# pip(PyPI) と収集対象の RSS フィードドメインのみ egress を許可する。
+# pip(PyPI) と収集対象の RSS フィードドメイン／ecosystem のみ egress を許可する。
+# Google News RSS の取得と URL デコードには chrome ecosystem
+# （*.google.com / *.googleapis.com / *.gvt1.com への egress）が必要。
+# 個別ドメインの列挙ではデコードが不安定になり収集が失敗するため、
+# 収集を安定して動作させることを目的に、あえて chrome ecosystem をまとめて許可している。
 # リンク検証は行わないため、任意の記事ホストへのアクセスは不要。
 network:
   allowed:
     - defaults
     - python
-    - news.google.com
+    - chrome
     - microsoft.com
     - azure.microsoft.com
     - devblogs.microsoft.com
