@@ -25,6 +25,8 @@ network:
     - python
     - news.google.com
     - microsoft.com
+    - azure.microsoft.com
+    - devblogs.microsoft.com
     - itmedia.co.jp
     - gigazine.net
     - publickey1.jp
@@ -35,6 +37,7 @@ network:
     - techcrunch.com
     - theverge.com
     - arstechnica.com
+    - feeds.arstechnica.com
     - hnrss.org
     - technologyreview.com
     - wired.com
@@ -42,11 +45,19 @@ network:
     - zdnet.com
     - dev.to
     - slashdot.org
+    - aws.amazon.com
+    - cloudblog.withgoogle.com
+    - github.blog
+    - blog.google
+    - feed.infoq.com
     - nhk.or.jp
     - toyokeizai.net
     - bbci.co.uk
+    - feeds.bbci.co.uk
     - cnbc.com
+    - search.cnbc.com
     - dj.com
+    - feeds.a.dj.com
     - hatena.ne.jp
     - reddit.com
     - qiita.com
