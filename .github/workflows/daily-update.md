@@ -3,8 +3,8 @@ name: デイリーアップデート
 description: RSS フィードから収集したニュースを元に日次のデイリーアップデート記事を生成し PR を作成する
 on:
   schedule:
-    # 毎日 8:00 JST (= 23:00 UTC 前日)
-    - cron: '0 23 * * *'
+    # 毎日 7:30 JST 前後（6:30〜8:30）に分散し、9:00までの完了を目指す
+    - cron: daily around 7:30 utc+9
   workflow_dispatch:
     inputs:
       target_date:
@@ -17,13 +17,14 @@ engine: copilot
 permissions:
   contents: read
 
-# pip(PyPI) と収集対象の RSS フィードドメインのみ egress を許可する。
+# pip(PyPI) と収集対象の RSS フィードドメイン／ecosystem のみ egress を許可する。
+# Google News は chrome ecosystem に含まれる。
 # リンク検証は行わないため、任意の記事ホストへのアクセスは不要。
 network:
   allowed:
     - defaults
     - python
-    - news.google.com
+    - chrome
     - microsoft.com
     - itmedia.co.jp
     - gigazine.net
