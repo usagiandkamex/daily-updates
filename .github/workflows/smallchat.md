@@ -68,7 +68,7 @@ network:
     - aws.amazon.com
     - cloudblog.withgoogle.com
     - blog.google
-    - github
+    - github.blog
 
 runtimes:
   python:
