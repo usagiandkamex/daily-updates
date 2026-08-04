@@ -33,6 +33,7 @@ FEEDS = {
         {"name": "Qiita Microsoft", "url": "https://qiita.com/tags/microsoft/feed"},
         {"name": "Google News Microsoft Japan", "url": "https://news.google.com/rss/search?q=Microsoft+%E6%97%A5%E6%9C%AC&hl=ja&gl=JP&ceid=JP:ja"},
         {"name": "Google News Windows", "url": "https://news.google.com/rss/search?q=Windows+update+new&hl=en&gl=US&ceid=US:en"},
+        {"name": "GitHub Blog", "url": "https://github.blog/feed/"},
     ],
     # --- AI ---
     "ai": [
@@ -46,6 +47,7 @@ FEEDS = {
         {"name": "Qiita AI", "url": "https://qiita.com/tags/ai/feed"},
         {"name": "Zenn AI", "url": "https://zenn.dev/topics/ai/feed"},
         {"name": "Google News AI Business", "url": "https://news.google.com/rss/search?q=artificial+intelligence+business&hl=en&gl=US&ceid=US:en"},
+        {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/"},
     ],
     # --- Azure ---
     "azure": [
@@ -85,6 +87,9 @@ FEEDS = {
         {"name": "Google News OCI", "url": "https://news.google.com/rss/search?q=Oracle+Cloud+Infrastructure&hl=en&gl=US&ceid=US:en"},
         {"name": "Google News クラウド JP", "url": "https://news.google.com/rss/search?q=AWS+GCP+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89&hl=ja&gl=JP&ceid=JP:ja"},
         {"name": "DevelopersIO AWS", "url": "https://dev.classmethod.jp/feed/"},
+        {"name": "AWS News Blog", "url": "https://aws.amazon.com/blogs/aws/feed/"},
+        {"name": "AWS What's New", "url": "https://aws.amazon.com/about-aws/whats-new/recent/feed/"},
+        {"name": "Google Cloud Blog", "url": "https://cloudblog.withgoogle.com/rss/"},
     ],
 }
 

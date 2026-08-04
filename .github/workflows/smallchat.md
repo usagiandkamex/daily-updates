@@ -3,10 +3,10 @@ name: テクニカル雑談
 description: SNS 中心の RSS フィードから収集した話題を元にテクニカル雑談記事を生成し PR を作成する
 on:
   schedule:
-    # 毎日 3:00 JST (= 18:00 UTC 前日)
-    - cron: '0 18 * * *'
-    # 毎日 15:00 JST (= 6:00 UTC)
-    - cron: '0 6 * * *'
+    # 約3:00 JST (±1時間で分散)。fuzzy指定で負荷スパイクを回避
+    - cron: daily around 3am utc+9
+    # 約15:00 JST (±1時間で分散)
+    - cron: daily around 3pm utc+9
   workflow_dispatch:
     inputs:
       target_date:
@@ -36,6 +36,8 @@ network:
     - python
     - chrome
     - microsoft.com
+    - azure.microsoft.com
+    - devblogs.microsoft.com
     - itmedia.co.jp
     - gigazine.net
     - publickey1.jp
@@ -56,11 +58,18 @@ network:
     - nhk.or.jp
     - toyokeizai.net
     - bbci.co.uk
+    - feeds.bbci.co.uk
     - cnbc.com
+    - search.cnbc.com
     - dj.com
+    - feeds.a.dj.com
     - hatena.ne.jp
     - reddit.com
     - qiita.com
+    - aws.amazon.com
+    - cloudblog.withgoogle.com
+    - blog.google
+    - github.blog
 
 runtimes:
   python:
