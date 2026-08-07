@@ -35,19 +35,23 @@ FEEDS = {
         {"name": "Google News Windows", "url": "https://news.google.com/rss/search?q=Windows+update+new&hl=en&gl=US&ceid=US:en"},
         {"name": "GitHub Blog", "url": "https://github.blog/feed/"},
     ],
-    # --- AI ---
+    # --- AI (SNS/話題中心: 新モデル・エージェント・MCP・Skill 等) ---
+    # Anthropic(ClaudeAI) / OpenAI / Meta・Google系(LocalLLaMA) の話題を SNS から拾う。
     "ai": [
-        {"name": "Reddit MachineLearning", "url": "https://www.reddit.com/r/MachineLearning/.rss"},
         {"name": "Reddit LocalLLaMA", "url": "https://www.reddit.com/r/LocalLLaMA/.rss"},
+        {"name": "Reddit ClaudeAI", "url": "https://www.reddit.com/r/ClaudeAI/.rss"},
+        {"name": "Reddit OpenAI", "url": "https://www.reddit.com/r/OpenAI/.rss"},
+        {"name": "Reddit AI_Agents", "url": "https://www.reddit.com/r/AI_Agents/.rss"},
+        {"name": "Reddit LLMDevs", "url": "https://www.reddit.com/r/LLMDevs/.rss"},
+        {"name": "Reddit mcp", "url": "https://www.reddit.com/r/mcp/.rss"},
         {"name": "はてなブックマーク AI", "url": "https://b.hatena.ne.jp/search/tag?q=AI&mode=rss"},
         {"name": "X(Twitter) AI話題", "url": "https://news.google.com/rss/search?q=AI+%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD+%E8%A9%B1%E9%A1%8C&hl=ja&gl=JP&ceid=JP:ja"},
+        {"name": "X(Twitter) AIエージェント話題", "url": "https://news.google.com/rss/search?q=AI+%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+%E8%A9%B1%E9%A1%8C&hl=ja&gl=JP&ceid=JP:ja"},
+        {"name": "X(Twitter) MCP話題", "url": "https://news.google.com/rss/search?q=MCP+Model+Context+Protocol+%E8%A9%B1%E9%A1%8C&hl=ja&gl=JP&ceid=JP:ja"},
+        {"name": "X(Twitter) Claude Skill話題", "url": "https://news.google.com/rss/search?q=Claude+Skill+%E8%A9%B1%E9%A1%8C&hl=ja&gl=JP&ceid=JP:ja"},
         {"name": "Hacker News AI", "url": "https://hnrss.org/best?q=AI+LLM"},
-        {"name": "Reddit Artificial", "url": "https://www.reddit.com/r/artificial/.rss"},
-        {"name": "Reddit OpenAI", "url": "https://www.reddit.com/r/OpenAI/.rss"},
         {"name": "Qiita AI", "url": "https://qiita.com/tags/ai/feed"},
         {"name": "Zenn AI", "url": "https://zenn.dev/topics/ai/feed"},
-        {"name": "Google News AI Business", "url": "https://news.google.com/rss/search?q=artificial+intelligence+business&hl=en&gl=US&ceid=US:en"},
-        {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/"},
     ],
     # --- Azure ---
     "azure": [
