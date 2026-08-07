@@ -41,6 +41,22 @@ FEEDS = {
         {"name": "日経クロステック IT", "url": "https://xtech.nikkei.com/rss/xtech-it.rdf"},
         {"name": "Impress Watch", "url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf"},
     ],
+    # --- AI (新モデル / エージェント / サービス / MCP / Skill 等のニュース) ---
+    # 主要プレイヤー(Anthropic / OpenAI / Google / Meta / Microsoft)を確実にカバーする。
+    "ai": [
+        {"name": "OpenAI News", "url": "https://openai.com/news/rss.xml"},
+        {"name": "Google AI Blog", "url": "https://blog.google/technology/ai/rss/"},
+        {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml"},
+        {"name": "MIT Technology Review AI", "url": "https://www.technologyreview.com/feed/"},
+        {"name": "InfoQ", "url": "https://feed.infoq.com/"},
+        {"name": "Google News Anthropic / Claude", "url": "https://news.google.com/rss/search?q=Anthropic+Claude+AI&hl=en&gl=US&ceid=US:en"},
+        {"name": "Google News Meta / Llama", "url": "https://news.google.com/rss/search?q=Meta+AI+Llama&hl=en&gl=US&ceid=US:en"},
+        {"name": "Google News Microsoft Copilot", "url": "https://news.google.com/rss/search?q=Microsoft+Copilot+AI&hl=en&gl=US&ceid=US:en"},
+        {"name": "Google News MCP", "url": "https://news.google.com/rss/search?q=%22Model+Context+Protocol%22+MCP+AI&hl=en&gl=US&ceid=US:en"},
+        {"name": "Google News AI エージェント", "url": "https://news.google.com/rss/search?q=AI+%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88+agent&hl=ja&gl=JP&ceid=JP:ja"},
+        {"name": "Google News 新AIモデル / LLM", "url": "https://news.google.com/rss/search?q=%E6%96%B0%E3%81%97%E3%81%84+AI+%E3%83%A2%E3%83%87%E3%83%AB+LLM+%E3%83%AA%E3%83%AA%E3%83%BC%E3%82%B9&hl=ja&gl=JP&ceid=JP:ja"},
+        {"name": "Google News AI サービス / ソリューション", "url": "https://news.google.com/rss/search?q=AI+%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9+%E3%82%BD%E3%83%AA%E3%83%A5%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3+%E4%BC%81%E6%A5%AD&hl=ja&gl=JP&ceid=JP:ja"},
+    ],
     # --- 技術系 (英語) ---
     "tech_en": [
         {"name": "TechCrunch", "url": "https://techcrunch.com/feed/"},
@@ -109,6 +125,7 @@ HTTP_HEADERS = {
 # カテゴリ別の記事数上限（出力サイズ制御用）
 MAX_ARTICLES = {
     "azure": 20,
+    "ai": 25,
     "tech": 30,
     "business": 30,
     "sns": 20,
@@ -216,6 +233,10 @@ def main():
     azure_news = _limit_articles(fetch_category("azure", since), "azure")
     print(f"  → 合計: {len(azure_news)} 件")
 
+    print("\n[AI]")
+    ai_news = _limit_articles(fetch_category("ai", since), "ai")
+    print(f"  → 合計: {len(ai_news)} 件")
+
     print("\n[技術系 日本語]")
     tech_ja = fetch_category("tech_ja", since)
     print(f"  → 合計: {len(tech_ja)} 件")
@@ -245,6 +266,7 @@ def main():
         "collected_since": since.isoformat(),
         "categories": {
             "azure": azure_news,
+            "ai": ai_news,
             "tech": tech_news,
             "business": business_news,
             "sns": sns_news,
@@ -254,7 +276,7 @@ def main():
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    total = len(azure_news) + len(tech_news) + len(business_news) + len(sns_news)
+    total = len(azure_news) + len(ai_news) + len(tech_news) + len(business_news) + len(sns_news)
     print(f"\n収集完了: {output_path} （合計 {total} 件）")
 
 
