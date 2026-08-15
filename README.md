@@ -53,6 +53,7 @@ AI 生成を伴わないため通常の GitHub Actions（`events-calendar.yml`�
 | `.github/workflows/auto-merge.yml` | `auto-merge` ラベル付き PR を自動マージする companion ワークフロー |
 | `.github/workflows/events-calendar.yml` | connpass イベントを収集し `docs/events.json` を更新（決定論的） |
 | `.github/workflows/pages.yml` | 静的サイトを生成し GitHub Pages へデプロイ（決定論的） |
+| `.github/workflows/recompile.yml` | 週次で `gh aw compile` を実行し `.lock.yml` のドリフトを検知・追従（決定論的） |
 | `scripts/generate_daily_update.py` | デイリー用のニュース収集スクリプト（JSON 出力） |
 | `scripts/generate_smallchat.py` | 雑談用のニュース収集スクリプト（JSON 出力） |
 | `scripts/generate_events_calendar.py` | connpass イベント収集スクリプト（`docs/events.json` 出力） |
