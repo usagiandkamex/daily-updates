@@ -1,0 +1,58 @@
+name: ワークフロー再コンパイル
+
+# gh aw のコンパイラ更新やアクション SHA / コンテナ digest の再取得によって
+# .lock.yml が古くなる（ドリフトする）のを週次で検知・追従する。
+# gh CLI は GitHub-hosted runner にプリインストール済みだが gh-aw 拡張は未導入のため、
+# ジョブ内で拡張をインストールしてから gh aw compile を実行する。
+# 差分があれば auto-merge ラベル付き PR を作成し、companion の auto-merge ワークフローでマージする。
+on:
+  schedule:
+    - cron: '0 21 * * 0'  # 毎週月曜 06:00 JST (日曜 21:00 UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: recompile
+  cancel-in-progress: false
+
+jobs:
+  recompile:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v6
+        with:
+          # .lock.yml (.github/workflows 配下) の push には workflow 権限を持つ PAT が必要
+          token: ${{ secrets.GH_AW_GITHUB_TOKEN }}
+
+      - name: gh-aw 拡張をインストール
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh extension install github/gh-aw --force
+
+      - name: ワークフローを再コンパイル
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh aw compile
+
+      - name: 差分があれば PR を作成
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GH_AW_GITHUB_TOKEN }}
+          branch: chore/recompile-workflows
+          delete-branch: true
+          base: main
+          labels: auto-merge
+          commit-message: 'chore: gh aw compile による .lock.yml の再生成'
+          title: 'ワークフロー再コンパイル (gh aw compile)'
+          body: |
+            gh aw compile による定期再コンパイルで検出された差分です。
+
+            - 対象: `.github/workflows/*.lock.yml`（および `.github/aw/actions-lock.json`）
+            - 契機: 週次スケジュール / 手動実行
+            - gh-aw: 最新版を使用
+
+            `auto-merge` ラベルにより companion ワークフローで自動マージされます。
