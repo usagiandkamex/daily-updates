@@ -81,6 +81,7 @@ safe-outputs:
     title-prefix: "[daily] "
     labels: [daily-update, auto-merge]
     draft: false
+    github-token: ${{ secrets.GITHUB_TOKEN }}
 
 timeout-minutes: 20
 ---
