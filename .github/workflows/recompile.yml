@@ -4,7 +4,8 @@ name: ワークフロー再コンパイル
 # .lock.yml が古くなる（ドリフトする）のを週次で検知・追従する。
 # gh CLI は GitHub-hosted runner にプリインストール済みだが gh-aw 拡張は未導入のため、
 # ジョブ内で拡張をインストールしてから gh aw compile を実行する。
-# 差分があれば auto-merge ラベル付き PR を作成し、companion の auto-merge ワークフローでマージする。
+# main では差分があれば auto-merge ラベル付き PR を作成し、companion の auto-merge ワークフローでマージする。
+# それ以外のブランチでは差分を直接コミット・プッシュする。
 on:
   schedule:
     - cron: '0 21 * * 0'  # 毎週月曜 06:00 JST (日曜 21:00 UTC)
@@ -27,6 +28,7 @@ jobs:
         with:
           # .lock.yml (.github/workflows 配下) の push には workflow 権限を持つ PAT が必要
           token: ${{ secrets.GH_AW_GITHUB_TOKEN }}
+          ref: ${{ github.ref }}
 
       - name: gh-aw 拡張をインストール
         env:
@@ -38,7 +40,24 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: gh aw compile
 
-      - name: 差分があれば PR を作成
+      - name: 差分があれば実行ブランチへ直接反映
+        if: ${{ github.ref != 'refs/heads/main' && startsWith(github.ref, 'refs/heads/') }}
+        env:
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          if git diff --quiet; then
+            echo "再コンパイルによる差分はありません。"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add --all
+          git commit -m 'chore: gh aw compile による .lock.yml の再生成'
+          git push origin "HEAD:${BRANCH}"
+
+      - name: main で差分があれば PR を作成
+        if: ${{ github.ref == 'refs/heads/main' }}
         uses: peter-evans/create-pull-request@v7
         with:
           token: ${{ secrets.GH_AW_GITHUB_TOKEN }}
