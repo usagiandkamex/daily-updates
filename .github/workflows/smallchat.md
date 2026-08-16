@@ -87,6 +87,7 @@ safe-outputs:
     title-prefix: "[smallchat] "
     labels: [smallchat, auto-merge]
     draft: false
+    github-token: ${{ secrets.GITHUB_TOKEN }}
 
 timeout-minutes: 20
 ---
