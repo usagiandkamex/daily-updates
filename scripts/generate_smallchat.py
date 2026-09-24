@@ -14,7 +14,7 @@ from datetime import datetime, timedelta, timezone
 
 import feedparser
 import requests
-from googlenewsdecoder import new_decoderv1
+from googlenewsdecoder import gnewsdecoder
 
 JST = timezone(timedelta(hours=9))
 
@@ -113,8 +113,8 @@ def _resolve_google_news_url(url: str) -> str:
     if "news.google.com/rss/articles/" not in url:
         return url
     try:
-        result = new_decoderv1(url)
-        if result.get("status") and result.get("decoded_url"):
+        result = gnewsdecoder(url)
+        if result.get("success") and result.get("decoded_url"):
             return result["decoded_url"]
     except Exception as e:
         print(f"    URL 解決失敗 ({url}): {e}")
