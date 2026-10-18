@@ -3,8 +3,8 @@ name: デイリーアップデート
 description: RSS フィードから収集したニュースを元に日次のデイリーアップデート記事を生成し PR を作成する
 on:
   schedule:
-    # 毎日 7:30 JST 前後（6:30〜8:30）に分散し、9:00までの完了を目指す
-    - cron: daily around 7:30 utc+9
+    # 毎日 7:00 JST 前後（6:00〜8:00）に分散し、9:00までの完了を目指す
+    - cron: daily around 7:00 utc+9
   workflow_dispatch:
     inputs:
       target_date:
