@@ -38,12 +38,35 @@ jobs:
           # マージ失敗時は最大3回リトライ（GitHub側の一時的な競合やレート制限が解消されるよう90秒待機）
           MAX_RETRIES=3
           RETRY_WAIT=90
+          MAX_MERGE_WAIT=60
+          MERGE_WAIT_INTERVAL=30
           for PR in $PRS; do
             echo "PR #${PR} をマージします"
             for i in $(seq 1 $MAX_RETRIES); do
               if gh pr merge "$PR" --repo "$REPO" \
                 --merge --delete-branch --auto; then
-                echo "マージ成功または自動マージ設定済み（試行 $i/$MAX_RETRIES）"
+                for wait in $(seq 1 $MAX_MERGE_WAIT); do
+                  if ! STATE=$(gh pr view "$PR" --repo "$REPO" --json state -q '.state'); then
+                    echo "PR #${PR} の状態を確認できません。"
+                    exit 1
+                  fi
+                  if [ "$STATE" = "MERGED" ]; then
+                    echo "マージ成功（試行 $i/$MAX_RETRIES）"
+                    break
+                  fi
+                  if [ "$STATE" = "CLOSED" ]; then
+                    echo "PR #${PR} はマージされずにクローズされました。"
+                    exit 1
+                  fi
+                  if [ "$wait" -lt "$MAX_MERGE_WAIT" ]; then
+                    echo "PR #${PR} はまだマージされていません。${MERGE_WAIT_INTERVAL}秒後に再確認します..."
+                    sleep "$MERGE_WAIT_INTERVAL"
+                  fi
+                done
+                if [ "$STATE" != "MERGED" ]; then
+                  echo "PR #${PR} は ${MAX_MERGE_WAIT} 回の確認後もマージされていません。"
+                  exit 1
+                fi
                 break
               fi
               if gh pr merge "$PR" --repo "$REPO" --merge --delete-branch; then
