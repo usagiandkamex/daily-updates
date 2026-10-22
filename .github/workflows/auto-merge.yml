@@ -41,6 +41,11 @@ jobs:
           for PR in $PRS; do
             echo "PR #${PR} をマージします"
             for i in $(seq 1 $MAX_RETRIES); do
+              if gh pr merge "$PR" --repo "$REPO" \
+                --merge --delete-branch --auto; then
+                echo "マージ成功または自動マージ設定済み（試行 $i/$MAX_RETRIES）"
+                break
+              fi
               if gh pr merge "$PR" --repo "$REPO" --merge --delete-branch; then
                 echo "マージ成功（試行 $i/$MAX_RETRIES）"
                 break
