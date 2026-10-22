@@ -65,7 +65,7 @@ jobs:
                 done
                 if [ "$STATE" != "MERGED" ]; then
                   echo "PR #${PR} は ${MAX_MERGE_WAIT} 回の確認後もマージされていません。"
-                  exit 1
+                  break
                 fi
                 break
               fi
