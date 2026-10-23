@@ -17,6 +17,9 @@ on:
       - "自動マージ"
     types:
       - completed
+  schedule:
+    # 自動マージの待機時間を超えてからマージされた PR も反映する。
+    - cron: '17 * * * *'
   workflow_dispatch:
 
 permissions:
