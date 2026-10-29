@@ -32,6 +32,8 @@ network:
     - azure.microsoft.com
     - devblogs.microsoft.com
     - blogs.windows.com
+    - code.visualstudio.com
+    - techcommunity.microsoft.com
     - itmedia.co.jp
     - gigazine.net
     - publickey1.jp
@@ -133,8 +135,8 @@ timeout-minutes: 20
 2 セクションは 5〜6 個を目安とし、該当する技術アップデートが少ない場合は実際の件数のみ掲載する。該当情報がなければ「対象期間の技術アップデート情報なし」と明記し、件数合わせの捏造や古い情報の流用はしない。
 1〜6 セクションの各トピックは「見出し」「要約」「影響」「リンク」の 4 項目で構成し、各項目の間には必ず空行を入れる。
 
-- **1. Azure アップデート情報** — `azure` カテゴリから Azure サービスの新機能・更新情報。
-- **2. Microsoft アップデート情報** — `microsoft` カテゴリを中心に、Azure 以外の Microsoft 製品の技術的なアップデートを紹介する。Microsoft Copilot・Windows・GitHub（GitHub Copilot・Actions など）の新機能・仕様変更・更新情報を対象とし、企業動向や一般的な活用記事は含めない。
+- **1. Azure アップデート情報** — `azure` カテゴリから Azure サービスの新機能・更新情報（AVD は 2 に掲載）。
+- **2. Microsoft アップデート情報** — `microsoft` カテゴリを中心に、Microsoft 製品全般の技術的なアップデートを紹介する。Microsoft Copilot・Windows・GitHub（GitHub Copilot・Actions など）・VS Code（Visual Studio Code）・AVD（Azure Virtual Desktop）などを対象とし、例示した製品に限定しない。新機能・仕様変更・更新情報を取り上げ、企業動向や一般的な活用記事は含めない。AVD 以外の Azure サービスは 1 に掲載する。
 - **3. AI トピック** — `ai` カテゴリから、新しい AI モデル・エージェント・サービス・ソリューション・MCP 連携・Skill などのニュース。
 - **4. ニュースで話題のテーマ** — IT・テクノロジー関連のトピック。`tech` および `business` カテゴリの
   うち IT 関連（IT企業の決算・AI以外の技術・半導体など）をここに集める。
@@ -145,7 +147,7 @@ timeout-minutes: 20
   収集済みイベントの中から代表的なものを数件ピックアップして紹介する。`vendor_event` が付かないイベントは
   コミュニティイベントとして扱い、`vendor_event: true` は参加レポート/ベンダーカンファレンス関連として扱う。
 
-Azure 関連の更新（Azure 向け Copilot を含む）は 1 に掲載する。`ai`・`tech` 等にも含まれる Azure 以外の Microsoft 製品の技術アップデートは 2 を優先し、同じ話題を他セクションに重複掲載しない。
+AVD（Azure Virtual Desktop）の更新は、収集カテゴリが `azure` の場合も 2 に集約する。それ以外の Azure サービスの更新（Azure 向け Copilot を含む）は 1 に掲載する。`ai`・`tech` 等にも含まれる Microsoft 製品（AVD を含み、それ以外の Azure サービスを除く）の技術アップデートは 2 を優先し、同じ話題を他セクションに重複掲載しない。
 
 要約は簡潔かつ具体的に。1〜6 セクションの影響はビジネスや開発者にとっての意味を記載する。
 
@@ -168,7 +170,7 @@ Azure 関連の更新（Azure 向け Copilot を含む）は 1 に掲載する�
 
 ## 2. Microsoft アップデート情報
 
-（5〜6個が目安。Azure 以外の Microsoft Copilot・Windows・GitHub などの技術アップデート。見出し・要約・影響・リンク。少ない場合や該当情報がない場合は上記ルールに従う）
+（5〜6個が目安。Microsoft Copilot・Windows・GitHub・VS Code・AVD など、Microsoft 製品全般の技術アップデート。Azure サービスの分類は上記ルールに従う。見出し・要約・影響・リンク。少ない場合や該当情報がない場合は上記ルールに従う）
 
 ## 3. AI トピック
 

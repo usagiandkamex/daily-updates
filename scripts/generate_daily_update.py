@@ -28,11 +28,13 @@ FEEDS = {
         {"name": "Azure DevOps Blog", "url": "https://devblogs.microsoft.com/devops/feed/"},
         {"name": "Google News Azure", "url": "https://news.google.com/rss/search?q=Azure+%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88&hl=ja&gl=JP&ceid=JP:ja"},
     ],
-    # --- Microsoft (Azure 以外の製品アップデート) ---
+    # --- Microsoft (AVD を含む製品アップデート) ---
     "microsoft": [
         {"name": "Microsoft Copilot Blog", "url": "https://www.microsoft.com/en-us/copilot/blog/feed/"},
         {"name": "Windows Blog", "url": "https://blogs.windows.com/feed/"},
         {"name": "GitHub Changelog", "url": "https://github.blog/changelog/feed/"},
+        {"name": "VS Code Blog", "url": "https://code.visualstudio.com/feed.xml"},
+        {"name": "Azure Virtual Desktop Blog", "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog"},
     ],
     # --- 技術系 (日本語) ---
     "tech_ja": [
@@ -131,7 +133,7 @@ HTTP_HEADERS = {
 # カテゴリ別の記事数上限（出力サイズ制御用）
 MAX_ARTICLES = {
     "azure": 20,
-    "microsoft": 30,
+    "microsoft": 50,
     "ai": 25,
     "tech": 30,
     "business": 30,
