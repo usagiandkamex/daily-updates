@@ -11,14 +11,19 @@ RSS/Atom フィードからのニュース**収集**は Python スクリプト�
 
 ### デイリーアップデート（毎日 5:00 JST 前後、8:00までの完了を目標）
 
-1. **ニュース収集** — `scripts/generate_daily_update.py` が 53 の RSS/Atom フィード
-   （Azure・技術系・ビジネス系・SNS）から最新ニュースを取得し JSON 出力
+1. **ニュース収集** — `scripts/generate_daily_update.py` が 77 の RSS/Atom フィード
+   （Azure・Microsoft・AI・技術系・ビジネス系・SNS）から最新ニュースを取得し JSON 出力
 2. **記事執筆** — エージェントが JSON を元に日本語記事を執筆し `updates/YYYYMMDD.md` を作成
 3. **PR 作成 & 自動マージ** — `main` への PR を作成し、`auto-merge` ラベルで自動マージ
 
-生成記事の構成: 1. Azure アップデート情報 / 2. ニュースで話題のテーマ / 3. SNSで話題のテーマ /
-4. ビジネスホットトピック / 5. コミュニティイベント情報（東京・神奈川）および大手ベンダー・大規模カンファレンス
-（1〜4 は各 5〜6 トピック、読了目安 約10分）
+生成記事の構成: 1. Azure アップデート情報 / 2. Microsoft アップデート情報 / 3. AI トピック /
+4. ニュースで話題のテーマ / 5. SNSで話題のテーマ / 6. ビジネスホットトピック /
+7. コミュニティイベント情報（東京・神奈川）および大手ベンダー・大規模カンファレンス
+（1〜6 は各 5〜6 トピック、2 は情報が少ない場合は実際の件数のみ、記事全体の読了目安 約10分）
+
+Microsoft アップデート情報では、Microsoft Copilot・Windows・GitHub・VS Code（Visual Studio Code）・
+AVD（Azure Virtual Desktop）など、Microsoft 製品全般の技術的な更新をまとめます。
+AVD は Microsoft 欄に集約し、それ以外の Azure サービスは Azure 欄に掲載して重複を避けます。
 
 ### テクニカル雑談（毎日 3:00 / 15:00 JST）
 

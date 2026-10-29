@@ -28,6 +28,14 @@ FEEDS = {
         {"name": "Azure DevOps Blog", "url": "https://devblogs.microsoft.com/devops/feed/"},
         {"name": "Google News Azure", "url": "https://news.google.com/rss/search?q=Azure+%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88&hl=ja&gl=JP&ceid=JP:ja"},
     ],
+    # --- Microsoft (AVD を含む製品アップデート) ---
+    "microsoft": [
+        {"name": "Microsoft Copilot Blog", "url": "https://www.microsoft.com/en-us/copilot/blog/feed/"},
+        {"name": "Windows Blog", "url": "https://blogs.windows.com/feed/"},
+        {"name": "GitHub Changelog", "url": "https://github.blog/changelog/feed/"},
+        {"name": "VS Code Blog", "url": "https://code.visualstudio.com/feed.xml"},
+        {"name": "Azure Virtual Desktop Blog", "url": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/rss/board?board.id=AzureVirtualDesktopBlog"},
+    ],
     # --- 技術系 (日本語) ---
     "tech_ja": [
         {"name": "ITmedia NEWS", "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml"},
@@ -125,6 +133,7 @@ HTTP_HEADERS = {
 # カテゴリ別の記事数上限（出力サイズ制御用）
 MAX_ARTICLES = {
     "azure": 20,
+    "microsoft": 50,
     "ai": 25,
     "tech": 30,
     "business": 30,
@@ -233,6 +242,10 @@ def main():
     azure_news = _limit_articles(fetch_category("azure", since), "azure")
     print(f"  → 合計: {len(azure_news)} 件")
 
+    print("\n[Microsoft]")
+    microsoft_news = _limit_articles(fetch_category("microsoft", since), "microsoft")
+    print(f"  → 合計: {len(microsoft_news)} 件")
+
     print("\n[AI]")
     ai_news = _limit_articles(fetch_category("ai", since), "ai")
     print(f"  → 合計: {len(ai_news)} 件")
@@ -266,6 +279,7 @@ def main():
         "collected_since": since.isoformat(),
         "categories": {
             "azure": azure_news,
+            "microsoft": microsoft_news,
             "ai": ai_news,
             "tech": tech_news,
             "business": business_news,
@@ -276,7 +290,7 @@ def main():
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
-    total = len(azure_news) + len(ai_news) + len(tech_news) + len(business_news) + len(sns_news)
+    total = len(azure_news) + len(microsoft_news) + len(ai_news) + len(tech_news) + len(business_news) + len(sns_news)
     print(f"\n収集完了: {output_path} （合計 {total} 件）")
 
 
