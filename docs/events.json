@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T00:06:41Z",
+  "generated_at": "2026-11-05T23:56:00Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] AWS Summit Japan 2026講演レポート（MIZUHO DX） - みずほフィナンシャルグループ",
@@ -74,14 +74,6 @@
       "vendor_event": true
     },
     {
-      "title": "[Red Hat Summit] Red Hat Summit:Connect;Tokyo｜Japan（2026年10月29日） - SCSK株式会社",
-      "event_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5T01PTjh2LTAwRUl1eFZHQS16RlRBUWRaeWNnb1JVZ093VXFIRmthb3kyZjVhUVBwTnMzTlc4dVdTcGtfX2VSUlYxT1M4elBPT29OQlh3VmVRdw?oc=5",
-      "started_at": "2026/10/06 17:28",
-      "place": "Boston / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5T01PTjh2LTAwRUl1eFZHQS16RlRBUWRaeWNnb1JVZ093VXFIRmthb3kyZjVhUVBwTnMzTlc4dVdTcGtfX2VSUlYxT1M4elBPT29OQlh3VmVRdw?oc=5\" target=\"_blank\">Red H",
-      "vendor_event": true
-    },
-    {
       "title": "[Microsoft Ignite 参加レポート] 「Microsoft Ignite 2025」現地レポート──AIエージェントが示すビジネスの可能性: コーポレートブログ - NEC",
       "event_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE42eGZVb3ZISnI0WXlVTWdMZ2lkaUY0U1FCd3BGNW5FYkhYVTZ2UUIxTV9uWklxVWdEcVliQk4zYzZaVkE0UmdHYjVMR1ZiQ3RjUGRVWlZ1dXR5cUlYUjFpMVVlb1N1QQ?oc=5",
       "started_at": "2026/10/07 14:21",
@@ -114,11 +106,27 @@
       "vendor_event": true
     },
     {
+      "title": "[NVIDIA GTC] リョーサン菱洋、NVIDIA GTC Berlin 2026の最新動向を解説するウェビナーを開催 - ASCII.jp",
+      "event_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NRmZvcFlJY0t0VlZMNUpfOXEwR0lzX2VVY01NSzFraDNiN2JHbGotODBfVGdBb3E4ZjJGZ3kybDJrUzJueU11eGgyTnpTZnFrOTZiOQ?oc=5",
+      "started_at": "2026/10/15 16:00",
+      "place": "San Jose / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NRmZvcFlJY0t0VlZMNUpfOXEwR0lzX2VVY01NSzFraDNiN2JHbGotODBfVGdBb3E4ZjJGZ3kybDJrUzJueU11eGgyTnpTZnFrOTZiOQ?oc=5\" target=\"_blank\">リョーサン菱洋、NVIDI",
+      "vendor_event": true
+    },
+    {
       "title": "[GitHub Universe] GitHub、Universe 2026でCopilot Fusionの一般提供を開始 - Unite.AI",
       "event_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSUVRZjRkdjh1VFpMTXp1Rk5pS1BkNHMxeWRVZnVpc3ZzeGFrU0U?oc=5",
       "started_at": "2026/10/29 01:50",
       "place": "San Francisco / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSU",
+      "vendor_event": true
+    },
+    {
+      "title": "[GitHub Universe] GitHub、AIコード急増に対応するため400万CPUコアを追加―度重なる障害を受け - BigGo ファイナンス",
+      "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaHhLMmNW?oc=5",
+      "started_at": "2026/10/29 02:25",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaH",
       "vendor_event": true
     },
     {
@@ -168,30 +176,6 @@
       "place": "東京都",
       "catch": "カードで学ぶはじめての JavaScript",
       "description": "🃏 カード組んで JavaScript 動かしてみっか！ 第1回 プログラミング初心者のための勉強会 ― 夜露死苦 😎 「プログラミング、気にはなってんだけどさ…何からやりゃいいのよ？」 「本も動画も手ぇ出したけど、気づいたらフェードアウトしてた」 わかる。みんな最初はそこからっす。 だからこの勉強会は、 読むより先に、手ぇ動かす。 💪 🔥 何すんの？ 💡 ここだけは譲れねぇ ― AIは今日だけ封印 AIに書かせると「動いたけど、なんでかわかんねぇ」で終わっちまう。 基礎がわかると、コードが「思いどおりに動かせる道具」に変わる。 そこからがプログラミングの本当の楽しさっす。 今日は自分の手で、その楽しさをつかみにいこうぜ 🔥 コードの部品が書かれた「カード」を組み合わせて、プログラムを組み立てる。 それを自分の手で打ち込んで、動かす。シンプルにそれだけっす。…"
-    },
-    {
-      "title": "筋肉エンジニアのLT会【オフライン】× LT道場 ~ 合同でLTしﾏｯｽﾙ ~",
-      "event_url": "https://noukin-engineer.connpass.com/event/409765/",
-      "started_at": "2026/11/20 19:00",
-      "place": "東京都",
-      "catch": "",
-      "description": "✍️ イベント概要 Web業界で働く筋肉エンジニアたちが、自分の学びたいプログラミングや語学をモクモク勉強する至って真面目な勉強会だ。 今回は、クラスメソッドの社内LT会「LT道場」との合同LT会！会場はクラスメソッドの日比谷オフィスだ。 LT道場は、若手や入社してすぐのメンバーが登壇の場数を踏むための社内LT会。筋肉と同じで、登壇力も回数をこなさなければ育たない。今回は両方のコミュニティから3名ずつ、計6名が登壇するぞ！ LTを聞くだけでも大歓迎。まだ筋肉エンジニアの会に参加したことのない君も、軽い負荷から始めてみよう。途中にはおなじみのプランクもあるぞ！ 🗓️ スケジュール 時間 内容 登壇者 18:30 - 19:00 受付 - 19:00 - 19:10 会の説明・両コミュニティの紹介 運営チーム 19:10 - 19:15 LT（5分） クラスメソッド 19:15 -…"
-    },
-    {
-      "title": "AI駆動業務オペレーション勉強会 Vol.2 〜デジタルマーケティング自動化のリアル〜",
-      "event_url": "https://aid.connpass.com/event/411938/",
-      "started_at": "2026/11/20 19:00",
-      "place": "東京都",
-      "catch": "〜デジタルマーケティング自動化のリアル〜",
-      "description": "マーケティング×AI 勉強会 〜現場で起きているAI活用の実態〜 概要 マーケティングの現場でAIはどう使われているのか？ 元ourly執行役員CMO と Repro社App Evangelist によるリアルな事例紹介、データ活用とAIによるマーケティングの仕組み化の実践、そしてマーケ×AIをアカデミックに掘り下げるセッションまで、経営・マーケティングの意思決定層に向けてお届けします！ 開催概要 項目 内容 日時 2026年11月20日（金） 19:30 〜 21:30（19:00 受付開始） 場所 株式会社Hajimari 東京都渋谷区道玄坂1-16-10 渋谷DTビル6階 こんな方におすすめです 企業の経営者・役員・事業責任者の方 マーケティング部門の責任者・リーダーの方 ※本イベントは経営・マーケティングの意思決定層向けの内容となっております。…"
-    },
-    {
-      "title": "CDLE AX Lounge in 東京 #1",
-      "event_url": "https://jdla.connpass.com/event/409954/",
-      "started_at": "2026/11/20 19:00",
-      "place": "東京都",
-      "catch": "",
-      "description": "※本イベントはCDLEコミュニティが企画・運営するものであり、イベント内での登壇者・参加者の発言は、 必ずしもJDLAの公式見解を示すものではありません。 概要 これまで東京で2回開催してきた「あつまろCDLE」をリニューアルし、 AX（AI Transformation） の実践と交流をテーマとしたリアルイベント 「CDLE AX Lounge」 として新たにスタートします。 関東エリアのCDLEメンバーを中心に、AIを使って仕事や組織を変えていく「実践」を持ち寄り、学び合い、 つながる場を目指します。 今回のテーマは 「AXとキャリア」 です。 ChatGPTをはじめとする生成AIの登場により、AI活用はエンジニアだけのものではなくなりました。 G検定・E資格で得た学びを活かしながら、営業職をはじめとする非エンジニアの方々も、AIを活用して…"
     },
     {
       "title": "プロダクトの \"品質\" をどう定義する？各社の成功と失敗",
@@ -522,6 +506,14 @@
       "description": "2026年11月26日（木）、国際コンソーシアムFrontriaは「Frontria総会シンポジウム 2026」を開催します。 生成AIの急速な普及に伴い、認知戦や偽・誤情報、AIを利用したサイバー攻撃、AIの信頼性や公平性など、社会や企業が向き合うべき課題が顕在化しています。これらの課題は、一企業や一国だけで解決できるものではなく、産業界、学術界、政府機関、市民社会が連携して取り組むことが求められています。 本シンポジウムでは、「Cognitive Warfare」「AI Trust」「AI Security」「Policy & Governance」をテーマに、3つの基調講演、4つの特別講演とパネルディスカッションを実施します。会場では、Frontria参加組織による技術展示とネットワーキングも行います。 このイベントで得られること…"
     },
     {
+      "title": "曖昧な相談をどう解く？LayerX FDE体験ワークショップ",
+      "event_url": "https://layerx.connpass.com/event/412171/",
+      "started_at": "2026/11/26 16:00",
+      "place": "東京都",
+      "catch": "「FDEって何をするの？」に、実践ワークで答えます！",
+      "description": "概要 「FDEって何をするの？」 「顧客の課題に向き合う仕事に興味があるけれど、具体的なイメージが持てない」 そんな方に向けて、LayerXのFDE（Forward Deployed Engineer）の仕事を体験できるワークショップを開催します。 FDEは、顧客からの曖昧な相談を受け、課題を整理し、限られた情報や条件の中で、何をつくるか・何をつくらないかを考える仕事です。 今回のワークショップでは、技術広報のイベント開催業務を一般化したケースを題材にします。 会場予約、イベント開催申請、connpassページの作成、参加者数を踏まえた飲食発注など、複数の業務がある状況で、参加者のみなさんに以下を考えていただきます。 本当の課題は何か どの課題から解決するか 何を自動化し、どこに人の確認を残すか 最初に何をつくり、何をつくらないか…"
+    },
+    {
       "title": "Ansible Night 2026: Re−CONNECT",
       "event_url": "https://ansible-users.connpass.com/event/406715/",
       "started_at": "2026/11/26 16:30",
@@ -560,6 +552,14 @@
       "place": "東京都",
       "catch": "障害対応しNight",
       "description": "概要 本イベントはインシデントレスポンス（障害対応）のスキルを向上したいエンジニアの技術交流を目的としています。 第3回のテーマは、「AI×組織でなんとかする障害対応」です。 ログラスのmekkaさん、MIXIのホンマークハントさんをお招きして、 インシデントレスポンスやインシデントマネジメントに関する色々な話を聞ける場として開催します！ 対象者 自社の障害対応に課題を感じているエンジニア、エンジニアリングマネージャー 障害対応の属人性、障害対応の初動や報告のスピードを改善したい組織リーダー これから障害対応に取り組む、障害対応なにもわからないエンジニア タイムテーブル 時間 内容 登壇者 18:45-19:00 開場＆受付開始 勉強会運営 19:00-19:05 オープニング あんどぅ @integrated1453 （株式会社ユーザベース） 19:05-19:25 TBD…"
+    },
+    {
+      "title": "【テーマ自由】もくもく会【秋葉原】",
+      "event_url": "https://fffff.connpass.com/event/412233/",
+      "started_at": "2026/11/26 19:00",
+      "place": "東京都",
+      "catch": "内容自由のゆるい、もくもく会です",
+      "description": "概要 テーマ自由なオフラインもくもく会です。 秋葉原のコワーキングスペース FFFFF Cafe （ https://fffff-cafe.com/ ） に集まり、各々やりたいことを作業する会です。 作業内容は勉強、読書、開発、雑談なんでもOK！ ソフトウェアエンジニアの参加者が多いですが、どなたでも参加可能です。 Vol. 143 もくもく会とは？ もくもく会とは、参加者が集まって各自やりたい作業に集中する会です。 名前の通り、「もくもく」と静かに作業するのが基本スタイルですが、雑談や交流もOKです。 こんな人におすすめ 家だと集中できないけどカフェだと作業しづらい 同じ時間帯に作業する仲間がほしい ITやデザイン、ものづくりなど好きなことに没頭したい 他の参加者とゆるく交流したい 作業内容の例 プログラミングや勉強 読書や執筆 資格の勉強やポートフォリオ作成 趣味の作業や副業…"
     },
     {
       "title": "みんなのAI駆動PM",
@@ -664,6 +664,14 @@
       "place": "東京都",
       "catch": "Kaggriculture 1位の弊社メンバー登壇",
       "description": "Kaggler オープンハウス 2026年11月 Preferred Networks(PFN) の Kaggle Grandmaster・Master が登壇し、実践的なKaggleノウハウ、過去コンペの裏話、PFNでどんな働き方をしているか共有する場をご用意しました。今回は、 Kaggriculture コンペの優勝チーム(PFN社員2名が所属)による解法発表枠もあります！ Kaggle 経験者のみなさま、ぜひこの機会に奮ってご参加ください！ This event will be in Japanese. 申込方法 connpass での申し込みフォームより参加申し込みを行ってください。 ※ 大手町オフィスで参加できる方のみ 参加費：無料 申込締切：2026年11月18日（水）13:00 参加者確定： 2026年11月18日（水）…"
+    },
+    {
+      "title": "秋葉原 もくもく会 & ごくごく会",
+      "event_url": "https://fffff.connpass.com/event/412267/",
+      "started_at": "2026/11/27 19:00",
+      "place": "東京都",
+      "catch": "すこしもくもく会したあとに飲みながら作業する会です",
+      "description": "概要 テーマ自由なオフラインもくもく会 & ごくごく会です。 秋葉原のコワーキングスペース FFFFF Cafe （ https://fffff-cafe.com/ ） に集まり、各々やりたいことを作業する会です。 作業内容は勉強、読書、開発、雑談なんでもOK！ どなたでも参加可能です。 お酒が好きな人が集まり、勉強会をします。 １時間ほど集中（もくもく会）したあと、お酒飲みながら（ごくごく会）交流して作業します。 Vol. 12 こんな人におすすめ 同じ時間帯に作業する仲間がほしい ITやデザイン、ものづくりなど好きなことに没頭したい 他の参加者とゆるく交流したい お酒が飲みたい 作業内容の例 プログラミングや勉強 読書や執筆 資格の勉強やポートフォリオ作成 趣味の作業や副業 学習コンテンツの視聴や課題 持ち帰ってきた仕事…"
     },
     {
       "title": "若手エンジニア交流会",
