@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:37:47Z",
+  "generated_at": "2026-11-07T22:28:29Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] AWS Summit Japan 2026講演レポート（MIZUHO DX） - みずほフィナンシャルグループ",
@@ -114,17 +114,9 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe] GitHub、Universe 2026でCopilot Fusionの一般提供を開始 - Unite.AI",
-      "event_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSUVRZjRkdjh1VFpMTXp1Rk5pS1BkNHMxeWRVZnVpc3ZzeGFrU0U?oc=5",
-      "started_at": "2026/10/29 01:50",
-      "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSU",
-      "vendor_event": true
-    },
-    {
       "title": "[GitHub Universe] GitHub、AIコード急増に対応するため400万CPUコアを追加―度重なる障害を受け - BigGo ファイナンス",
       "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaHhLMmNW?oc=5",
-      "started_at": "2026/10/29 02:25",
+      "started_at": "2026/10/28 16:00",
       "place": "San Francisco / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaH",
       "vendor_event": true
@@ -138,19 +130,19 @@
       "vendor_event": true
     },
     {
+      "title": "[Red Hat Summit] Red Hat Summit:Connect;Tokyo｜Japan（2026年10月29日） - SCSK株式会社",
+      "event_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5T01PTjh2LTAwRUl1eFZHQS16RlRBUWRaeWNnb1JVZ093VXFIRmthb3kyZjVhUVBwTnMzTlc4dVdTcGtfX2VSUlYxT1M4elBPT29OQlh3VmVRdw?oc=5",
+      "started_at": "2026/10/29 16:00",
+      "place": "Boston / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5T01PTjh2LTAwRUl1eFZHQS16RlRBUWRaeWNnb1JVZ093VXFIRmthb3kyZjVhUVBwTnMzTlc4dVdTcGtfX2VSUlYxT1M4elBPT29OQlh3VmVRdw?oc=5\" target=\"_blank\">Red H",
+      "vendor_event": true
+    },
+    {
       "title": "[Red Hat Summit] Red Hat Summit Connect 2026 Tokyo​ - イベント・セミナー - Key Technology｜CTC - CTC - 伊藤忠テクノソリューションズ",
       "event_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mVlZ0MGVUTS0zalM1dzU1Z2twU2g5bFNzSTRXNFg3XzFXLTFpY0dNeWRzd0J4eGctZjlsOGgtSkFtZDlocmN1WEJmVmF4cXo3MHpoV2I1M0x0LUoxUjl3?oc=5",
       "started_at": "2026/10/29 16:00",
       "place": "Boston / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mVlZ0MGVUTS0zalM1dzU1Z2twU2g5bFNzSTRXNFg3XzFXLTFpY0dNeWRzd0J4eGctZjlsOGgtSkFtZDlocmN1WEJmVmF4cXo3MHpoV2I1M0x0LUoxUjl3?oc=5\" target=\"_blank\"",
-      "vendor_event": true
-    },
-    {
-      "title": "[Open Source Summit Japan] Open Source Summit Japan、Automotive Linux Summit、Embedded Linux Conference Asia の基調講演者を発表 - PR TIMES",
-      "event_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZnNUTk9qU2hnMGVzMHh5WWUyYnZqWndnWlJRckFKZmZZeXJJQkptX1lvNEFCTDRoZ2dMSE1Rb1RYLTBBLXlBajNySjFDZWlXY3pnYW1XNGJOOUNHOVN4eTJIYXpjU0N6d2c?oc=5",
-      "started_at": "2026/10/30 10:58",
-      "place": "東京 / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZnNUTk9qU2hnMGVzMHh5WWUyYnZqWndnWlJRckFKZmZZeXJJQkptX1lvNEFCTDRoZ2dMSE1Rb1RYLTBBLXlBajNySjFDZWlXY3pnYW1XNGJOOUNHOVN4eTJIYXpjU0N6d2c?oc=5\" ",
       "vendor_event": true
     },
     {
@@ -170,20 +162,12 @@
       "vendor_event": true
     },
     {
-      "title": "R研究集会2026",
-      "event_url": "https://rjpusers.connpass.com/event/409888/",
-      "started_at": "2026/11/21 10:15",
-      "place": "東京都",
-      "catch": "統計数理研究所共同利用研究集会「データ解析環境Rの整備と利用」",
-      "description": "2026年度R研究集会（統計数理研究所共同利用研究集会「データ解析環境Rの整備と利用」）は現地（統計数理研究所）とオンラインによるハイブリッド開催を予定しています。 開催概要 開催日：2026年11月21日（土曜日）10:15～17:20 現地開催場所：統計数理研究所 2F大会議室 （Zoomによるオンライン配信あり。後日参加者に対してConnpassからのメールを通して接続情報をお知らせします） 発表者・関係者以外の方の現地参加につきましては、先着50名に限定させていただきます。 オンラインでの参加登録のない方は、当日現地にお越しくださっても参加できません。事前に参加登録をお願いします。 プログラム 近日公開予定 午後のセッションで Lightning Talk として 5分程度の発表を行う方を募集します。 希望される方は X にて @u_ribo までお知らせください。"
-    },
-    {
-      "title": "RTLを語る会 (19) ～ビバ道の壁 + AIの波 = FPGA新時代？ (仮)～",
-      "event_url": "https://talkrtl.connpass.com/event/407094/",
-      "started_at": "2026/11/21 12:30",
+      "title": "【CWBJ限定】神川先生のCopilot活用塾",
+      "event_url": "https://cwbjmotivate.connpass.com/event/410998/",
+      "started_at": "2026/11/21 12:45",
       "place": "東京都",
       "catch": "",
-      "description": "概要 今回も ここでしか語れないエピソード も交えつつ、進めていきたいと思います。 前回実施した内容は下記リンクをご覧下さい。 ご参考まで。 https://connpass.com/event/367389/ ※管理者の判断により、参加をキャンセルさせていただく場合があります。ご了承下さい。 発表枠について 若手発表枠は、 30歳以下 のためのもので、試験的に導入してみました。是非お気軽にやっていることの発表をして頂ければと思います。発表は6枠用意してありますが、発表希望者多数の場合は一人当たりの発表時間を短くして8枠まで増やす可能性ありです。 ライトニングトークも開催します。 事前募集枠 : 6名 x 5分 当日即席枠：最大10名 x 2分 タイムテーブル (暫定) 都合に合わせて大きく変わる場合があります。 時間 内容 発表者 12:30 ~ 13:00 開場、受け付け…"
+      "description": "🚀 Copilot ハンズオン in Microsoft 品川 「Copilot、なんとなく使っている」から一歩先へ ✅ Copilotをもっと業務で活用したい ✅ 効果的なプロンプトの作り方を知りたい ✅ 実際にPCを操作しながら学びたい ✅ 他の参加者と一緒に楽しく実践したい そんな方向けに、 少人数制のCopilotハンズオンイベント を開催します！ Copilotは使っているけれど、 「いつも同じような使い方になってしまう」 「もっと仕事に活かせる使い方を知りたい」 「プロンプトの作り方を実践しながら身につけたい」 そんな方にぴったりのハンズオンです。 今回は 定員15名 の少人数開催。 実際にPCを操作しながら、 Copilotの活用方法やプロンプトの作り方を一緒に学んでいきます。 本イベントはCWBJ所属の方のみご参加いただけます。 📆 開催概要 項目 内容 🗓️ 日時…"
     },
     {
       "title": "【AI駆動開発】AIDDもくもく会（東京） #8 〜AI駆動開発で作業・相談・知見共有〜",
@@ -210,14 +194,6 @@
       "description": "現場で活躍するエンジニアや、AIの活用事例・最新技術・セキュリティ対策について知見を深めたい方など、 さまざまなエンジニアが集まり、テーマトークや交流を通じて情報交換を行うイベントです！ 今回のテーマは、 「みんなのAI活用法とセキュリティ対策について」 です。 AIの進化によって業務効率化が進む一方、情報漏えいや機密情報の取り扱いなど、セキュリティへの配慮も重要になっています。 実際の業務で役立つAIツールや活用事例、安全に利用するための工夫などを共有し、AI時代のスキルやキャリアについても意見交換します。 「ほかのエンジニアが使っているAIツールを知りたい！」 「AIに入力してはいけない情報や、セキュリティ上の注意点を知りたい！」 「情報漏えいやサイバー攻撃への対策について学びたい！」 「AI時代にエンジニアとして市場価値を高めたい！」…"
     },
     {
-      "title": "【CWBJ限定】神川先生のCopilot活用塾",
-      "event_url": "https://cwbjmotivate.connpass.com/event/410998/",
-      "started_at": "2026/11/21 13:00",
-      "place": "東京都",
-      "catch": "",
-      "description": "🚀 Copilot ハンズオン in Microsoft 品川 「Copilot、なんとなく使っている」から一歩先へ ✅ Copilotをもっと業務で活用したい ✅ 効果的なプロンプトの作り方を知りたい ✅ 実際にPCを操作しながら学びたい ✅ 他の参加者と一緒に楽しく実践したい そんな方向けに、 少人数制のCopilotハンズオンイベント を開催します！ Copilotは使っているけれど、 「いつも同じような使い方になってしまう」 「もっと仕事に活かせる使い方を知りたい」 「プロンプトの作り方を実践しながら身につけたい」 そんな方にぴったりのハンズオンです。 今回は 定員15名 の少人数開催。 実際にPCを操作しながら、 Copilotの活用方法やプロンプトの作り方を一緒に学んでいきます。 本イベントはCWBJ所属の方のみご参加いただけます。 📆 開催概要 項目 内容 🗓️ 日時…"
-    },
-    {
       "title": "【11/21】IT・資格勉強の自習会＆交流会 in 渋谷",
       "event_url": "https://masaru-study.connpass.com/event/408732/",
       "started_at": "2026/11/21 13:30",
@@ -240,6 +216,14 @@
       "place": "東京都",
       "catch": "集中時間・運動・交流、すべて叶う！",
       "description": "🧠 もくもく勉強会 × リフレッシュ運動 運動 → 集中 → 運動 → 集中 体を動かしてから勉強する、5時間の実験的勉強会 💡 こんな人におすすめ 勉強や作業をしたいけど、家だと集中できない 運動もしたいけど、一人だと続かない 休日を有効に使いたい 新しい習慣を作りたい 気軽に人と交流もしたい ✨ このイベントの特徴 このイベントでは、 運動 → 集中 → 運動 → 集中 というサイクルを作ります。 軽く体を動かしてリフレッシュし、その後の集中作業につなげることを目指します。 今回はさらに、 「やったほうがいいけど、1人だとやらないこと」 をみんなで実行します。 軽い運動 ストレッチ・ピラティス 集中作業 一人では後回しにしがちなことも、みんなで取り組む環境を通じて習慣化していきます。 📆 イベント概要 時間 14:00〜19:00（5時間） 場所 THE CAMPUS FLATS…"
+    },
+    {
+      "title": "RTLをシバク会",
+      "event_url": "https://connpass.com/event/407502/",
+      "started_at": "2026/11/21 17:30",
+      "place": "東京都",
+      "catch": "",
+      "description": "RTLを語る会 (19) ～ビバ道の壁 + AIの波 = FPGA新時代？ (仮)～の懇親会です。 場所 溜池山王近辺 会費 6,000 円ぐらいを予定。年代別の傾斜料金を設定します。 お願い 会費の設定のため、どの年代に当てはまるかをコメントで入れてください。 高校生以下 24歳以下 || 大学生(院生含む) 25歳以上 && 34歳以下 35歳以上"
     },
     {
       "title": "【高尾山開催】横浜アジャイル Trail Running Meetup#2",
@@ -378,6 +362,14 @@
       "description": "「その要求、何のため？」成果につなげる要件定義講座 #01 ビジネス成果と開発をKPIでつなぐ、要件定義の考え方 主催：株式会社ハーベストライズ 参加費：無料／定員30名 イベントの説明 「この機能を作ってほしい」 その要求に対して、 なぜ作るのか？ 何が変われば、作った意味があったと言えるのか？ その変化を、どうやって測るのか？ まで説明できていますか？ プロダクト開発では、顧客や事業部門から提示された要求を整理し、仕様を決め、開発できる状態にすることが求められます。 しかし、目の前の要求や仕様に集中するあまり、「その開発が、どのようなビジネス成果につながるのか」が曖昧になってしまうことがあります。 そこで重要になるのが、 ビジネス成果とプロダクトの変化をつなぐKPI です。 KPIは、単に目標を数値化するためのものではありません。…"
     },
     {
+      "title": "集まれSwift好き！Swift愛好会 vol.101 @ マルイユナイト",
+      "event_url": "https://love-swift.connpass.com/event/405314/",
+      "started_at": "2026/11/24 19:00",
+      "place": "東京都",
+      "catch": "初心者大歓迎！みんなでわいわいSwiftについて語ろう！",
+      "description": "【オンライン参加の方】 YouTube Liveでの配信も行う予定ですので、こちらでも参加お待ちしております！ 📃 イベント概要 Swift好きで集まって、ビール片手にわいわい LT会です！ Swiftからプログラムを始めた方 Objective-C時代からやってきた方 他の言語（Java, Ruby, etc）をやりながらSwiftを勉強されてる方 いろんな背景の人で集まってSwiftを遊び倒したいです！ イベント前半では、 Swift全般 に関するお話や、iOSアプリ開発 スキルアップのための様々なテクニック をお話する\"Swift談義タイム\"。 後半は、Swift仲間をつくる懇親会へ^^/ なお、絶賛Swift談義スピーカー募集してます。 ぜひご経験をお聞かせください！ 🎯 対象者 Swiftが好きな人！ Swiftを好きになる予定の人 むしろSwiftから好かれている人 🎤…"
+    },
+    {
       "title": "AWS re:Invent 2026 直前交流会 〜現地で一緒に楽しめる「仲間」をつくろう！〜",
       "event_url": "https://kinto-technologies.connpass.com/event/411542/",
       "started_at": "2026/11/24 19:00",
@@ -424,6 +416,14 @@
       "place": "東京都",
       "catch": "平日業務後にご飯でも食べながら、ゆる～くもくもくする勉強会です！",
       "description": "💬イベント概要 受託開発・自社サービス・プロジェクト支援サービスを手がけるmiracleave株式会社が主催する、 もくもく会 です！ 現役Webエンジニアの方がいますので、初学者から微経験者の方まで困ったことやわからないことを解決出来る勉強会となっております！また、もくもくの合間で技術共有を目的として簡単なLTを実施しています。 👇こんな感じのカジュアルなもくもく会です！ 👩‍👦‍👦このイベントの対象者 エンジニアを目指して勉強中の方 一緒に勉強する仲間が欲しい方 勉強の仕方を教えてほしい方 アプリエンジニアの方（フロントエンド、バックエンド、 モバイル） インフラエンジニアの方（クラウド、 オンプレ） AIエンジニアの方（LLM、MLM） 💻事前準備 もくもくしたい内容 ライトニングトークで話したい内容（希望者のみ） 📢イベントスケジュール 時間 内容 19:00 - 19:05…"
+    },
+    {
+      "title": "AI活用、実際に動かして見せます",
+      "event_url": "https://connpass.com/event/411054/",
+      "started_at": "2026/11/25 19:00",
+      "place": "東京都",
+      "catch": "〜開発現場のAI活用 ライブデモ〜",
+      "description": "【開催概要】 AIツールを開発に取り入れる現場が増えています。でも、実際の開発の中でどう使われているかは、なかなか見る機会がありません。 「AIは便利らしい」と聞いても、自分の仕事のどこで使えるのか、イメージしにくい方も多いのではないでしょうか。 今回は、スライドで説明するのではなく、Claudeを実際に動かしながら、現場での使い方をライブでお見せします。うまくいく場面だけでなく、つまずいたときの立て直し方も含めて、現場のリアルをそのままお伝えします。 講演後は懇親会もあります。登壇者や参加者同士で、気軽に情報交換してください。 ★ こんなエンジニアにおすすめ AIツールを業務で使い始めたい、または使い始めたばかりのエンジニア 他の現場でAIがどう使われているか知りたい方 ライブで動くところを見て、自分の仕事に取り入れられるか判断したい方…"
     },
     {
       "title": "no me in agile #21  お笑い芸人から学ぶ場づくり",
@@ -535,7 +535,7 @@
       "started_at": "2026/11/26 19:00",
       "place": "東京都",
       "catch": "障害対応しNight",
-      "description": "概要 本イベントはインシデントレスポンス（障害対応）のスキルを向上したいエンジニアの技術交流を目的としています。 第3回のテーマは、「AI×組織でなんとかする障害対応」です。 ログラスのmekkaさん、MIXIのホンマークハントさんをお招きして、 インシデントレスポンスやインシデントマネジメントに関する色々な話を聞ける場として開催します！ 対象者 自社の障害対応に課題を感じているエンジニア、エンジニアリングマネージャー 障害対応の属人性、障害対応の初動や報告のスピードを改善したい組織リーダー これから障害対応に取り組む、障害対応なにもわからないエンジニア タイムテーブル 時間 内容 登壇者 18:45-19:00 開場＆受付開始 勉強会運営 19:00-19:05 オープニング あんどぅ @integrated1453 （株式会社ユーザベース） 19:05-19:25 TBD…"
+      "description": "概要 本イベントはインシデントレスポンス（障害対応）のスキルを向上したいエンジニアの技術交流を目的としています。 第3回のテーマは、「AI×組織でなんとかする障害対応」です。 ログラスのmekkaさん、MIXIのホンマークハントさんをお招きして、 インシデントレスポンスやインシデントマネジメントに関する色々な話を聞ける場として開催します！ 対象者 自社の障害対応に課題を感じているエンジニア、エンジニアリングマネージャー 障害対応の属人性、障害対応の初動や報告のスピードを改善したい組織リーダー これから障害対応に取り組む、障害対応なにもわからないエンジニア タイムテーブル 時間 内容 登壇者 18:45-19:00 開場＆受付開始 勉強会運営 19:00-19:05 オープニング あんどぅ @integrated1453 （株式会社ユーザベース） 19:05-19:25 『AI…"
     },
     {
       "title": "【テーマ自由】もくもく会【秋葉原】",
@@ -752,6 +752,14 @@
       "place": "東京都",
       "catch": "Deep dive into your original computer",
       "description": "CPUを自作してる皆さん！お互いの作品についてじっくり語りませんか？ 展示会では、作品の細かい部分まで理解するのは難しいですよね。。。 ということで、自作CPUをじっくり語るためのイベントを開催します！ ぜひご自身の作品を持ち寄ってご参加ください！ 「展示ブースあり」枠でお申し込みいただければ、長机と電源をご用意いたします。 このイベントは次のような方々におすすめです。 CPU を作ってる / 作りたい 電子回路としてのコンピュータに興味がある コンピュータの低レイヤ技術に興味がある 過去の自作CPUを語る会 併催イベント 今回の自作CPUを語る会は 自作OSもくもく発表作業会 と併催です。同じフロアの別室で開催されますので、興味ありましたら覗いてみてください。 発表 会の前半では、発表会をします。CPUに関連することならなんでも歓迎です！…"
+    },
+    {
+      "title": "第54回　自作OSもくもく発表作業会",
+      "event_url": "https://osdev-jp.connpass.com/event/410257/",
+      "started_at": "2026/11/28 13:00",
+      "place": "東京都",
+      "catch": "自作CPUを語る会との併催です！",
+      "description": "自作OSもくもく発表作業会とは？ OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です．このイベントの対象は次のような方々です． 自作OSに興味があり，OS関係の本を読んでいる（または今から読み始める） 自分のOSを作っていたり，既存のOSを学んだり，改造している 低レイヤ技術に興味があり，情報交換したい 過去の発表資料は ここ に，録画は ここ にまとまっています． オフライン開催について 今回の自作OSもくもく発表作業会は 自作CPUを語る会 と併催のオフライン開催となります． また，Zoomからオンラインでも参加可能です． 当日のスケジュール 参加リンクについては，参加登録をすると見える，connpassの「参加者への情報」に当日記載しますので，ご確認ください． 時刻 内容 13:00-13:05 集合，準備 13:05-13:10 開会…"
     },
     {
       "title": "【未経験者にオススメ!】月一ハッキング体験会 #2026/11",
