@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:28:29Z",
+  "generated_at": "2026-11-08T22:38:51Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] AWS Summit Japan 2026講演レポート（MIZUHO DX） - みずほフィナンシャルグループ",
@@ -55,14 +55,6 @@
       "started_at": "2026/09/18 16:00",
       "place": "Mountain View / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5HaVkyMFAzQnRBRGpiNkJmVG96X0hQdjVTWDVEN1k0Ylo3TzJrX3hxSUV3V2NhTW9GMjQ1N3BjQUloRERyRmNkM08xa1A0QQ?oc=5\" target=\"_blank\">【TGS2026 現地レポート】 Goog",
-      "vendor_event": true
-    },
-    {
-      "title": "[KubeCon 参加レポート] 「KubeCon + CloudNativeCon Japan 2026」イベントレポート：デジタル：日立 - Hitachi Global",
-      "event_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXNjQmJLZVVmTXZLbElaZkZ4VFJTUWFkVjZlXzBwY0FRektacktBTHFyUkg4dGdDUUJvajEyQWQ0emdWUzg3TC1ycDFuZVY0a3F3QXFhaWVEbEo0RldIZWNtNzdsWDFxVjhuMmc0b1FqU0lvODdMcFVrTzl0aDJnQUkxbFRtQlJWbHc?oc=5",
-      "started_at": "2026/10/01 16:00",
-      "place": "現地開催 / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNaXNjQmJLZVVmTXZLbElaZkZ4VFJTUWFkVjZlXzBwY0FRektacktBTHFyUkg4dGdDUUJvajEyQWQ0emdWUzg3TC1ycDFuZVY0a3F3QXFhaWVEbEo0RldIZWNtNzdsWDFxVjhuMmc0b1",
       "vendor_event": true
     },
     {
@@ -124,7 +116,7 @@
     {
       "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - 沖縄タイムス社",
       "event_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5",
-      "started_at": "2026/10/29 12:30",
+      "started_at": "2026/10/29 16:00",
       "place": "San Francisco / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5\" target=\"_blank\">",
       "vendor_event": true
