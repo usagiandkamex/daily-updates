@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T22:38:51Z",
+  "generated_at": "2026-11-10T01:51:35Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] AWS Summit Japan 2026講演レポート（MIZUHO DX） - みずほフィナンシャルグループ",
@@ -106,19 +106,19 @@
       "vendor_event": true
     },
     {
+      "title": "[NVIDIA GTC] エヌビディアGTCベルリンの要点：次のAI機会はどこにあるか - Moomoo",
+      "event_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1ZuMWZPUWp4d2NtSVhwSjc4WFBfVEd4OWlyZHUyM0lWN0t0bVVxOFpsazdPbzhaRXRxcjExR1pzblh2VmFIMmQ4aTExX01pbXNfd0ZtRWRsZFFUSmxwZzBVMlYwbTk3aEwyemxPdU9BWC1zMjlUQW16ZDZ5SWxER0hQVUVwMDg4TERtVVU0c0MyOFRSR2JBT3dSY3NXNHBqenMyVWktSGFsNGg2d1FyUWo1em1QMlBtUUJJ?oc=5",
+      "started_at": "2026/10/22 16:00",
+      "place": "San Jose / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1ZuMWZPUWp4d2NtSVhwSjc4WFBfVEd4OWlyZHUyM0lWN0t0bVVxOFpsazdPbzhaRXRxcjExR1pzblh2VmFIMmQ4aTExX01pbXNfd0ZtRWRsZFFUSmxwZzBVMlYwbTk3aEwyemxPdU",
+      "vendor_event": true
+    },
+    {
       "title": "[GitHub Universe] GitHub、AIコード急増に対応するため400万CPUコアを追加―度重なる障害を受け - BigGo ファイナンス",
       "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaHhLMmNW?oc=5",
       "started_at": "2026/10/28 16:00",
       "place": "San Francisco / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaH",
-      "vendor_event": true
-    },
-    {
-      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - 沖縄タイムス社",
-      "event_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5",
-      "started_at": "2026/10/29 16:00",
-      "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5\" target=\"_blank\">",
       "vendor_event": true
     },
     {
@@ -135,6 +135,14 @@
       "started_at": "2026/10/29 16:00",
       "place": "Boston / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mVlZ0MGVUTS0zalM1dzU1Z2twU2g5bFNzSTRXNFg3XzFXLTFpY0dNeWRzd0J4eGctZjlsOGgtSkFtZDlocmN1WEJmVmF4cXo3MHpoV2I1M0x0LUoxUjl3?oc=5\" target=\"_blank\"",
+      "vendor_event": true
+    },
+    {
+      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - 沖縄タイムス社",
+      "event_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5",
+      "started_at": "2026/10/29 16:00",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5\" target=\"_blank\">",
       "vendor_event": true
     },
     {
@@ -240,6 +248,14 @@
       "place": "東京都",
       "catch": "プログラミングを楽しむ子どもたちのコミュニティ",
       "description": "CoderDojo神楽坂は 東京都新宿区 神楽坂周辺で毎月1回 土曜日もしくは日曜日に開催を目指している子どもを対象にした参加費無料のプログラミングクラブです。CoderDojo憲章( https://coderdojo.jp/charter )に則り、ボランティアと寄付で運営されています。プログラミングを教わる教室ではなく、子どもたち(CoderDojoではニンジャと呼ぶ)が仲間同士やメンターと呼ばれるサポーターと交流しながら、自主的にプログラミングなどの創作活動を楽しむコミュニティです。 開催概要 日時: 2026年 11月22(日) 9:30-11:30 場所: 牛込箪笥地域センター 4F 会議室バラB 都営大江戸線 牛込神楽坂駅 A1出口ほぼ直結(徒歩0分) 参加費用: 無料 参加枠: ニンジャ(おおむね7～17歳) 10名ぐらい メンター(ニンジャのサポート) 5名ぐらい…"
+    },
+    {
+      "title": "個人開発者のもくもく会 Part216 in 渋谷",
+      "event_url": "https://k-dev.connpass.com/event/404827/",
+      "started_at": "2026/11/22 10:00",
+      "place": "東京都",
+      "catch": "カフェでもくもく 途中退室OK 言語、プラットフォーム不問",
+      "description": "↓↓↓必ず確認してください↓↓↓ ↓↓↓必ず確認してください↓↓↓ ↓↓↓必ず確認してください↓↓↓ 参加いただける方は必ずSlackへの参加をお願いします。（よく分からなければ「イベントへの問い合わせ」より連絡ください） 少人数で行なっているので無断で欠席となると主催が来ない参加者の分の席を確保して待ち続けるという悲しい当日を迎えることになってしまうのでキャンセルの際はコンパス、またはSlackにて必ずご連絡ください。 また、この会では事前に作業内容の共有と、作業の進捗目標を立ててから作業しますので、それをちゃんとやっていただける方のみご参加ください。 無料のもくもく会ではありません、基本的に全ての回で参加費がかかりますが最大でも1,000円となるように会場費を抑えるようにしていますのでご注意ください。 有料な分ちゃんと作業成果を出そうという気持ちで主催含め頑張りましょう。…"
     },
     {
       "title": "だれでももくもく会（五反田・目黒・不動前）",
@@ -410,12 +426,12 @@
       "description": "💬イベント概要 受託開発・自社サービス・プロジェクト支援サービスを手がけるmiracleave株式会社が主催する、 もくもく会 です！ 現役Webエンジニアの方がいますので、初学者から微経験者の方まで困ったことやわからないことを解決出来る勉強会となっております！また、もくもくの合間で技術共有を目的として簡単なLTを実施しています。 👇こんな感じのカジュアルなもくもく会です！ 👩‍👦‍👦このイベントの対象者 エンジニアを目指して勉強中の方 一緒に勉強する仲間が欲しい方 勉強の仕方を教えてほしい方 アプリエンジニアの方（フロントエンド、バックエンド、 モバイル） インフラエンジニアの方（クラウド、 オンプレ） AIエンジニアの方（LLM、MLM） 💻事前準備 もくもくしたい内容 ライトニングトークで話したい内容（希望者のみ） 📢イベントスケジュール 時間 内容 19:00 - 19:05…"
     },
     {
-      "title": "AI活用、実際に動かして見せます",
-      "event_url": "https://connpass.com/event/411054/",
+      "title": "Microsoft Ignite 2026 - AI 最新情報ダイジェスト",
+      "event_url": "https://cogbot.connpass.com/event/410534/",
       "started_at": "2026/11/25 19:00",
       "place": "東京都",
-      "catch": "〜開発現場のAI活用 ライブデモ〜",
-      "description": "【開催概要】 AIツールを開発に取り入れる現場が増えています。でも、実際の開発の中でどう使われているかは、なかなか見る機会がありません。 「AIは便利らしい」と聞いても、自分の仕事のどこで使えるのか、イメージしにくい方も多いのではないでしょうか。 今回は、スライドで説明するのではなく、Claudeを実際に動かしながら、現場での使い方をライブでお見せします。うまくいく場面だけでなく、つまずいたときの立て直し方も含めて、現場のリアルをそのままお伝えします。 講演後は懇親会もあります。登壇者や参加者同士で、気軽に情報交換してください。 ★ こんなエンジニアにおすすめ AIツールを業務で使い始めたい、または使い始めたばかりのエンジニア 他の現場でAIがどう使われているか知りたい方 ライブで動くところを見て、自分の仕事に取り入れられるか判断したい方…"
+      "catch": "COGBOT Meetup #52 で最新情報を収集だよー(๑•̀ㅂ•́)و",
+      "description": "🎫 参加方法: オンライン での配信ですのでお気軽にご参加くださいませ😊。 項目 内容 開催日 11/25 (水) 場所 日本マイクロソフト株式会社 (品川) 開始 19:00 (開場18:30より) 終了 20:30ごろ 📺 今回の Cogbot Community は... 毎年恒例の Microsoft の年次イベント Microsoft Ignite 2026 が2026年11月17日～21日 (アメリカサンフランシスコ現地時間) に開催されます。そこで発表された AI ・Agent Platform に関するエキサイティングな最新情報をまとめてお届けします！ Microsoft Foundry、Microsoft 365 Copilot、Copilot Studio、GitHub Copilot…"
     },
     {
       "title": "no me in agile #21  お笑い芸人から学ぶ場づくり",
@@ -527,7 +543,7 @@
       "started_at": "2026/11/26 19:00",
       "place": "東京都",
       "catch": "障害対応しNight",
-      "description": "概要 本イベントはインシデントレスポンス（障害対応）のスキルを向上したいエンジニアの技術交流を目的としています。 第3回のテーマは、「AI×組織でなんとかする障害対応」です。 ログラスのmekkaさん、MIXIのホンマークハントさんをお招きして、 インシデントレスポンスやインシデントマネジメントに関する色々な話を聞ける場として開催します！ 対象者 自社の障害対応に課題を感じているエンジニア、エンジニアリングマネージャー 障害対応の属人性、障害対応の初動や報告のスピードを改善したい組織リーダー これから障害対応に取り組む、障害対応なにもわからないエンジニア タイムテーブル 時間 内容 登壇者 18:45-19:00 開場＆受付開始 勉強会運営 19:00-19:05 オープニング あんどぅ @integrated1453 （株式会社ユーザベース） 19:05-19:25 『AI…"
+      "description": "概要 本イベントはインシデントレスポンス（障害対応）のスキルを向上したいエンジニアの技術交流を目的としています。 第3回のテーマは、『「AI×組織」でなんとかする障害対応』です。 ログラスのmekkaさん、MIXIのホンマークハントさんをお招きして、 インシデントレスポンスやインシデントマネジメントに関する色々な話を聞ける場として開催します！ 対象者 自社の障害対応に課題を感じているエンジニア、エンジニアリングマネージャー 障害対応の属人性、障害対応の初動や報告のスピードを改善したい組織リーダー これから障害対応に取り組む、障害対応なにもわからないエンジニア タイムテーブル 時間 内容 登壇者 18:45-19:00 開場＆受付開始 勉強会運営 19:00-19:05 オープニング あんどぅ @integrated1453 （株式会社ユーザベース） 19:05-19:25 『AI…"
     },
     {
       "title": "【テーマ自由】もくもく会【秋葉原】",
@@ -599,7 +615,7 @@
       "started_at": "2026/11/26 19:30",
       "place": "東京都",
       "catch": "〜実践事例から学ぶ、Jevの強み・課題と活用ノウハウ〜",
-      "description": "このイベントについて AIの進化によって、開発現場ではClaude CodeやCursorなどのAIツールの活用が急速に広がっています。 そんな中、注目したいのが、 文章を生成するのではなく、「判断すること」に特化したAIモデル「Jev」 です。 Jevは、入力された情報に対して選択・評価・真偽判定などを高速に行うAIモデルで、既存のLLMとは異なるアプローチでの活用が期待されています。 さらに、2026年10月14日にリリースされた「Jev 1.14.0」では、画像内のオブジェクトの位置を特定できる「Box」機能が登場。画像情報の活用や長大コンテキストへの実験的な対応など、その可能性がさらに広がっています。 とはいえ、実際の開発現場では、 Jevって、結局どんなことに使えるの？ 既存のLLMと比べて何が違う？ 画像認識やBox機能は、実際どこまで使える？ プロダクトやAI…"
+      "description": "🚨 【重要】イベント参加にはDiscordへの登録が必須です！ 🚨 ▼以下のリンクより、必ずDiscordコミュニティにご参加ください▼ 👉 Discordへの参加はこちら ※ご参加いただきましたら、ぜひ「自己紹介」チャンネルにて一言ご挨拶いただけますと幸いです！ このイベントについて AIの進化によって、開発現場ではClaude CodeやCursorなどのAIツールの活用が急速に広がっています。 そんな中、注目したいのが、 文章を生成するのではなく、「判断すること」に特化したAIモデル「Jev」 です。 Jevは、入力された情報に対して選択・評価・真偽判定などを高速に行うAIモデルで、既存のLLMとは異なるアプローチでの活用が期待されています。 さらに、2026年10月14日にリリースされた「Jev…"
     },
     {
       "title": "Product Engineer Session #11",
@@ -791,7 +807,7 @@
       "started_at": "2026/11/29 12:00",
       "place": "東京都",
       "catch": "Google の最先端 AI と「つくる・動かす」を極める。最先端 AI の開発手法と活用を学ぶ祭典",
-      "description": "Google Developer Group Tokyo が主催する年次技術カンファレンス「 GDG DevFest Tokyo 2026 」。 昨年は 600名以上のエンジニア が集まり熱狂を生んだ DevFest Tokyo。AI が劇的に進化した今年は、第一線のエキスパート陣を招き「 AI を前提とした 」最先端の開発手法や設計をさらに深掘りします。さらに、AI を活用して業務改善やものづくりに取り組むコードを書かない \"ビルダー\" (Builder) から、プロのエンジニアまで、 すべての人が知見を共有できる場へとパワーアップ！ Google の最先端 AI と「 つくる・動かす 」を極める1日を、一緒に作りましょう！ 開催概要 📆 日時 2026年11月29日 (日) 12:00〜18:00 📍 会場 JPタワー ホール＆カンファレンス (東京駅 徒歩約1分 KITTE…"
+      "description": "Google Developer Group Tokyo が主催する年次技術カンファレンス「 GDG DevFest Tokyo 2026 」。 昨年は 600名以上のエンジニア が集まり熱狂を生んだ DevFest Tokyo。AI が劇的に進化した今年は、第一線のエキスパート陣を招き「 AI を前提とした 」最先端の開発手法や設計をさらに深掘りします。さらに、AI を活用して業務改善やものづくりに取り組むコードを書かない \"ビルダー\" (Builder) から、プロのエンジニアまで、 すべての人が知見を共有できる場へとパワーアップ！ Google の最先端 AI と「 つくる・動かす 」を極める1日を、一緒に作りましょう！ 💡 コードを書かない方（ビジネスパーソン・デザイナー等の Builder）へ: 分かりやすい案内を用意した Luma (GDG Tokyo - 日本語)…"
     },
     {
       "title": "TokyuRuby会議17 参加者募集",
@@ -808,22 +824,6 @@
       "place": "東京都",
       "catch": "基盤立ち上げの意思決定と苦労のリアル",
       "description": "【イベント概要】 AIの進展や事業拡大に伴い、単一プロダクトから複数プロダクトを展開する組織が増えています。 プロダクトが増えるほど、「共通基盤をどう設計し、どう運用し続けるか」という課題は避けて通れません。 権限や境界をどう引くか、優先順位をどう決めるか、負債や複雑性とどう向き合うか——マルチプロダクト化に取り組む企業の多くが、同じような壁にぶつかっています。 本イベントでは、認証認可基盤のように複数のプロダクトから共通で利用される、プロダクトそのものを支える機能群に焦点を当て、マルチプロダクト展開を進めるログラス・LayerX・SmartHRの3社が、それぞれの基盤立ち上げと運用における意思決定と苦労のリアルを共有します。 前半のセッションでは、各社のメンバーが「なぜその設計を選んだのか」「優先順位はどう決めたのか」「負債とどう付き合っているのか」といった具体的な事例を共有します。…"
-    },
-    {
-      "title": "AIがコードを書く時代、エンジニアの価値はどこで広がる？",
-      "event_url": "https://medicalforce.connpass.com/event/411810/",
-      "started_at": "2026/11/30 19:00",
-      "place": "東京都",
-      "catch": "ビジネスモデルと役割分担から逆算する、3社のプロダクトエンジニア定義",
-      "description": "🖋️ イベント概要 AIがコードを書くことが当たり前になりつつある今、エンジニアの価値はどこで広がるのか。 プロダクトエンジニアの定義は会社によって違います。何をつくり、誰に届け、どう事業として成り立たせるのか。ビジネスモデルや組織規模、PdM・デザイナーとの役割分担が変われば、エンジニアが越境する範囲も、求められる力も変わるからです。 本イベントには、事業の形が異なる3社が集まります。複数の産業に向けてオールインワンSaaSを展開するアトミックソフトウェア、オンライン診療を軸にヘルスケアプラットフォームを運営するLinc'well、丸井グループのフィンテック・リテールテックを担うマルイユナイト。 各社のセッションでは、次の3点を紹介します。 ビジネスモデル エンジニアが担う職務 何をAIに任せ、何を人が担っているか…"
-    },
-    {
-      "title": "AIがコードを書く時代、エンジニアの価値はどこで広がる？",
-      "event_url": "https://medicalforce.connpass.com/event/412376/",
-      "started_at": "2026/11/30 19:00",
-      "place": "東京都",
-      "catch": "ビジネスモデルと役割分担から逆算する、3社のプロダクトエンジニア定義",
-      "description": "🖋️ イベント概要 AIがコードを書くことが当たり前になりつつある今、エンジニアの価値はどこで広がるのか。 プロダクトエンジニアの定義は会社によって違います。何をつくり、誰に届け、どう事業として成り立たせるのか。ビジネスモデルや組織規模、PdM・デザイナーとの役割分担が変われば、エンジニアが越境する範囲も、求められる力も変わるからです。 本イベントには、事業の形が異なる3社が集まります。複数の産業に向けてオールインワンSaaSを展開するアトミックソフトウェア、オンライン診療を軸にヘルスケアプラットフォームを運営するLinc'well、丸井グループのフィンテック・リテールテックを担うマルイユナイト。 各社のセッションでは、次の3点を紹介します。 ビジネスモデル エンジニアが担う職務 何をAIに任せ、何を人が担っているか…"
     },
     {
       "title": "【テスト初心者歓迎】みんなでテスト設計やってみよう！@QAブリッジ",
