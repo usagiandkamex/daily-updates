@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T00:08:16Z",
+  "generated_at": "2026-11-14T22:51:07Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] 【開催報告】AWS Summit Japan 2026 レポート：SUMCO が挑む、Amazon Redshift × 生成 AI による半導体ウェーハ製造 DX - Amazon Web Services (AWS)",
@@ -66,19 +66,11 @@
       "vendor_event": true
     },
     {
-      "title": "[AWS re:Invent 参加レポート] 「AWS re:Invent 2025」参加レポート──若手の成長を支援するグローバルな学びとAIの最前線: コーポレートブログ - NEC",
-      "event_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mZmpwdTA4a0RibFM1cHRrY3dzSnZiT0RBSUxhbVpyVDA2MzZSV1EyRVB0VDJkZHVhY1V3TTFYSnNVTkNWcHlScHpEc1cwU1VPRzYxMjZSN2JfcVlibkVranJYMlR6Zw?oc=5",
-      "started_at": "2026/10/10 21:54",
-      "place": "Las Vegas / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mZmpwdTA4a0RibFM1cHRrY3dzSnZiT0RBSUxhbVpyVDA2MzZSV1EyRVB0VDJkZHVhY1V3TTFYSnNVTkNWcHlScHpEc1cwU1VPRzYxMjZSN2JfcVlibkVranJYMlR6Zw?oc=5\" targe",
-      "vendor_event": true
-    },
-    {
-      "title": "[NVIDIA GTC] リョーサン菱洋、NVIDIA GTC Berlin 2026の最新動向を解説するウェビナーを開催 - ASCII.jp",
-      "event_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NRmZvcFlJY0t0VlZMNUpfOXEwR0lzX2VVY01NSzFraDNiN2JHbGotODBfVGdBb3E4ZjJGZ3kybDJrUzJueU11eGgyTnpTZnFrOTZiOQ?oc=5",
-      "started_at": "2026/10/15 16:00",
-      "place": "San Jose / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE5NRmZvcFlJY0t0VlZMNUpfOXEwR0lzX2VVY01NSzFraDNiN2JHbGotODBfVGdBb3E4ZjJGZ3kybDJrUzJueU11eGgyTnpTZnFrOTZiOQ?oc=5\" target=\"_blank\">リョーサン菱洋、NVIDI",
+      "title": "[HashiConf] 2028年には1社15万エージェント。IBM、身元管理と短命な認証情報でAIエージェントを統制する新機能 - CodeZine",
+      "event_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rMFFCV3BGTUJhRVN6VVc5VTFMUkdEanB5SkxmMjJnZnlmX0VLdndqZlpXZHRLSFc1LXlmY3VwM1lPbVV1TUFKX0pUb3RRZw?oc=5",
+      "started_at": "2026/10/27 16:00",
+      "place": "現地開催 / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9rMFFCV3BGTUJhRVN6VVc5VTFMUkdEanB5SkxmMjJnZnlmX0VLdndqZlpXZHRLSFc1LXlmY3VwM1lPbVV1TUFKX0pUb3RRZw?oc=5\" target=\"_blank\">2028年には1社15万エージェント。IB",
       "vendor_event": true
     },
     {
@@ -98,6 +90,14 @@
       "vendor_event": true
     },
     {
+      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - 沖縄タイムス社",
+      "event_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5",
+      "started_at": "2026/10/29 16:00",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5\" target=\"_blank\">",
+      "vendor_event": true
+    },
+    {
       "title": "[Red Hat Summit] Red Hat Summit:Connect;Tokyo｜Japan（2026年10月29日） - SCSK株式会社",
       "event_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5T01PTjh2LTAwRUl1eFZHQS16RlRBUWRaeWNnb1JVZ093VXFIRmthb3kyZjVhUVBwTnMzTlc4dVdTcGtfX2VSUlYxT1M4elBPT29OQlh3VmVRdw?oc=5",
       "started_at": "2026/10/29 16:00",
@@ -114,14 +114,6 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - 沖縄タイムス社",
-      "event_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5",
-      "started_at": "2026/10/29 16:00",
-      "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5\" target=\"_blank\">",
-      "vendor_event": true
-    },
-    {
       "title": "[GitHub Universe 参加レポート] 「AIは物語を書かない。あなたが書く」AI slopに向き合うGitHubが示した、メンテナーを守る機能と人間の役割【GitHub Universe 2026】 (1/3)|DeveloperZine - CodeZine",
       "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EUWJIMVF2Y2dPcVNIY3BfLUR0MmgtNG9ZNi1GXzVxU1d3ZC1MVWFidllpMC10cWJfS21NUGxFcUdLbndVZk5La1IzSTBIQ3NoUWc?oc=5",
       "started_at": "2026/10/30 16:00",
@@ -132,7 +124,7 @@
     {
       "title": "[GitHub Universe 参加レポート] 【GitHub Universe 2026】AIエージェント急増に伴うGitインフラ全面刷新の舞台裏と、人とAIが対等に協調する開発の未来 - クラウド Watch",
       "event_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOXRwZGVSZnBEd0FoMk1TcUZzTXhNVE5LV3NQNEN1d2RPOUptOV9aWFNrQ3E3cFBmdV81OWNDTTFFUlN6RFJQT3hEZTlzUXZRZzZoYmVTM0Rpb2Q1b0tGa0xuYWdqdjg1?oc=5",
-      "started_at": "2026/11/05 06:15",
+      "started_at": "2026/11/05 17:00",
       "place": "San Francisco / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOXRwZGVSZnBEd0FoMk1TcUZzTXhNVE5LV3NQNEN1d2RPOUptOV9aWFNrQ3E3cFBmdV81OWNDTTFFUlN6RFJQT3hEZTlzUXZRZzZoYmVTM0Rpb2Q1b0tGa0xuYWdqdjg1?oc=5\" tar",
       "vendor_event": true
@@ -375,7 +367,7 @@
       "started_at": "2026/11/25 19:30",
       "place": "東京都",
       "catch": "",
-      "description": "Go Connect Go Connect は「Go言語の勉強と交流」を目的としたgopherのための勉強会です。 LT会形式での発表を行いつつ、参加者同士で交流し、仲を深めることを目的とします。 タイムテーブル 時間 内容 19:00~19:30 開場 19:30~20:00 オープニング・自己紹介・会場案内 20:00~20:30 発表 スポンサーLT 5分 「xx」xx さん xx分 20:30~21:00 懇親会 21:00~21:40 発表 「xx」xx さん xx分 21:40~21:55 クロージング・撤収 発表テーマについて Go言語に関連するテーマはもちろん、gopherのためになるテーマであれば何でもOKです。 他の人が知らないテーマに絞る必要はありません。最近勉強したことをぜひ共有してください。 テーマ例： Go言語の仕様 便利なライブラリの紹介…"
+      "description": "Go Connect Go Connect は「Go言語の勉強と交流」を目的としたgopherのための勉強会です。 LT会形式での発表を行いつつ、参加者同士で交流し、仲を深めることを目的とします。 タイムテーブル 時間 内容 19:00~19:30 開場 19:30~20:00 オープニング・自己紹介・会場案内 20:00~20:30 発表 スポンサーLT 5分 「go directive とバージョン指定について」おーたかこーたろー さん 20分 20:30~21:00 懇親会 21:00~21:40 発表 「xx」xx さん xx分 21:40~21:55 クロージング・撤収 発表テーマについて Go言語に関連するテーマはもちろん、gopherのためになるテーマであれば何でもOKです。 他の人が知らないテーマに絞る必要はありません。最近勉強したことをぜひ共有してください。…"
     },
     {
       "title": "AIにPMさせて、AIに開発させる｜今どきのAIエージェントで\"任せる開発\"を語る夜",
