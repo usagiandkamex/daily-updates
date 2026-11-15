@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:51:07Z",
+  "generated_at": "2026-11-15T23:18:29Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] 【開催報告】AWS Summit Japan 2026 レポート：SUMCO が挑む、Amazon Redshift × 生成 AI による半導体ウェーハ製造 DX - Amazon Web Services (AWS)",
@@ -74,19 +74,19 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe] GitHub、Universe 2026でCopilot Fusionの一般提供を開始 - Unite.AI",
-      "event_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSUVRZjRkdjh1VFpMTXp1Rk5pS1BkNHMxeWRVZnVpc3ZzeGFrU0U?oc=5",
-      "started_at": "2026/10/28 16:00",
-      "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSU",
-      "vendor_event": true
-    },
-    {
       "title": "[GitHub Universe] GitHub、AIコード急増に対応するため400万CPUコアを追加―度重なる障害を受け - BigGo ファイナンス",
       "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaHhLMmNW?oc=5",
       "started_at": "2026/10/28 16:00",
       "place": "San Francisco / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaH",
+      "vendor_event": true
+    },
+    {
+      "title": "[GitHub Universe] GitHub、Universe 2026でCopilot Fusionの一般提供を開始 - Unite.AI",
+      "event_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSUVRZjRkdjh1VFpMTXp1Rk5pS1BkNHMxeWRVZnVpc3ZzeGFrU0U?oc=5",
+      "started_at": "2026/10/28 16:00",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSU",
       "vendor_event": true
     },
     {
@@ -138,28 +138,12 @@
       "vendor_event": true
     },
     {
-      "title": "だれでももくもく会（五反田・目黒・不動前）",
-      "event_url": "https://mokumoku-daredemo.connpass.com/event/411658/",
-      "started_at": "2026/11/22 13:30",
-      "place": "東京都",
-      "catch": "1人だと作業が進まない、職場以外の人と交流したいという方向けの誰でも参加可能なもくもく会です！",
-      "description": "五反田・目黒・不動前エリアで、「集中作業」を楽しみながら、気軽に参加できるもくもく会を開催しています！ 資格勉強や読書、日々の作業に集中したい方へ エンジニア以外の方も大歓迎！もちろんエンジニアの方の参加もOKです！ 参加者は20-30代の方向けです。 📍: 特徴 ポモドーロテクニックを活用し、短時間で効率よく集中！ エンジニア以外の方も安心して参加できる雰囲気 休憩時間には雑談タイムでリフレッシュ＆交流 ※ポモドーロテクニック：25分の作業と短い休息で作業時間と休息時間を分割する時間術 📆 日時 11/22㈰_13:30～16:00 13:15 開場 13:30～13:40 自己紹介、今日やること宣言 13:40～15:30 もくもく会 15:30-15:50 交流タイム 16:00 退場 ＊16:00以降は参加者同士でカフェで交流する「もぐもぐ会」を開催します！…"
-    },
-    {
-      "title": "AIを信頼して使いこなすための Jagged Frontier Mapping ワークショップ",
-      "event_url": "https://mlxse.connpass.com/event/411452/",
-      "started_at": "2026/11/22 14:00",
-      "place": "東京都",
-      "catch": "",
-      "description": "本ワークショップ概要 AI駆動での開発で難しい問題の1つは 「何をどこまでAIに任せていいかわからない」 です。AIに何でもかんでも任せていたら時折とんでもない失敗をやらかすが、一方で、AIが高速に出す大量のアウトプットをいちいち人間がレビューしていたら、人間側のコストがかかりすぎます。 この「何をどこまでAIに任せていいかわからない」問題は、一般的な解決策もまだ知られていません。 Jagged Frontier マッピングは、私たち 機械学習工学研究会（MLSE） 「AIとアジャイル」 ワーキンググループ にて考案した手法です。これは、「AIが得意か」と「人間が成果物の誤りを検知できるか」の2軸で、開発時のさまざまなタスクをマッピングするものです。 これにより、 AIに任せていいもの AIに任せるべきでないもの AIに任せるなら対策を施すべきもの が区別できます。…"
-    },
-    {
-      "title": "日本ITストラテジスト協会（JISTA）若手会【2026年11月23日(月祝)】",
-      "event_url": "https://connpass.com/event/410993/",
-      "started_at": "2026/11/23 09:00",
-      "place": "東京都",
-      "catch": "",
-      "description": "【今月のテーマ】 2026年11月の月例会は、 「Runway実践活用ワークショップ」 となります。 生成AIツール「Runway」を活用し、テキストや写真、動画素材からショート動画を制作するノウハウを参加者全員で体験・学習しましょう。 アジェンダ： 1.Runway基礎解説＋環境構築 2.チーム演習・発表 チームごとにRunwayを使って動画作成していただくため、PCの持参をお願いします！ ※Runwayを使った動画作成経験なしでも問題ございません、アカウント作成も不要です。 【形式】 対面開催 （文京区シビックセンター3階会議室C） 【本研究会の趣旨・概要説明】 30代までの日本ITストラテジスト協会（JISTA）会員で構成する「若手会」を立ち上げ、若手ならではの視点でJISTAの活性化をする 背景…"
+      "title": "[Microsoft Ignite] マイクロソフト、Ignite開幕もCopilot有料シート数は依然不明 モルガン・スタンレーは650ドル目標で強気 - BigGo ファイナンス",
+      "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01MHlfMmc5cENaa0hrRVFwZ052Z0J3OTVjN2p5ZkRlV2lWbU54RGJWLWdIZnJ6WUx6WjhUQUVfd1U0U0JMOXZfOFI0VkNtcTFjSlBsZ0VQQ21sem54Zlpia1dJaTVlVnZLOV9tbmNLdUhHQnJH?oc=5",
+      "started_at": "2026/11/16 00:05",
+      "place": "Chicago / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE01MHlfMmc5cENaa0hrRVFwZ052Z0J3OTVjN2p5ZkRlV2lWbU54RGJWLWdIZnJ6WUx6WjhUQUVfd1U0U0JMOXZfOFI0VkNtcTFjSlBsZ0VQQ21sem54Zlpia1dJaTVlVnZLOV9tbmNLdU",
+      "vendor_event": true
     },
     {
       "title": "第16回 ロッパー会(with ウィザードリィ愛好会)",
@@ -762,6 +746,14 @@
       "description": "connpass内でイベント申し来み後、このページの「参加者への情報」を必ずご確認下さい。 イベント概要 セキュ塾のハッキング体験会ではサイバー攻撃の “脅威” を“簡単な攻撃演習” を通じて体験できます！ 「ドラマに出てきたりするハッカーって実際は何をしているの？」「ハッキングの学習ってなに？」 そんな疑問を体験学習で解消しませんか？ セキュ塾の「ハッキング体験講座」では、 月に一度＆短い時間で気軽に 実践的なハッキング に触れる機会を提供しております。 現地参加の方は用意された仮想環境で、 実際に自分の手を動かして、サイバー攻撃の実践演習を行うことができるので、 可能ならば現地での参加がオススメです。 登壇者プロフィール 『サイバーセキュリティ技術者育成コース』 一色 慎一郎…"
     },
     {
+      "title": "[秋葉原] がやがやと勉強する会 (テーマ自由、初心者歓迎！)",
+      "event_url": "https://weeyble-creative.connpass.com/event/410895/",
+      "started_at": "2026/11/28 13:00",
+      "place": "東京都",
+      "catch": "コワーキングスペースに集まって自習する会です。意見交換等でおしゃべりするのは大歓迎です(^^♪",
+      "description": "今回の会場 コワーキングスペース秋葉原 Weeyble さん ( 地図 ) 書籍リストはこちら 一緒に勉強会の運営してくださる方募集してます -> 主催者募集 最寄り駅： JR 秋葉原 昭和通り口徒歩4分くらい 東京メトロ 日比谷線 秋葉原 4番出口 徒歩3分くらい 1Fは飲食店となっておりますので、立ち入らないようご注意ください。 ビルの南西端側にエレベーターがありますので、そちらから3Fに上がってください。 迷った場合、遅れる場合等はSlackにてご連絡ください。 (Connpassからのお問い合わせではリアルタイムでの対応は致しかねます) Slack https://join.slack.com/t/weeyble/shared_invite/zt-nz4xw882-eQ4dK~~2kr0iK6EK7K1w6Q 情報共有にSlackを使用します。事前に登録をお願いします。 (…"
+    },
+    {
       "title": "もくもく会 in 浜松町（第34回）",
       "event_url": "https://atsumaru-mokumoku.connpass.com/event/411657/",
       "started_at": "2026/11/28 13:15",
@@ -794,12 +786,28 @@
       "description": "新型コロナウィルス感染対策につきまして 以下のような基準を設けます。皆様のご協力、ご了承をお願いします。 ご自宅で体温を計測のうえ、もし発熱や体調不良などある場合は参加をご遠慮ください 会場についたら手洗いや手指の消毒やうがいなど予防をお願いします 会場ではマスク着用をお願いします 会場ではソーシャルディスタンスの確保にご協力ください 下記のような状況になった場合、中止する可能性があります。ご了承ください。 会場、あるいは地区からの中止や自粛要請があった場合 主催者やメンターの欠員が多数出た場合 付近の小中学校の学級閉鎖や子ども向け地域活動の中止など、地域としての対策の動きが多く見られた場合 このイベントについて こちら から過去の開催レポートも見ることができます。 CoderDojo赤羽 とは 子どものためのプログラミング道場 です。 CoderDojo は世界的（日本は こちら…"
     },
     {
+      "title": "『数理統計学 吉田朋宏著』勉強会 第1回",
+      "event_url": "https://ml-for-experts.connpass.com/event/411783/",
+      "started_at": "2026/11/29 10:00",
+      "place": "東京都",
+      "catch": "測度論を用いた数理統計学の勉強会です。より緻密な漸近理論が目標です。",
+      "description": "内容 『数理統計学』吉田朋宏著の勉強会です。 初回は第1章 確率分布(できれば第2章 線形推測論 も)を流し読みします。 第3章 統計的決定理論 から本格的に勉強会で読んでいきたいと思っていますが、取りこぼしがないように、また、復習が必要な内容の確認のために、軽く1,2章も扱います。 数理統計学の教科書の中でも、この本では精緻な漸近理論を学ぶことができます。（標本数を大きくしたときや、より高次の項まで考慮した場合の近似精度など。） 以下、進め方です。(ただし初回はもっとゆるく) 1. チェックポイントを決めて、そこまで各自で黙読 2. 黙読して疑問がある箇所を参加者が自由に挙げる 3. 疑問点や関連話題を議論 4. 1-3 を何回か回す 演習問題に取り組んだり、各自で読み進めていただくパートを設ける場合もありますが、聞くだけの参加も歓迎です！ 最初の10分で入室・準備とします。 場所…"
+    },
+    {
       "title": "Google Developer Group DevFest Tokyo 2026",
       "event_url": "https://gdg-tokyo.connpass.com/event/405628/",
       "started_at": "2026/11/29 12:00",
       "place": "東京都",
       "catch": "Google の最先端 AI と「つくる・動かす」を極める。最先端 AI の開発手法と活用を学ぶ祭典",
-      "description": "Google Developer Group Tokyo が主催する年次技術カンファレンス「 GDG DevFest Tokyo 2026 」。 昨年は 600名以上のエンジニア が集まり熱狂を生んだ DevFest Tokyo。AI が劇的に進化した今年は、第一線のエキスパート陣を招き「 AI を前提とした 」最先端の開発手法や設計をさらに深掘りします。さらに、AI を活用して業務改善やものづくりに取り組むコードを書かない \"ビルダー\" (Builder) から、プロのエンジニアまで、 すべての人が知見を共有できる場へとパワーアップ！ Google の最先端 AI と「 つくる・動かす 」を極める1日を、一緒に作りましょう！ 💡 コードを書かない方（ビジネスパーソン・デザイナー等の Builder）へ: 分かりやすい案内を用意した Luma (GDG Tokyo - 日本語)…"
+      "description": "Google Developer Group Tokyo が主催する年次技術カンファレンス「 GDG DevFest Tokyo 2026 」。 昨年は 600名以上のエンジニア が集まり熱狂を生んだ DevFest Tokyo。AI が劇的に進化した今年は、第一線のエキスパート陣を招き「 AI を前提とした 」最先端の開発手法や設計をさらに深掘りします。さらに、AI を活用して業務改善やものづくりに取り組むコードを書かない \"ビルダー\" (Builder) から、プロのエンジニアまで、 すべての人が知見を共有できる場へとパワーアップ！ Google の最先端 AI と「 つくる・動かす 」を極める1日を、一緒に作りましょう！ GDG DevFest Tokyo 2026 公式特設サイト公開！…"
+    },
+    {
+      "title": "[秋葉原] AI駆動開発 / LLM もくもく会 (初参加・初心者大歓迎！)",
+      "event_url": "https://weeyble-data.connpass.com/event/413277/",
+      "started_at": "2026/11/29 13:00",
+      "place": "東京都",
+      "catch": "",
+      "description": "AI駆動開発や大規模言語モデル（LLM）についての理解を深めるためのもくもく会です。 「LLMそのものを学びたい」「AI駆動開発を試したい」「生成AIを実務に取り入れたい」「普通にもくもく作業したい」など、目的は何でもOK。 初心者から実践ユーザーまで、誰でも気軽に参加できます。 キーワード: Claude Code / Codex / Gemini / OpenClaw / Cursor / Copilot / Kiro / MCP / ChatGPT / RAG / LangChain / LangGraph / Hugging Face / Prompt Engineering / LLMOps / Vector DB / 自然言語処理 / テスト自動化 / ドキュメント生成 / データパイプライン / DevOps自動化 / Databricks / MLflow / RPA…"
     },
     {
       "title": "TokyuRuby会議17 参加者募集",
