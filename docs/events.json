@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T01:28:58Z",
+  "generated_at": "2026-11-19T00:56:40Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] NEC官公領域メンバーによる AWS Summit Washington, D.C. 2026 参加レポート - NEC",
@@ -55,6 +55,14 @@
       "started_at": "2026/10/07 14:21",
       "place": "Chicago / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE42eGZVb3ZISnI0WXlVTWdMZ2lkaUY0U1FCd3BGNW5FYkhYVTZ2UUIxTV9uWklxVWdEcVliQk4zYzZaVkE0UmdHYjVMR1ZiQ3RjUGRVWlZ1dXR5cUlYUjFpMVVlb1N1QQ?oc=5\" targe",
+      "vendor_event": true
+    },
+    {
+      "title": "[AWS re:Invent 参加レポート] 「AWS re:Invent 2025」参加レポート──若手の成長を支援するグローバルな学びとAIの最前線: コーポレートブログ - NEC",
+      "event_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mZmpwdTA4a0RibFM1cHRrY3dzSnZiT0RBSUxhbVpyVDA2MzZSV1EyRVB0VDJkZHVhY1V3TTFYSnNVTkNWcHlScHpEc1cwU1VPRzYxMjZSN2JfcVlibkVranJYMlR6Zw?oc=5",
+      "started_at": "2026/10/10 21:54",
+      "place": "Las Vegas / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1mZmpwdTA4a0RibFM1cHRrY3dzSnZiT0RBSUxhbVpyVDA2MzZSV1EyRVB0VDJkZHVhY1V3TTFYSnNVTkNWcHlScHpEc1cwU1VPRzYxMjZSN2JfcVlibkVranJYMlR6Zw?oc=5\" targe",
       "vendor_event": true
     },
     {
@@ -138,14 +146,6 @@
       "vendor_event": true
     },
     {
-      "title": "[Microsoft Ignite] マイクロソフト、Ignite開幕もCopilot有料シート数は依然不明 モルガン・スタンレーは650ドル目標で強気 - BigGo ファイナンス",
-      "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01MHlfMmc5cENaa0hrRVFwZ052Z0J3OTVjN2p5ZkRlV2lWbU54RGJWLWdIZnJ6WUx6WjhUQUVfd1U0U0JMOXZfOFI0VkNtcTFjSlBsZ0VQQ21sem54Zlpia1dJaTVlVnZLOV9tbmNLdUhHQnJH?oc=5",
-      "started_at": "2026/11/16 00:05",
-      "place": "Chicago / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE01MHlfMmc5cENaa0hrRVFwZ052Z0J3OTVjN2p5ZkRlV2lWbU54RGJWLWdIZnJ6WUx6WjhUQUVfd1U0U0JMOXZfOFI0VkNtcTFjSlBsZ0VQQ21sem54Zlpia1dJaTVlVnZLOV9tbmNLdU",
-      "vendor_event": true
-    },
-    {
       "title": "[Microsoft Ignite] 米マイクロソフト（MSFT.US）の「Ignite」カンファレンスが本日開幕しました。Copilotの収益化とAI演算能力への投資回収が焦点となり、企業向けAIの好循環が実現するかどうかが注目されます。 - Moomoo",
       "event_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpGZTlfdTlVOEhNYmVVZVVCNzlDTTN6bUFudkVGRC1aeGx1NkRwLTExeXZEOE9Tb0pwNVVkNGRYZkZhMjBoTURsOWlwX3ZGOU12bjZTWVA3bnNVYlNXWDVINnFQd2tBdkpfbE9ja0FJYmI0TXhEaWpBeHktbTNuWTlrUjJjNE1xR1RCOC1GVnFwMFE5akRYVlRzWGt2Z0l5UkEzT3ZBQXE2blByc0cweXhORXY?oc=5",
       "started_at": "2026/11/17 18:01",
@@ -162,28 +162,20 @@
       "vendor_event": true
     },
     {
-      "title": "【11/23(祝) 13:00〜】はじめての自動運転プログラミング〜AIとつくるRumiCar〜",
-      "event_url": "https://rumicar.connpass.com/event/411045/",
-      "started_at": "2026/11/23 13:00",
-      "place": "東京都",
-      "catch": "初心者でも大丈夫！自動運転の基本からAIへの上手な指示の出し方までRumiCarを動かして学べます！",
-      "description": "⸻ 現役エンジニアから学ぶ！ ラジコンで挑む「自動運転」プログラミング体験 今回は「AIと一緒にプログラムを改良する」新しいエクササイズも体験できます！ ⸻ 「自動運転って、どうやって動いているの？」 その仕組みを、実際に手を動かしながら学べる体験型の教室です。 プログラミングが初めての方も大歓迎。 学生から大人まで、年齢を問わずご参加いただけます。 「やってみたい」という気持ちさえあれば大丈夫です。 小学生のお子様は、保護者の方とご一緒にご参加ください（過去の回では小学4年生の方が保護者同伴で参加されています）。中学生以上の方は、お一人でのご参加も歓迎します。…"
+      "title": "[Microsoft Ignite] MicrosoftがAI戦略を大幅アップデート、Copilotは「仕事の新しいOS」へ。Salesforce連携やGPT-6.2提供も【Ignite 2026速報】 - 窓の杜",
+      "event_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PSmpjRUZtd0NtSHI5cXpOQktGRXNBMDhTN0lWUDBCN0tQMHl2Q2I4RlNJS2dZejRnTS1uYnpucDlYdGRXanVyVkhESzhyRXN4MjRaa21wc3BCUEppZ1lXZmxZOUtYcF9q?oc=5",
+      "started_at": "2026/11/18 10:40",
+      "place": "Chicago / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PSmpjRUZtd0NtSHI5cXpOQktGRXNBMDhTN0lWUDBCN0tQMHl2Q2I4RlNJS2dZejRnTS1uYnpucDlYdGRXanVyVkhESzhyRXN4MjRaa21wc3BCUEppZ1lXZmxZOUtYcF9q?oc=5\" tar",
+      "vendor_event": true
     },
     {
-      "title": "[11/23] Intro to Self-Driving with RumiCar & AI",
-      "event_url": "https://rumicar.connpass.com/event/411318/",
-      "started_at": "2026/11/23 13:00",
-      "place": "東京都",
-      "catch": "Beginners welcome! Code a self-driving car with AI",
-      "description": "⸻ Learn from a Working Engineer! An \"Autonomous Driving\" Programming Experience with RC Cars This time, you can also try a new exercise: improving your program together with AI! ⸻ \"How does self-driving actually work?\" This is a hands-on workshop where you learn the mechanics by actually building it yourself. First-time programmers are very welcome. From students to adults, anyone can join…"
-    },
-    {
-      "title": "第34回クラウド女子会〜Kiro による AI 駆動開発ハンズオン〜",
-      "event_url": "https://jawsug-cloudgirl.connpass.com/event/406264/",
-      "started_at": "2026/11/23 14:00",
-      "place": "東京都",
-      "catch": "",
-      "description": "第34回クラウド女子会 〜Kiro による AI 駆動開発ハンズオン〜 概要 みなさまこんにちは！クラウド女子会です。 今回は、 〜 Kiro による AI 駆動開発 ～ を実施するハンズオン会をオフラインで開催いたします。 タイムスケジュール ※ 当日予告なく時間配分・内容が変更になる可能性がございます。 時間 内容 登壇者（敬称略） 14:00〜14:10 オープニング 運営 14:10〜14:15 Kiro LT枠① TBD 14:15〜14:20 Kiro LT枠② TBD 14:20〜14:30(10分) 運営よりハンズオン内容の説明、導入 全員 14:30〜16:20(110分) ハンズオン 全員 16:20〜16:35(15分) ディスカッション、交流 全員 16:35〜16:45(10分) クロージング 全員 16:45〜17:00(15分) 記念撮影、後片付け 全員…"
+      "title": "[Open Source Summit Japan] 「Open Source Summit Japan 2026」出展と講演のお知らせ【12 月 7 日 ～ 9 日開催】｜お知らせ - サイバートラスト",
+      "event_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3LVZiTTIwOVlac0lWUEVZV2d3cmxaSE41djRuS3RSUmRpcENMWWNaNDczdVk3YUF6YWpINVh4eEYtOUdDRDl1bE9DcEpaMi03UFdGUUg3SmRlbnd6Z2FpVkhKYnFsRnByaGMyMm9zUnVseEVsMDFtYmtPeFlDZw?oc=5",
+      "started_at": "2026/11/18 14:50",
+      "place": "東京 / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB3LVZiTTIwOVlac0lWUEVZV2d3cmxaSE41djRuS3RSUmRpcENMWWNaNDczdVk3YUF6YWpINVh4eEYtOUdDRDl1bE9DcEpaMi03UFdGUUg3SmRlbnd6Z2FpVkhKYnFsRnByaGMyMm9zUn",
+      "vendor_event": true
     },
     {
       "title": "【11/23(祝)】第20回RumiCar走行会@北とぴあ",
@@ -306,6 +298,14 @@
       "description": "11月25日（水）の夜、銀座のGrafana Executive Briefing Center, Tokyo (EBC)で、インシデント対応の話をする会を開きます。 Grafana Japanからはオブザーバビリティの最新アップデートを、SIGQからは10月にサンフランシスコで開かれたObservabilityCON 2026に参加して感じたことをお話しします。セッションのあとは、参加者同士でディスカッションする時間を設けます。オブザーバビリティやインシデント対応について、各社の実際のところを話し合いましょう。 現地のみの開催で、配信も録画もありません。ここでしか話せない事例や悩みを持ち寄る夜にしたいと思っています。 開催概要 項目 内容 日時 2026年11月25日（水）19:00〜21:00（18:30 受付開始） 会場 Grafana Executive Briefing…"
     },
     {
+      "title": "【オンライン開催】現役コンサル事業責任者・採用責任者に直接聞けるコンサル説明.vol7",
+      "event_url": "https://connpass.com/event/413651/",
+      "started_at": "2026/11/25 19:00",
+      "place": "東京都",
+      "catch": "IT領域で働く方を中心にプロジェクト、コンサルティング、キャリア等をテーマに学び・交流するイベント",
+      "description": "IT経験を、次は「コンサル」というキャリアへ。 「ITコンサルに興味はあるけれど、自分の経験で本当に目指せるのか分からない」 「エンジニアとして経験を積んできたが、この先のキャリアをどうするか考え始めている」 「求人や面接対策の記事は見るものの、実際に採用する側が何を見ているのか知りたい」 そんなIT経験者の方に向けた、 少人数のコンサルキャリア・面接対策セミナー です。 開催概要 日時 2026年11月25日（金）19:00〜 開場：18時45分～ 会場 オンライン参加 参加費 無料 定員 5名程度 今回登壇するのは、 現在も上場企業でコンサルティング事業を率いながら、過去にはBig4コンサルティングファームの部門側で採用に携わり、数多くの候補者との面接・採用判断を行ってきた事業責任者 です。 コンサルタントとして実際に働く側と、候補者を採用する側。 その両方を経験してきた立場から、…"
+    },
+    {
       "title": "ご飯を食べながらアプリ開発もくもく会＆LT会",
       "event_url": "https://mirameet.connpass.com/event/411352/",
       "started_at": "2026/11/25 19:00",
@@ -410,12 +410,12 @@
       "description": "Ansible Night：Re−CONNECT 〜最新ユースケースと10年モノの秘伝のタレを語り明かそう〜 コンセプト Ansible、最近どう使ってる？ 構成管理ツールのデファクトとして長年インフラを支えてきたAnsible。 AIの登場によって新時代の自動化（Ansible LightspeedやLLM連携など）へ進化を遂げる一方で、長年運用され続けてきた「10年モノのPlaybook」には、現場の血と汗と知恵が詰まっています。 『Ansible Night：Re−CONNECT』は、そんな「新しい使い方」と「王道の使い方」をCONNECTし、これからのAnsible活用をみんなで大激論＆ワイワイ語り合うコミュニティミートアップです！ ベテラン勢のノウハウに学ぶも良し、最新AI連携に目を輝かせるも良し。Ansible愛を語り尽くしましょう！ イベント詳細 イベント情報 詳細 日程…"
     },
     {
-      "title": "※増席しました！【インディーゲームの出口戦略会議】～作ったゲーム、どう売ればいい？～",
+      "title": "※再々増席しました！【インディーゲームの出口戦略会議】～作ったゲーム、どう売ればいい？～",
       "event_url": "https://morikatron-ai-connect.connpass.com/event/411263/",
       "started_at": "2026/11/26 18:30",
       "place": "東京都",
       "catch": "主催：モリカトロンAIコネクト（モリカトロン株式会社）",
-      "description": "※好評につき、5席追加しました！（11/17更新） ❚ 「モリカトロンAIコネクト」とは？ エンタメとAIの可能性を探る、 クリエイター＆エンジニア向けのコミュニティ です。 ゲーム・漫画・アニメ・映画・音楽など、 エンターテインメント業界におけるAI活用の最新動向を共有し、議論・交流を行います。 「エンタメ×AI」に関わるすべての人がつながり、 新たなアイデアやプロジェクトが生まれる場をつくり、ともに業界を盛り上げていきます！ ❚ イベント概要 テーマ「インディーゲーム×AI」 昨今のバイブコーディングの進化で、一人もしくは少人数でゲームが作れるようになってきました。 奇想天外なアイデアや、作り手のこだわりから生まれる、今までにない新しい遊び。 次の「その手があったか！」という驚きは、インディーゲームから生まれる に違いありません。 残す課題は、…"
+      "description": "※好評につき、さらに5席追加し、定員を45名に変更しました！（11/18更新） 今回が最後の増席となります。 ※好評につき、さらに5席追加し、定員を40名に変更しました！（11/18更新） ※好評につき、5席追加し、定員を35名に変更しました！（11/17更新） ❚ 「モリカトロンAIコネクト」とは？ エンタメとAIの可能性を探る、 クリエイター＆エンジニア向けのコミュニティ です。 ゲーム・漫画・アニメ・映画・音楽など、 エンターテインメント業界におけるAI活用の最新動向を共有し、議論・交流を行います。 「エンタメ×AI」に関わるすべての人がつながり、 新たなアイデアやプロジェクトが生まれる場をつくり、ともに業界を盛り上げていきます！ ❚ イベント概要 テーマ「インディーゲーム×AI」 昨今のバイブコーディングの進化で、一人もしくは少人数でゲームが作れるようになってきました。…"
     },
     {
       "title": "白金鉱業 Meetup Vol.26@六本木（数理最適化編）",
@@ -474,20 +474,20 @@
       "description": "みんなのAI駆動PM イベント趣旨 「ほかの現場では、プロジェクトマネジメントにどうAIを取り入れているんだろう？」 AIで議事録や資料をつくる。その先で、プロジェクトの管理・推進にどう組み込み、チームの仕事をどう変えていくか。実践する中で、試行錯誤している方も多いと思います。 「みんなのAI駆動PM」は、プロジェクトマネジメントの現場でのAI活用を持ち寄る、LT形式のイベントです。 さまざまな現場の実践者が、抱えていた課題、AIを取り入れた仕組みや運用、その結果や効果を共有します。うまくいったことに加えて、難しかったことや、実践を通じて気づいたことも取り上げます。 使えるツール、会社のルール、チームの構成、メンバーのAIへの習熟度。プロジェクトごとに、前提となる環境は異なります。…"
     },
     {
-      "title": "STORES AI Lounge「STORES のプロダクト開発は、AIとどう歩んできた？」",
-      "event_url": "https://hey.connpass.com/event/412613/",
-      "started_at": "2026/11/26 19:00",
-      "place": "東京都",
-      "catch": "",
-      "description": "STORES AI Lounge「STORES のプロダクト開発は、AIとどう歩んできた？」 STORES では、AIを前提としたプロダクト開発に向け、開発環境やプロセスの整備など、 組織をあげてさまざまな取り組みを進めてきました。 AIが活躍するための土台を整える。STORES が通常の開発業務を止めてまで「STORES AI Week」を開催した理由 「Slack で依頼して仕事を進める」をやめる。AI 時代の仕事のあり方を、STORES が内製している理由 本イベントでは、そんな STORES のプロダクト開発の現場から、 実際に取り組んできたことや、開発の進め方に起きた変化をお話しします。 うまくいったことだけでなく、取り組む中で見えてきた課題や、 今まさに悩んでいることも含めて共有します。 発表後の懇親会では軽食を片手にワイワイ語り合いましょう。…"
-    },
-    {
       "title": "第27回Ques　#ques27",
       "event_url": "https://ques.connpass.com/event/406638/",
       "started_at": "2026/11/26 19:00",
       "place": "東京都",
       "catch": "AIで加速するQAの現場 vol.2",
       "description": "第27回Ques 「AIで加速するQAの現場」 Quesとは？ QuesはQAエンジニアの活性化を目的とした、ヒューマンクレストが運営するQA専門イベントです。 ソフトウェア品質保証に関わる方々が、会社間の垣根を越えて情報交換し交流を深め、日本のQA業界を盛り上げる場となることを目指しています。 開催概要 第27回Quesは、株式会社ディー･エヌ･エー様に会場をご提供いただき、ハイブリッドで開催いたします！ 今回のテーマは、前回に引き続き「AIで加速するQAの現場」。 前回開催時には大変多くの反響をいただき、「現場でのAI活用事例をもっと知りたい」「さらに具体的な内容が知りたい」という声を数多くいただきました。 試行から実務定着へとフェーズが進む今だからこそ、一歩踏み込んだ現場のリアルな知見やノウハウを持ち帰っていただける場になればと思い、テーマを継続することといたしました。…"
+    },
+    {
+      "title": "STORES AI Lounge「STORES のプロダクト開発は、AIとどう歩んできた？」",
+      "event_url": "https://hey.connpass.com/event/412613/",
+      "started_at": "2026/11/26 19:00",
+      "place": "東京都",
+      "catch": "",
+      "description": "STORES AI Lounge「STORES のプロダクト開発は、AIとどう歩んできた？」 STORES では、AIを前提としたプロダクト開発に向け、開発環境やプロセスの整備など、 組織をあげてさまざまな取り組みを進めてきました。 AIが活躍するための土台を整える。STORES が通常の開発業務を止めてまで「STORES AI Week」を開催した理由 「Slack で依頼して仕事を進める」をやめる。AI 時代の仕事のあり方を、STORES が内製している理由 本イベントでは、そんな STORES のプロダクト開発の現場から、 実際に取り組んできたことや、開発の進め方に起きた変化をお話しします。 うまくいったことだけでなく、取り組む中で見えてきた課題や、 今まさに悩んでいることも含めて共有します。 発表後の懇親会では軽食を片手にワイワイ語り合いましょう。…"
     },
     {
       "title": "【増席】テキストコミュニケーションを改善するUXライティング〜「伝えた」と「伝わった」の間で〜",
@@ -770,6 +770,14 @@
       "description": "connpass内でイベント申し来み後、このページの「参加者への情報」を必ずご確認下さい。 イベント概要 セキュ塾のハッキング体験会ではサイバー攻撃の “脅威” を“簡単な攻撃演習” を通じて体験できます！ 「ドラマに出てきたりするハッカーって実際は何をしているの？」「ハッキングの学習ってなに？」 そんな疑問を体験学習で解消しませんか？ セキュ塾の「ハッキング体験講座」では、 月に一度＆短い時間で気軽に 実践的なハッキング に触れる機会を提供しております。 現地参加の方は用意された仮想環境で、 実際に自分の手を動かして、サイバー攻撃の実践演習を行うことができるので、 可能ならば現地での参加がオススメです。 登壇者プロフィール 『サイバーセキュリティ技術者育成コース』 一色 慎一郎…"
     },
     {
+      "title": "【データサイエンスonly】もくもく会",
+      "event_url": "https://datamoku.connpass.com/event/413683/",
+      "started_at": "2026/11/28 13:00",
+      "place": "東京都",
+      "catch": "作業もデータサイエンス限定のもくもく会です！※「【データサイエンス好き】～」とは区別してます。",
+      "description": "特に注意 （会場を一緒に利用する上での信用に大きく関わるため、） ご参加の際は、事前に下記「集合時間・場所について」を必ずお読みください。 前提：グループ説明 https://datamoku.connpass.com/ 内容 作業対象をデータサイエンス関連に限定したもくもく会です。 （勉強始めたての方も大歓迎で、「データサイエンス取り組んでる」という共通点があってこそしやすい交流等ができればと思っての会です！） ※（★0）もくもく会といっても、「きっちり集中作業の時間を設ける」方針ではなく、（せっかく顔合わせる機会ですので、）会話が盛り上がれば交流会的な感じにするイメージのゆるめな感じでやっています。 静かで綺麗なコワーキングスペースで、情報交換等もしながら一緒に如何でしょうか！？ ※電源やwifi、自販機、フリードリンクあります。 集合時間・場所について…"
+    },
+    {
       "title": "[秋葉原] がやがやと勉強する会 (テーマ自由、初心者歓迎！)",
       "event_url": "https://weeyble-creative.connpass.com/event/410895/",
       "started_at": "2026/11/28 13:00",
@@ -800,6 +808,14 @@
       "place": "東京都",
       "catch": "赤羽・北区周辺で開催するゆるいもくもく会です。 初心者歓迎・入退室自由。",
       "description": "赤羽ゆるもく会 #11｜初心者歓迎・作業/勉強/読書OK 赤羽・北区周辺で「近所でふらっと来れる作業場所」があったらいいなと思い、ゆるいもくもく会を始めました。 土日の昼に集まり、それぞれがやりたい作業や勉強をするシンプルな会です。 エンジニアに限らず、学習・制作・読書など何でもOKです。 「家だと集中できない」 「近所で作業仲間がほしい」 「ゆるく人と繋がれる場所がほしい」 そんな方はぜひ気軽に参加してください。 気軽に参加できるゆるい作業会です☕ 💴 参加費 1000円（会場費・お菓子代込み） 🧑‍💻 この会について 作業ジャンル自由（プログラミング・資格勉強・個人開発・読書など） 初心者歓迎 入退室自由 会話OK（作業優先・静かめな雰囲気） 主催者も一参加者として作業しています Wi-Fiあり 電源あり 簡単なお菓子あり 簡単な自己紹介はありますが、無理な交流はありません。 ⏰…"
+    },
+    {
+      "title": "第118回 Machine Learning 15minutes! Hybrid",
+      "event_url": "https://machine-learning15minutes.connpass.com/event/407753/",
+      "started_at": "2026/11/28 14:00",
+      "place": "東京都",
+      "catch": "機械学習(AI・人工知能)に関するカジュアルトークイベント",
+      "description": "【イベント参加にあたって】 2026年開催のMachine Learning 15minutes!はハイブリット開催になります！！！ 参加者にはメールで参加情報をお知らせいたしますので、よろしくお願いいたします。 【重要】 イベントに申し込む前に、X をフォローいただき、FBグループ、Facebookにご登録ください。 https://x.com/kazuma_kadomae https://www.facebook.com/groups/1052659918147632/ ※ハッシュタグ #ML15min 「Machine Learning 15minutes! Broadcast」は、「機械学習」について「15minutes以内」で語るLTを7～8人で行い、機械学習の先端的な社会実装事例、AI…"
     },
     {
       "title": "CoderDojo赤羽 #77",
@@ -842,12 +858,12 @@
       "description": "TokyuRuby会議とは TokyuRuby会議は、東京で開催される Regional RubyKaigi です。 Ruby に興味を持つエンジニアが集う Tokyu.rb 主催の LT 大会です。 飲み食いしつつ、みんなでLTをして盛り上がろうというイベントです。 抽選LTを実施予定です！ 抽選LT発表者の指名は抽選により、当日会場にて行います！当たるかもしれません！ 今回も参加者のみなさんの投票により飯王、酒王、LT王を決定します！ 詳細は 公式ページ を御覧ください。 タイムテーブル TBA 会場 ご提供：株式会社アンドパッド様 会場 ANDPAD STADIUM 東京都港区三田3-5-19 住友不動産東京三田ガーデンタワー 37階 会場について 入館方法 ビル入館にあたって、 QR コードが必要になるので、以下を注意ください。 開催 3 営業日前より順次入館用 QR…"
     },
     {
-      "title": "AI DRIVEN ミートアップ",
+      "title": "AI DRIVEN｜みんなのAI活用術を持ち寄るミートアップ",
       "event_url": "https://connpass.com/event/412674/",
       "started_at": "2026/11/30 19:00",
       "place": "東京都",
-      "catch": "AI業務活用、ぶっちゃけどう？ リアルな事例と開発デモを公開します。",
-      "description": "AI業務活用、ぶっちゃけどう？ 営業資料・LPの実演から、安全な運用と費用管理まで。 AIで作った営業資料やLP、日々の作業を自動化する仕組みを見ながら、「自分の仕事なら、何から試せるか」を一緒に考える勉強会です。完成したものだけでなく、AIに渡す情報、依頼の仕方、人が確認するポイントも紹介します。 便利さとあわせて、情報の取り扱い・権限・承認などのAIガバナンス（安全に使うためのルール）や、トークン使用量・費用の確認、予算・利用上限を管理する際のポイントも取り上げます。 AI DRIVENは、AIを仕事や事業、日々の活動に取り入れたい方のための実践コミュニティです。経営者、会社員、個人事業主、学生など、興味がある方ならどなたでも歓迎。開発経験は必要ありません。 開催概要 日時 ：2026年11月30日（月）19:00〜21:00 会場 ： MIDORI.so…"
+      "catch": "AIの活用術を共有し合うミートアップ。リアルな事例を大公開。あなたのAI活用も聞かせてください。",
+      "description": "AIの活用術を共有し合うミートアップ リアルな事例を大公開。あなたのAI活用も聞かせてください。 仕事や日常で試してよかったAIの使い方、便利だった工夫、うまくいかなかったこと。そんな経験を持ち寄って、参加者同士で情報交換するイベントです。 まずは参加者によるライトニングトーク（LT）で、それぞれのAI活用を共有。その後、主催のYonkuroが実際に取り組んできた事例を、画面やデモを交えて紹介します。最後の1時間は、皆さんで情報交換する交流の時間です。これからAIを使ってみたい方や、話を聞いてみたい方も歓迎です。開発経験は必要ありません。 ZenbuAIがスポンサーとなり、参加費は無料です。 コミュニティ 開催後も情報交換を続けたい方は、AI DRIVENのLINEコミュニティへ。次回のイベントもこちらでお知らせします。 AI DRIVENのLINEコミュニティはこちら…"
     },
     {
       "title": "【増枠】マルチプロダクト基盤の立ち上げとどう向き合ってきたか",
