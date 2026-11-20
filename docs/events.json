@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T00:56:40Z",
+  "generated_at": "2026-11-20T01:00:19Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] NEC官公領域メンバーによる AWS Summit Washington, D.C. 2026 参加レポート - NEC",
@@ -98,14 +98,6 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - 沖縄タイムス社",
-      "event_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5",
-      "started_at": "2026/10/29 16:00",
-      "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5\" target=\"_blank\">",
-      "vendor_event": true
-    },
-    {
       "title": "[Red Hat Summit] Red Hat Summit:Connect;Tokyo｜Japan（2026年10月29日） - SCSK株式会社",
       "event_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5T01PTjh2LTAwRUl1eFZHQS16RlRBUWRaeWNnb1JVZ093VXFIRmthb3kyZjVhUVBwTnMzTlc4dVdTcGtfX2VSUlYxT1M4elBPT29OQlh3VmVRdw?oc=5",
       "started_at": "2026/10/29 16:00",
@@ -122,11 +114,11 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe 参加レポート] 「AIは物語を書かない。あなたが書く」AI slopに向き合うGitHubが示した、メンテナーを守る機能と人間の役割【GitHub Universe 2026】 (1/3)|DeveloperZine - CodeZine",
-      "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EUWJIMVF2Y2dPcVNIY3BfLUR0MmgtNG9ZNi1GXzVxU1d3ZC1MVWFidllpMC10cWJfS21NUGxFcUdLbndVZk5La1IzSTBIQ3NoUWc?oc=5",
-      "started_at": "2026/10/30 16:00",
+      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - 沖縄タイムス社",
+      "event_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5",
+      "started_at": "2026/10/29 16:00",
       "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EUWJIMVF2Y2dPcVNIY3BfLUR0MmgtNG9ZNi1GXzVxU1d3ZC1MVWFidllpMC10cWJfS21NUGxFcUdLbndVZk5La1IzSTBIQ3NoUWc?oc=5\" target=\"_blank\">「AIは物語を書かない。あなたが",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5\" target=\"_blank\">",
       "vendor_event": true
     },
     {
@@ -143,14 +135,6 @@
       "started_at": "2026/11/11 02:08",
       "place": "Chicago / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQN19Ob2JSejFHcWlra3o3MnNBMjAwUnJMVml0aDFlVjlaSFBzaE1CenJ0d1F5ci1NcUNwLU1DNVJwUXd6TW0taVcyOXFiS1pndzNWcUtqWGFiYXlYMG1oUUw5MldRR2pCSTRBakhyU2",
-      "vendor_event": true
-    },
-    {
-      "title": "[Microsoft Ignite] 米マイクロソフト（MSFT.US）の「Ignite」カンファレンスが本日開幕しました。Copilotの収益化とAI演算能力への投資回収が焦点となり、企業向けAIの好循環が実現するかどうかが注目されます。 - Moomoo",
-      "event_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpGZTlfdTlVOEhNYmVVZVVCNzlDTTN6bUFudkVGRC1aeGx1NkRwLTExeXZEOE9Tb0pwNVVkNGRYZkZhMjBoTURsOWlwX3ZGOU12bjZTWVA3bnNVYlNXWDVINnFQd2tBdkpfbE9ja0FJYmI0TXhEaWpBeHktbTNuWTlrUjJjNE1xR1RCOC1GVnFwMFE5akRYVlRzWGt2Z0l5UkEzT3ZBQXE2blByc0cweXhORXY?oc=5",
-      "started_at": "2026/11/17 18:01",
-      "place": "Chicago / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpGZTlfdTlVOEhNYmVVZVVCNzlDTTN6bUFudkVGRC1aeGx1NkRwLTExeXZEOE9Tb0pwNVVkNGRYZkZhMjBoTURsOWlwX3ZGOU12bjZTWVA3bnNVYlNXWDVINnFQd2tBdkpfbE9ja0",
       "vendor_event": true
     },
     {
@@ -178,12 +162,20 @@
       "vendor_event": true
     },
     {
-      "title": "【11/23(祝)】第20回RumiCar走行会@北とぴあ",
-      "event_url": "https://rumicar.connpass.com/event/411316/",
-      "started_at": "2026/11/23 15:30",
-      "place": "東京都",
-      "catch": "My RumiCarを走らせよう！RumiCar をお持ちでない方・自動運転に興味がある方も大歓迎！",
-      "description": "第20回 RumiCar走行会@北とぴあ RumiCarとは？ RumiCarは プログラミング可能な自動走行車 です。パソコンでプログラミングができます。 車体前方には3基のレーザー測距モジュールを搭載しており、前方3方向の障害物までの距離を測定できます。レーザー測距モジュールは、人体に無害なレーザー光線を照射し、物体に当たって戻ってくるまでの時間から距離を計算する仕組みです。 過去（第17回）の様子 関連リンク Facebookグループ: https://www.facebook.com/groups/rumicar GitHub: https://github.com/RumiCar-group/RumiCar YouTube: https://www.youtube.com/c/RumiCar 参加・チャンネル登録もお待ちしています。 開催日時・会場 開催日時…"
+      "title": "[GitHub Universe] 「エージェントにプロダクトへの思いは引き継げない」GitHubのプロダクト・CTO・アドボカシー責任者に聞く、エージェント時代の開発 (1/3)|DeveloperZine - CodeZine",
+      "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KajB2c0dSM1dLM21STll4YTlQczVibTNaQ1Myb0hNMXVPYldVSUlTblpuYm9oUTFORmhSVHA5MjB6OGtBUTJ3bGNDOE5CTEQ5bUE?oc=5",
+      "started_at": "2026/11/19 10:00",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KajB2c0dSM1dLM21STll4YTlQczVibTNaQ1Myb0hNMXVPYldVSUlTblpuYm9oUTFORmhSVHA5MjB6OGtBUTJ3bGNDOE5CTEQ5bUE?oc=5\" target=\"_blank\">「エージェントにプロダクトへの思",
+      "vendor_event": true
+    },
+    {
+      "title": "[GitHub Universe 参加レポート] 日本から参加した3人が注目するGitHubの新機能は？ GitHub Universe 2026の会場で聞いた現場の本音 - CodeZine",
+      "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Va3FLdFBXVmtiZWdWNGlXZXFqTTk3a0JCeXREZk5PaF9lamVncnBoWlBSdG1TNEk0aVNadnZHYXFQR2c1VWhxQ3NyLTdWQWdOSnc?oc=5",
+      "started_at": "2026/11/20 08:00",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Va3FLdFBXVmtiZWdWNGlXZXFqTTk3a0JCeXREZk5PaF9lamVncnBoWlBSdG1TNEk0aVNadnZHYXFQR2c1VWhxQ3NyLTdWQWdOSnc?oc=5\" target=\"_blank\">日本から参加した3人が注目するG",
+      "vendor_event": true
     },
     {
       "title": "神楽坂第3ターミナル",
@@ -199,7 +191,7 @@
       "started_at": "2026/11/24 18:15",
       "place": "東京都",
       "catch": "QAについて熱く語り合う夜",
-      "description": "イベントの概要 本イベントはQA周りについて話すことを目的とした勉強会です。 今回はオフライン・オンラインの両方での開催を予定しています。 オンラインでのアクセス先は当日連絡予定です。 プログラム 時間 コンテンツ 登壇者 18:15-18:30 開場 ---- 18:30-18:35 オープニング tarappo 18:35-18:50 テスト自動化の先、テスト自律化に向けて 松谷峰生 18:50-19:05 品質を積み上げられるようにする 井芹洋輝 19:05-19:25 「動かしてみないと分からない」をなくす。本番トラフィックを活用した新旧ロジック比較と安全なリリースへの道（仮） ブロッコリー 18:25-19:40 不具合情報からプロダクトコードのリスクスコアを可視化する（仮） tarappo 19:40-19:55 ブラウザ互換性を保つために、ブラウザテスト以外にできること…"
+      "description": "イベントの概要 本イベントはQA周りについて話すことを目的とした勉強会です。 今回はオフライン・オンラインの両方での開催を予定しています。 オンラインでのアクセス先は当日連絡予定です。 プログラム 時間 コンテンツ 登壇者 18:15-18:30 開場 ---- 18:30-18:35 オープニング tarappo 18:35-18:50 テスト自動化の先、テスト自律化に向けて 松谷峰生 18:50-19:05 品質を積み上げられるようにする 井芹洋輝 19:05-19:25 「動かしてみないと分からない」をなくす。本番トラフィックを活用した新旧ロジック比較と安全なリリースへの道（仮） ブロッコリー 18:25-19:40 不具合情報からプロダクトコードのリスクスコアを可視化 tarappo 19:40-19:55 ブラウザ互換性を保つために、ブラウザテスト以外にできること 末村拓也…"
     },
     {
       "title": "毎週火曜にやってる！プログラミング&ITなんでも勉強部屋（11月第4週）",
@@ -239,7 +231,7 @@
       "started_at": "2026/11/24 19:00",
       "place": "東京都",
       "catch": "初心者大歓迎！みんなでわいわいSwiftについて語ろう！",
-      "description": "【オンライン参加の方】 YouTube Liveでの配信も行う予定ですので、こちらでも参加お待ちしております！ 📃 イベント概要 Swift好きで集まって、ビール片手にわいわい LT会です！ Swiftからプログラムを始めた方 Objective-C時代からやってきた方 他の言語（Java, Ruby, etc）をやりながらSwiftを勉強されてる方 いろんな背景の人で集まってSwiftを遊び倒したいです！ イベント前半では、 Swift全般 に関するお話や、iOSアプリ開発 スキルアップのための様々なテクニック をお話する\"Swift談義タイム\"。 後半は、Swift仲間をつくる懇親会へ^^/ なお、絶賛Swift談義スピーカー募集してます。 ぜひご経験をお聞かせください！ 🎯 対象者 Swiftが好きな人！ Swiftを好きになる予定の人 むしろSwiftから好かれている人 🎤…"
+      "description": "📃 イベント概要 今年で11年目となるSwift愛好会は、言語としてのSwiftが好きな方からiOSアプリ開発が好きな方まで、幅広い方々が集まるコミュニティです。自分の好きなことをビール片手にワイワイとLTをするイベントとなっています！ 色々なバックグラウンドを持つ参加者が集い、LTや懇親会を通じてSwiftやApple Platformを遊び倒します！ イベント前半では、 Swift全般 に関する話や、iOSアプリ開発のノウハウ共有を話す \"談義タイム\" 後半は、Swift仲間をつくる懇親会を行います！ 🎯 対象者 Swiftが好きな人！ Swiftを好きになる予定の人 むしろSwiftから好かれている人 最近AIを利用してアプリを作っている個人開発者の方 iOSアプリを作っているエンジニアと交流したい人 🎤 登壇者（談義）…"
     },
     {
       "title": "AWS re:Invent 2026 直前交流会 〜現地で一緒に楽しめる「仲間」をつくろう！〜",
@@ -287,7 +279,7 @@
       "started_at": "2026/11/25 19:00",
       "place": "東京都",
       "catch": "サポートエンジニアも参加！メール周りのトピックについて、参加者同士で気軽に話しましょう",
-      "description": "🌟イベントについて SendGrid Nightは、クラウド型メール配信サービスTwilio SendGridのコミュニティイベントです。 今回のテーマは「メールの不達を防ぐには」。ある調査では約6通に1通のメールは受信トレイに届いていないといわれており、実はメールの不達は身近な問題です。 日頃の悩みや対策、運用のTipsなど、参加者同士で気軽に情報交換しませんか？ 当日は、SendGridのサポートエンジニアもLTや懇親会に参加する予定です。メールが届く仕組みやありがちな失敗を、事例など交えながらお伝えできればと思います。 SendGridをご利用中の方はもちろん、まだSendGridを使ったことはないけど「メール配信について学びたい」「SendGridに興味がある」という方のご参加もお待ちしています！ 参加方法：…"
+      "description": "🌟イベントについて SendGrid Nightは、クラウド型メール配信サービスTwilio SendGridのコミュニティイベントです。 今回のテーマは「メールの不達を防ぐには」。ある調査では約6通に1通のメールは受信トレイに届いていないといわれており、実はメールの不達は身近な問題です。 日頃の悩みや対策、運用のTipsなど、参加者同士で気軽に情報交換しませんか？ 当日は、SendGridのサポートエンジニアもLTや懇親会に参加する予定です。メールが届く仕組みやありがちな失敗を、事例など交えながらお伝えできればと思います。 SendGridをご利用中の方はもちろん、まだSendGridを使ったことはないけど「メール配信について学びたい」「SendGridに興味がある」という方も大歓迎！…"
     },
     {
       "title": "ObservabilityCON 2026とインシデント対応の話",
@@ -296,14 +288,6 @@
       "place": "東京都",
       "catch": "ObservabilityCON 2026やインシデント対応の話をしましょう！",
       "description": "11月25日（水）の夜、銀座のGrafana Executive Briefing Center, Tokyo (EBC)で、インシデント対応の話をする会を開きます。 Grafana Japanからはオブザーバビリティの最新アップデートを、SIGQからは10月にサンフランシスコで開かれたObservabilityCON 2026に参加して感じたことをお話しします。セッションのあとは、参加者同士でディスカッションする時間を設けます。オブザーバビリティやインシデント対応について、各社の実際のところを話し合いましょう。 現地のみの開催で、配信も録画もありません。ここでしか話せない事例や悩みを持ち寄る夜にしたいと思っています。 開催概要 項目 内容 日時 2026年11月25日（水）19:00〜21:00（18:30 受付開始） 会場 Grafana Executive Briefing…"
-    },
-    {
-      "title": "【オンライン開催】現役コンサル事業責任者・採用責任者に直接聞けるコンサル説明.vol7",
-      "event_url": "https://connpass.com/event/413651/",
-      "started_at": "2026/11/25 19:00",
-      "place": "東京都",
-      "catch": "IT領域で働く方を中心にプロジェクト、コンサルティング、キャリア等をテーマに学び・交流するイベント",
-      "description": "IT経験を、次は「コンサル」というキャリアへ。 「ITコンサルに興味はあるけれど、自分の経験で本当に目指せるのか分からない」 「エンジニアとして経験を積んできたが、この先のキャリアをどうするか考え始めている」 「求人や面接対策の記事は見るものの、実際に採用する側が何を見ているのか知りたい」 そんなIT経験者の方に向けた、 少人数のコンサルキャリア・面接対策セミナー です。 開催概要 日時 2026年11月25日（金）19:00〜 開場：18時45分～ 会場 オンライン参加 参加費 無料 定員 5名程度 今回登壇するのは、 現在も上場企業でコンサルティング事業を率いながら、過去にはBig4コンサルティングファームの部門側で採用に携わり、数多くの候補者との面接・採用判断を行ってきた事業責任者 です。 コンサルタントとして実際に働く側と、候補者を採用する側。 その両方を経験してきた立場から、…"
     },
     {
       "title": "ご飯を食べながらアプリ開発もくもく会＆LT会",
@@ -674,6 +658,14 @@
       "description": "CoderDojo末広町 第93回 CoderDojo末広町は、秋葉原で開催している子ども向け参加費無料のプログラミングクラブです。 基本的に毎月一回第4土曜日に行っています。 開催内容 日 時 : 2026年11月28日（土） 10:00～12:00ごろ 参加費 : 無料 参加条件 : 7歳から17歳ぐらい 内容 : このワークショップでは、マイコンボード「UIAPduino」を使って、LEDやセンサーなどを動かしながら、プログラミングと電子工作を体験します。 「プログラミングはやったことがあるけど、電子工作は初めて」 「電子工作に興味があるけど、何から始めればいいかわからない」 そんなニンジャにもおすすめです。 初心者でも歓迎します！ 電子工作が初めてでも大丈夫です。 資料URL： ワークショップにて使用する資料のURLです。ワークショップの予習復習にご利用ください。…"
     },
     {
+      "title": "Terraformで学ぶ！コードで作るインフラ｜IaC入門ハンズオン",
+      "event_url": "https://zeki-chan-lab.connpass.com/event/413545/",
+      "started_at": "2026/11/28 10:00",
+      "place": "東京都",
+      "catch": "初心者向けハンズオンです",
+      "description": "ハンズオンへようこそ！ CloudFormationやコンソールでインフラを作ったことはあるけど、 「コンソールでポチポチ作った環境、\"同じものをもう一度\"と言われたら再現できる自信がない…」 「CloudFormationは触ったけど、よく聞く\"Terraform\"って何が違うの？」 「\"インフラをコードで管理（IaC）\"って現場で言われるけど、実際どう書いて動かすの？」 そんな\"次のステップ\"でつまずきがちなポイントを、手を動かしながら体系的に解決します。 このハンズオンでは、 Terraform を使って .tf ファイル（コード）から実際にAWSのEC2を1台作成 し、さらに コードを書き換えてインフラを更新 するところまでを体験します。「手作業」から「コードによる管理（IaC）」への一歩を、実際のコマンド（ init → plan → apply → destroy…"
+    },
+    {
       "title": "【ハッカソン】LINKS:POWER of DATA x DATA 2026",
       "event_url": "https://connpass.com/event/411586/",
       "started_at": "2026/11/28 10:00",
@@ -760,6 +752,14 @@
       "place": "東京都",
       "catch": "自作CPUを語る会との併催です！",
       "description": "自作OSもくもく発表作業会とは？ OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です．このイベントの対象は次のような方々です． 自作OSに興味があり，OS関係の本を読んでいる（または今から読み始める） 自分のOSを作っていたり，既存のOSを学んだり，改造している 低レイヤ技術に興味があり，情報交換したい 過去の発表資料は ここ に，録画は ここ にまとまっています． オフライン開催について 今回の自作OSもくもく発表作業会は 自作CPUを語る会 と併催のオフライン開催となります． また，Zoomからオンラインでも参加可能です． 当日のスケジュール 参加リンクについては，参加登録をすると見える，connpassの「参加者への情報」に当日記載しますので，ご確認ください． 時刻 内容 13:00-13:05 集合，準備 13:05-13:10 開会…"
+    },
+    {
+      "title": "【AWSセキュリティ】「怖い」をなくす権限管理！IAMユーザー作成と安全な運用ルールを学ぼう",
+      "event_url": "https://zeki-chan-lab.connpass.com/event/413737/",
+      "started_at": "2026/11/28 13:00",
+      "place": "東京都",
+      "catch": "初心者向けハンズオンです",
+      "description": "🔐【AWSセキュリティ】「怖い」をなくす権限管理！IAMユーザー作成と安全な運用ルールを学ぼう 😱 もしかして「ルートユーザー」で作業していませんか？ 「AWSアカウントを作った時のメールアドレス（ルートユーザー）でログインして、そのままEC2を立てている」 もしそうだとしたら、 非常に危険 です。 万が一、そのアカウントが乗っ取られたら… 一瞬で数百万円の高額請求（クラウド破産） システムを全削除される 個人情報の流出 これらを防ぐための「最初の砦」が、 AWS IAM（アイアム） です。 このハンズオンでは、現場では絶対にやってはいけない「NG行動」を知り、安全にAWSを使うための「権限管理」の基本をマスターします。 「セキュリティって難しそう…」と思っている方こそ、最初に受けてほしい講座です。 🎯 今回のミッション：安全な組織を作れ！…"
     },
     {
       "title": "【未経験者にオススメ!】月一ハッキング体験会 #2026/11",
