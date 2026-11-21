@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T00:33:46Z",
+  "generated_at": "2026-11-21T23:41:55Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] NEC官公領域メンバーによる AWS Summit Washington, D.C. 2026 参加レポート - NEC",
@@ -154,6 +154,14 @@
       "vendor_event": true
     },
     {
+      "title": "[Microsoft Ignite] 米マイクロソフト（MSFT.US）の「Ignite」カンファレンスが本日開幕しました。Copilotの収益化とAI演算能力への投資回収が焦点となり、企業向けAIの好循環が実現するかどうかが注目されます。 - Moomoo",
+      "event_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpGZTlfdTlVOEhNYmVVZVVCNzlDTTN6bUFudkVGRC1aeGx1NkRwLTExeXZEOE9Tb0pwNVVkNGRYZkZhMjBoTURsOWlwX3ZGOU12bjZTWVA3bnNVYlNXWDVINnFQd2tBdkpfbE9ja0FJYmI0TXhEaWpBeHktbTNuWTlrUjJjNE1xR1RCOC1GVnFwMFE5akRYVlRzWGt2Z0l5UkEzT3ZBQXE2blByc0cweXhORXY?oc=5",
+      "started_at": "2026/11/17 18:01",
+      "place": "Chicago / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpGZTlfdTlVOEhNYmVVZVVCNzlDTTN6bUFudkVGRC1aeGx1NkRwLTExeXZEOE9Tb0pwNVVkNGRYZkZhMjBoTURsOWlwX3ZGOU12bjZTWVA3bnNVYlNXWDVINnFQd2tBdkpfbE9ja0",
+      "vendor_event": true
+    },
+    {
       "title": "[Microsoft Ignite] MicrosoftがAI戦略を大幅アップデート、Copilotは「仕事の新しいOS」へ。Salesforce連携やGPT-6.2提供も【Ignite 2026速報】 - 窓の杜",
       "event_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PSmpjRUZtd0NtSHI5cXpOQktGRXNBMDhTN0lWUDBCN0tQMHl2Q2I4RlNJS2dZejRnTS1uYnpucDlYdGRXanVyVkhESzhyRXN4MjRaa21wc3BCUEppZ1lXZmxZOUtYcF9q?oc=5",
       "started_at": "2026/11/18 10:40",
@@ -170,19 +178,19 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe] 日本から参加した3人が注目するGitHubの新機能は？ GitHub Universe 2026の会場で聞いた現場の本音 - CodeZine",
+      "title": "[Microsoft Ignite] オッペンハイマー氏、マイクロソフトのIgniteカンファレンスでAI製品イノベーションを発表 - Moomoo",
+      "event_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZl9ZTmktel9TMlBpZ3d6NjVDVWFGczdfLWxiMUVnajBNbkF2NXNCU0JTa3d4eEVtb3VodVhMclY2b2tkQVRFWThUdU1DYjVjS3JzaklHOENxV1RoTV9GVU5YX0VjVTBCZVBZZGdHd1hQSHVLVVg3YnBYcFJlRkQ4REJZaUswUnNGbzNTWGlrdzZKeTVPdGtLemdnd1dOYVJtcVQ1NHJ4NlBoWlJ5MFZDVXc1UlNid2w0WDdaNk0xZw?oc=5",
+      "started_at": "2026/11/19 02:03",
+      "place": "Chicago / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZl9ZTmktel9TMlBpZ3d6NjVDVWFGczdfLWxiMUVnajBNbkF2NXNCU0JTa3d4eEVtb3VodVhMclY2b2tkQVRFWThUdU1DYjVjS3JzaklHOENxV1RoTV9GVU5YX0VjVTBCZVBZZGdHd1",
+      "vendor_event": true
+    },
+    {
+      "title": "[GitHub Universe 参加レポート] 日本から参加した3人が注目するGitHubの新機能は？ GitHub Universe 2026の会場で聞いた現場の本音 - CodeZine",
       "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Va3FLdFBXVmtiZWdWNGlXZXFqTTk3a0JCeXREZk5PaF9lamVncnBoWlBSdG1TNEk0aVNadnZHYXFQR2c1VWhxQ3NyLTdWQWdOSnc?oc=5",
       "started_at": "2026/11/20 08:00",
       "place": "San Francisco / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Va3FLdFBXVmtiZWdWNGlXZXFqTTk3a0JCeXREZk5PaF9lamVncnBoWlBSdG1TNEk0aVNadnZHYXFQR2c1VWhxQ3NyLTdWQWdOSnc?oc=5\" target=\"_blank\">日本から参加した3人が注目するG",
-      "vendor_event": true
-    },
-    {
-      "title": "[Microsoft Ignite] マイクロソフトとセールスフォースがCRM連携「Copilotforce」、競合が手を組むAI営業の勝算 - BigGo ファイナンス",
-      "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NcUNjMVROQkpEVElhYUJiMkJjd002UnlqZG14S01ZR0pHekFqV25wVHUwcjFuMXVkY1U1aUJqTWNCSzBxeGR0ZDdFZFZ6S2NUanVqcno1aWd3M3E3dTdybERCek5CTVBIRU1OQjZKdUhvWXFi?oc=5",
-      "started_at": "2026/11/20 18:55",
-      "place": "Chicago / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5NcUNjMVROQkpEVElhYUJiMkJjd002UnlqZG14S01ZR0pHekFqV25wVHUwcjFuMXVkY1U1aUJqTWNCSzBxeGR0ZDdFZFZ6S2NUanVqcno1aWd3M3E3dTdybERCek5CTVBIRU1OQjZKdU",
       "vendor_event": true
     },
     {
@@ -191,7 +199,7 @@
       "started_at": "2026/11/24 18:15",
       "place": "東京都",
       "catch": "QAについて熱く語り合う夜",
-      "description": "イベントの概要 本イベントはQA周りについて話すことを目的とした勉強会です。 今回はオフライン・オンラインの両方での開催を予定しています。 オンラインでのアクセス先は当日連絡予定です。 プログラム 時間 コンテンツ 登壇者 18:15-18:30 開場 ---- 18:30-18:35 オープニング tarappo 18:35-18:50 テスト自動化の先、テスト自律化に向けて 松谷峰生 18:50-19:05 品質を積み上げられるようにする 井芹洋輝 19:05-19:25 「動かしてみないと分からない」をなくす。本番トラフィックを活用した新旧ロジック比較と安全なリリースへの道（仮） ブロッコリー 18:25-19:40 不具合情報からプロダクトコードのリスクスコアを可視化 tarappo 19:40-19:55 ブラウザ互換性を保つために、ブラウザテスト以外にできること 末村拓也…"
+      "description": "イベントの概要 本イベントはQA周りについて話すことを目的とした勉強会です。 今回はオフライン・オンラインの両方での開催を予定しています。 オンラインでのアクセス先は当日連絡予定です。 プログラム 時間 コンテンツ 登壇者 18:15-18:30 開場 ---- 18:30-18:35 オープニング tarappo 18:35-18:50 テスト自動化の先、テスト自律化に向けて 松谷峰生 18:50-19:05 品質を積み上げられるようにする 井芹洋輝 19:05-19:25 「動かしてみないと分からない」をなくす。本番トラフィックを活用した新旧ロジック比較と安全なリリースへの道（仮） ブロッコリー 18:25-19:40 不具合データを用いたプロダクトコードの弱点可視化 tarappo 19:40-19:55 ブラウザ互換性を保つために、ブラウザテスト以外にできること 末村拓也…"
     },
     {
       "title": "毎週火曜にやってる！プログラミング&ITなんでも勉強部屋（11月第4週）",
