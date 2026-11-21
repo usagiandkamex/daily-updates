@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T01:00:19Z",
+  "generated_at": "2026-11-21T00:33:46Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] NEC官公領域メンバーによる AWS Summit Washington, D.C. 2026 参加レポート - NEC",
@@ -98,6 +98,14 @@
       "vendor_event": true
     },
     {
+      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - Digital PR Platform",
+      "event_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiSTdLdkFzNjRfbno4M0xRT0RrQTlKUUpuTXhBLUFnY3dUTDB0b3Y4dmxwQzFtbzlzOGRUeGFWUmxSbHc?oc=5",
+      "started_at": "2026/10/29 16:00",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiSTdLdkFzNjRfbno4M0xRT0RrQTlKUUpuTXhBLUFnY3dUTDB0b3Y4dmxwQzFtbzlzOGRUeGFWUmxSbHc?oc=5\" target=\"_blank\">GitHub、GitHub Universe 2026でAIエージェント",
+      "vendor_event": true
+    },
+    {
       "title": "[Red Hat Summit] Red Hat Summit:Connect;Tokyo｜Japan（2026年10月29日） - SCSK株式会社",
       "event_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5T01PTjh2LTAwRUl1eFZHQS16RlRBUWRaeWNnb1JVZ093VXFIRmthb3kyZjVhUVBwTnMzTlc4dVdTcGtfX2VSUlYxT1M4elBPT29OQlh3VmVRdw?oc=5",
       "started_at": "2026/10/29 16:00",
@@ -114,19 +122,19 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - 沖縄タイムス社",
-      "event_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5",
+      "title": "[GitHub Universe 参加レポート] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】 (1/3)|DeveloperZine - CodeZine",
+      "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uS0hDa2pIdFhFSUNwek5HOHJXLWQtYW9ieVNwSl9oeFlWc0xydHkxT3VPVmh5QjRBZmYzN08xNXoxYUZTM3FHY2c1ODROSlh0dGc?oc=5",
       "started_at": "2026/10/29 16:00",
       "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5\" target=\"_blank\">",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uS0hDa2pIdFhFSUNwek5HOHJXLWQtYW9ieVNwSl9oeFlWc0xydHkxT3VPVmh5QjRBZmYzN08xNXoxYUZTM3FHY2c1ODROSlh0dGc?oc=5\" target=\"_blank\">月間70億件超のコミットを、Gi",
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe 参加レポート] 【GitHub Universe 2026】AIエージェント急増に伴うGitインフラ全面刷新の舞台裏と、人とAIが対等に協調する開発の未来 - クラウド Watch",
-      "event_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOXRwZGVSZnBEd0FoMk1TcUZzTXhNVE5LV3NQNEN1d2RPOUptOV9aWFNrQ3E3cFBmdV81OWNDTTFFUlN6RFJQT3hEZTlzUXZRZzZoYmVTM0Rpb2Q1b0tGa0xuYWdqdjg1?oc=5",
-      "started_at": "2026/11/05 17:00",
+      "title": "[GitHub Universe 参加レポート] 「AIは物語を書かない。あなたが書く」AI slopに向き合うGitHubが示した、メンテナーを守る機能と人間の役割【GitHub Universe 2026】 (1/3)|DeveloperZine - CodeZine",
+      "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EUWJIMVF2Y2dPcVNIY3BfLUR0MmgtNG9ZNi1GXzVxU1d3ZC1MVWFidllpMC10cWJfS21NUGxFcUdLbndVZk5La1IzSTBIQ3NoUWc?oc=5",
+      "started_at": "2026/10/30 16:00",
       "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOXRwZGVSZnBEd0FoMk1TcUZzTXhNVE5LV3NQNEN1d2RPOUptOV9aWFNrQ3E3cFBmdV81OWNDTTFFUlN6RFJQT3hEZTlzUXZRZzZoYmVTM0Rpb2Q1b0tGa0xuYWdqdjg1?oc=5\" tar",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EUWJIMVF2Y2dPcVNIY3BfLUR0MmgtNG9ZNi1GXzVxU1d3ZC1MVWFidllpMC10cWJfS21NUGxFcUdLbndVZk5La1IzSTBIQ3NoUWc?oc=5\" target=\"_blank\">「AIは物語を書かない。あなたが",
       "vendor_event": true
     },
     {
@@ -138,11 +146,11 @@
       "vendor_event": true
     },
     {
-      "title": "[Open Source Summit Japan] 日立、The Linux Foundationのグローバルイベント「Open Source Summit Japan - ニコニコニュース",
-      "event_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rY0h4bGk2X01fWW5nb3I4aENSOXNJNlRnRVgzVHUtbUVRQlRQT0Q4aE1rQ2NCdF9QYXBCYjVKdDVhVUkyUUZZR2NDUGVZaC05Rk1nc3paQWNCMWVKMWF6SFhNdS1xem0tU1BZQXJJVQ?oc=5",
-      "started_at": "2026/11/17 18:51",
+      "title": "[Open Source Summit Japan] 日立、The Linux Foundationのグローバルイベント「Open Source Summit Japan 2026」において、日本企業最多の11講演に登壇 - Infoseek",
+      "event_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fZ3p1RjhHVzdLYjFTY3o2b3QtbmVlZFBYYnlpanNfN3JtSkFESVFpM2hXNUt4N1BrRW9zZUJkQzdzcEJfdGNZMk5oQllrbUlVN29kNWczVUlhZTVKSlZDZWYwUTcyNDBtOWZ0U09LTDUxQQ?oc=5",
+      "started_at": "2026/11/17 13:15",
       "place": "東京 / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1rY0h4bGk2X01fWW5nb3I4aENSOXNJNlRnRVgzVHUtbUVRQlRQT0Q4aE1rQ2NCdF9QYXBCYjVKdDVhVUkyUUZZR2NDUGVZaC05Rk1nc3paQWNCMWVKMWF6SFhNdS1xem0tU1BZQXJJVQ",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5fZ3p1RjhHVzdLYjFTY3o2b3QtbmVlZFBYYnlpanNfN3JtSkFESVFpM2hXNUt4N1BrRW9zZUJkQzdzcEJfdGNZMk5oQllrbUlVN29kNWczVUlhZTVKSlZDZWYwUTcyNDBtOWZ0U09LTD",
       "vendor_event": true
     },
     {
@@ -162,15 +170,7 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe] 「エージェントにプロダクトへの思いは引き継げない」GitHubのプロダクト・CTO・アドボカシー責任者に聞く、エージェント時代の開発 (1/3)|DeveloperZine - CodeZine",
-      "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KajB2c0dSM1dLM21STll4YTlQczVibTNaQ1Myb0hNMXVPYldVSUlTblpuYm9oUTFORmhSVHA5MjB6OGtBUTJ3bGNDOE5CTEQ5bUE?oc=5",
-      "started_at": "2026/11/19 10:00",
-      "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KajB2c0dSM1dLM21STll4YTlQczVibTNaQ1Myb0hNMXVPYldVSUlTblpuYm9oUTFORmhSVHA5MjB6OGtBUTJ3bGNDOE5CTEQ5bUE?oc=5\" target=\"_blank\">「エージェントにプロダクトへの思",
-      "vendor_event": true
-    },
-    {
-      "title": "[GitHub Universe 参加レポート] 日本から参加した3人が注目するGitHubの新機能は？ GitHub Universe 2026の会場で聞いた現場の本音 - CodeZine",
+      "title": "[GitHub Universe] 日本から参加した3人が注目するGitHubの新機能は？ GitHub Universe 2026の会場で聞いた現場の本音 - CodeZine",
       "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Va3FLdFBXVmtiZWdWNGlXZXFqTTk3a0JCeXREZk5PaF9lamVncnBoWlBSdG1TNEk0aVNadnZHYXFQR2c1VWhxQ3NyLTdWQWdOSnc?oc=5",
       "started_at": "2026/11/20 08:00",
       "place": "San Francisco / オンライン",
@@ -178,12 +178,12 @@
       "vendor_event": true
     },
     {
-      "title": "神楽坂第3ターミナル",
-      "event_url": "https://kagurazaka-terminal.connpass.com/event/413076/",
-      "started_at": "2026/11/23 17:50",
-      "place": "東京都",
-      "catch": "快適なシェルの旅をお楽しみください",
-      "description": "神楽坂第3ターミナル 神楽坂ターミナルの第3回勉強会です。 ターミナル関連ツールについての話をしたい方は是非お越しください。 初心者・ベテラン問わず、ターミナルを使い始めた方、自分の設定を語りたい方、CLI仲間がほしい方、皆様大歓迎です。 開催概要 日時: 2026/11/23 17:50-19:10 場所: 牛込箪笥地域センター 4F 会議室バラB 参加費用: 無料 会場は、都営大江戸線 牛込神楽坂駅 A1出口ほぼ直結です。 ※東京メトロ東西線の神楽坂駅と間違えないようご注意ください。 申し込んだ方は、「参加者への情報」の欄から、ポジションペーパーに記入してください。 内容 2026年はいろんなターミナルエミュレータが作られました。 今回は今年見たおもしろいターミナルと関連ツールを紹介していきます。…"
+      "title": "[Microsoft Ignite] マイクロソフトとセールスフォースがCRM連携「Copilotforce」、競合が手を組むAI営業の勝算 - BigGo ファイナンス",
+      "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NcUNjMVROQkpEVElhYUJiMkJjd002UnlqZG14S01ZR0pHekFqV25wVHUwcjFuMXVkY1U1aUJqTWNCSzBxeGR0ZDdFZFZ6S2NUanVqcno1aWd3M3E3dTdybERCek5CTVBIRU1OQjZKdUhvWXFi?oc=5",
+      "started_at": "2026/11/20 18:55",
+      "place": "Chicago / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5NcUNjMVROQkpEVElhYUJiMkJjd002UnlqZG14S01ZR0pHekFqV25wVHUwcjFuMXVkY1U1aUJqTWNCSzBxeGR0ZDdFZFZ6S2NUanVqcno1aWd3M3E3dTdybERCek5CTVBIRU1OQjZKdU",
+      "vendor_event": true
     },
     {
       "title": "QA Test Talk Vol.9",
