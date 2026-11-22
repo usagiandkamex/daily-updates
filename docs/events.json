@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T23:41:55Z",
+  "generated_at": "2026-11-22T23:58:18Z",
   "events": [
     {
       "title": "[AWS Summit Japan 参加レポート] NEC官公領域メンバーによる AWS Summit Washington, D.C. 2026 参加レポート - NEC",
@@ -98,11 +98,11 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - Digital PR Platform",
-      "event_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiSTdLdkFzNjRfbno4M0xRT0RrQTlKUUpuTXhBLUFnY3dUTDB0b3Y4dmxwQzFtbzlzOGRUeGFWUmxSbHc?oc=5",
+      "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - 沖縄タイムス社",
+      "event_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5",
       "started_at": "2026/10/29 16:00",
       "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiSTdLdkFzNjRfbno4M0xRT0RrQTlKUUpuTXhBLUFnY3dUTDB0b3Y4dmxwQzFtbzlzOGRUeGFWUmxSbHc?oc=5\" target=\"_blank\">GitHub、GitHub Universe 2026でAIエージェント",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MeXZTbDRCUVVfSGxKaDBfSDk0aE5VTU1QVGxQSHhqb013OGR5N2lsMUdzbUJVWnFoVHlaclBjTUZoYWo5YUg5YUpuTnpXNjdWZXplX2N1SUFGeTV3c0E?oc=5\" target=\"_blank\">",
       "vendor_event": true
     },
     {
@@ -146,19 +146,19 @@
       "vendor_event": true
     },
     {
+      "title": "[Microsoft Ignite] マイクロソフト、Ignite開幕もCopilot有料シート数は依然不明 モルガン・スタンレーは650ドル目標で強気 - BigGo ファイナンス",
+      "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01MHlfMmc5cENaa0hrRVFwZ052Z0J3OTVjN2p5ZkRlV2lWbU54RGJWLWdIZnJ6WUx6WjhUQUVfd1U0U0JMOXZfOFI0VkNtcTFjSlBsZ0VQQ21sem54Zlpia1dJaTVlVnZLOV9tbmNLdUhHQnJH?oc=5",
+      "started_at": "2026/11/16 00:05",
+      "place": "Chicago / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE01MHlfMmc5cENaa0hrRVFwZ052Z0J3OTVjN2p5ZkRlV2lWbU54RGJWLWdIZnJ6WUx6WjhUQUVfd1U0U0JMOXZfOFI0VkNtcTFjSlBsZ0VQQ21sem54Zlpia1dJaTVlVnZLOV9tbmNLdU",
+      "vendor_event": true
+    },
+    {
       "title": "[Open Source Summit Japan] 日立、The Linux Foundationのグローバルイベント「Open Source Summit Japan 2026」において、日本企業最多の11講演に登壇 - Infoseek",
       "event_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fZ3p1RjhHVzdLYjFTY3o2b3QtbmVlZFBYYnlpanNfN3JtSkFESVFpM2hXNUt4N1BrRW9zZUJkQzdzcEJfdGNZMk5oQllrbUlVN29kNWczVUlhZTVKSlZDZWYwUTcyNDBtOWZ0U09LTDUxQQ?oc=5",
       "started_at": "2026/11/17 13:15",
       "place": "東京 / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5fZ3p1RjhHVzdLYjFTY3o2b3QtbmVlZFBYYnlpanNfN3JtSkFESVFpM2hXNUt4N1BrRW9zZUJkQzdzcEJfdGNZMk5oQllrbUlVN29kNWczVUlhZTVKSlZDZWYwUTcyNDBtOWZ0U09LTD",
-      "vendor_event": true
-    },
-    {
-      "title": "[Microsoft Ignite] 米マイクロソフト（MSFT.US）の「Ignite」カンファレンスが本日開幕しました。Copilotの収益化とAI演算能力への投資回収が焦点となり、企業向けAIの好循環が実現するかどうかが注目されます。 - Moomoo",
-      "event_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpGZTlfdTlVOEhNYmVVZVVCNzlDTTN6bUFudkVGRC1aeGx1NkRwLTExeXZEOE9Tb0pwNVVkNGRYZkZhMjBoTURsOWlwX3ZGOU12bjZTWVA3bnNVYlNXWDVINnFQd2tBdkpfbE9ja0FJYmI0TXhEaWpBeHktbTNuWTlrUjJjNE1xR1RCOC1GVnFwMFE5akRYVlRzWGt2Z0l5UkEzT3ZBQXE2blByc0cweXhORXY?oc=5",
-      "started_at": "2026/11/17 18:01",
-      "place": "Chicago / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpGZTlfdTlVOEhNYmVVZVVCNzlDTTN6bUFudkVGRC1aeGx1NkRwLTExeXZEOE9Tb0pwNVVkNGRYZkZhMjBoTURsOWlwX3ZGOU12bjZTWVA3bnNVYlNXWDVINnFQd2tBdkpfbE9ja0",
       "vendor_event": true
     },
     {
@@ -175,14 +175,6 @@
       "started_at": "2026/11/18 14:50",
       "place": "東京 / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTFB3LVZiTTIwOVlac0lWUEVZV2d3cmxaSE41djRuS3RSUmRpcENMWWNaNDczdVk3YUF6YWpINVh4eEYtOUdDRDl1bE9DcEpaMi03UFdGUUg3SmRlbnd6Z2FpVkhKYnFsRnByaGMyMm9zUn",
-      "vendor_event": true
-    },
-    {
-      "title": "[Microsoft Ignite] オッペンハイマー氏、マイクロソフトのIgniteカンファレンスでAI製品イノベーションを発表 - Moomoo",
-      "event_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZl9ZTmktel9TMlBpZ3d6NjVDVWFGczdfLWxiMUVnajBNbkF2NXNCU0JTa3d4eEVtb3VodVhMclY2b2tkQVRFWThUdU1DYjVjS3JzaklHOENxV1RoTV9GVU5YX0VjVTBCZVBZZGdHd1hQSHVLVVg3YnBYcFJlRkQ4REJZaUswUnNGbzNTWGlrdzZKeTVPdGtLemdnd1dOYVJtcVQ1NHJ4NlBoWlJ5MFZDVXc1UlNid2w0WDdaNk0xZw?oc=5",
-      "started_at": "2026/11/19 02:03",
-      "place": "Chicago / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZl9ZTmktel9TMlBpZ3d6NjVDVWFGczdfLWxiMUVnajBNbkF2NXNCU0JTa3d4eEVtb3VodVhMclY2b2tkQVRFWThUdU1DYjVjS3JzaklHOENxV1RoTV9GVU5YX0VjVTBCZVBZZGdHd1",
       "vendor_event": true
     },
     {
@@ -698,6 +690,14 @@
       "description": "🤖 Akires Tech Event #6｜AI×セキュリティ LT＆交流会 〜相次ぐサイバー攻撃、AIで何が変わる？〜 🚀 イベントについて 2026年9月から10月にかけて、国内企業への不正アクセスや情報漏えいのニュースが相次ぎました。 AIの進化によって開発や業務の進め方が変わる一方、サイバー攻撃の手法にも変化が生まれています。 実際に、サイバー攻撃にAIが利用された事例も報告されています。 攻撃する側もAIを活用する時代。では、守る側や開発する側は、AIとどう向き合っていけばいいのでしょうか？ 例えば、 攻撃者はAIをどのように活用している？ セキュリティ対策や脆弱性の調査に、AIをどう取り入れている？ AIが生成したコードの安全性は、どこまで確認するべき？ 開発効率とセキュリティ、どう両立している？ 他社のエンジニアは、AIを実務でどう活用している？…"
     },
     {
+      "title": "【AWS×Linux】未経験から始めるLinuxコマンド入門！黒い画面への苦手意識を克服しよう",
+      "event_url": "https://zeki-chan-lab.connpass.com/event/413974/",
+      "started_at": "2026/11/28 11:00",
+      "place": "東京都",
+      "catch": "初心者向けハンズオンです",
+      "description": "🔰【AWS×Linux】未経験から始めるLinuxコマンド入門！黒い画面への苦手意識を克服しよう 💻 現場の「困った！」を解決する、実践型ハンズオン 「Linuxサーバーのログを見ておいて」と言われて、フリーズしたことはありませんか？ 資格（LinuC）の勉強でコマンドは覚えたけれど、実際の現場でどう使うのかイメージできない...。 このハンズオンは、そんな 「知識はあるけど実務が不安」な方 や、 「これからエンジニアを目指す」未経験の方 のための、超実践型勉強会です。 現役インフラエンジニアと一緒に、AWS上に実際のサーバーを立てて、現場さながらのトラブル調査を体験してみましょう！ 🎯 今回のミッション：トラブル調査を行え！ ただコマンドを打つだけではありません。実際の現場でありそうな「シナリオ」に沿って進めます。 【あなたの役割】…"
+    },
+    {
       "title": "【一般観覧】技育展2026 決勝大会：エンジニア学生向けピッチコンテスト",
       "event_url": "https://supporterz-seminar.connpass.com/event/413008/",
       "started_at": "2026/11/28 12:00",
@@ -711,7 +711,7 @@
       "started_at": "2026/11/28 12:00",
       "place": "東京都",
       "catch": "会場で中高生のプログラミング作品の発表・デモ・表彰を観覧し、応援しましょう！",
-      "description": "中高生Rubyプログラミングコンテスト2026 の最終審査会を三鷹産業プラザで開催します。 最終審査会では、応募者によるプレゼンテーション、作品デモののち、審査結果発表・フィードバックプレゼン・表彰式、講評を行います。 「つくりたい！が世界を変えていく！」をテーマとして、「ゲーム部門」、ウェブアプリ・IoTなどの作品を扱う「アプリ部門」、新設の「クリエイティブコーディング部門」に挑んだ中高生たちへの応援として、ぜひ足をお運びください。 この募集は一般観覧者を対象としております。 コンテスト応募者や付き添いの方や応募の学校関係者の方には別途当日参加方法をご案内いたします プログラム(予定) 中高生の応募者のゲーム・アプリ作品のプレゼン、デモやクリエイティブコーディング上映を会場で直接見られます。 そして、審査委員長 まつもとゆきひろ氏の講評と、審査結果の発表と表彰式に立ち会えます。…"
+      "description": "中高生Rubyプログラミングコンテスト2026 の最終審査会を三鷹産業プラザで開催します。 最終審査会では、応募者によるプレゼンテーション、作品デモののち、審査結果発表・フィードバックプレゼン・表彰式、講評を行います。 「つくりたい！が世界を変えていく！」をテーマとして、「ゲーム部門」、ウェブアプリ・IoTなどの作品を扱う「アプリ部門」、新設の「クリエイティブコーディング部門」に挑んだ中高生たちへの応援として、ぜひ足をお運びください。 この募集は一般観覧者を対象としております。 コンテスト応募者や付き添いの方や応募の学校関係者の方には別途当日参加方法をご案内いたします プログラム(予定) 中高生の応募者のゲーム・アプリ作品のプレゼン、デモやクリエイティブコーディング部門の紹介を会場で直接見られます。 そして、審査委員長 まつもとゆきひろ氏の講評と、審査結果の発表と表彰式に立ち会えます。…"
     },
     {
       "title": "PyLadies Tokyo Meetup #112 Python 3.15 新機能研究会",
@@ -762,12 +762,12 @@
       "description": "自作OSもくもく発表作業会とは？ OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です．このイベントの対象は次のような方々です． 自作OSに興味があり，OS関係の本を読んでいる（または今から読み始める） 自分のOSを作っていたり，既存のOSを学んだり，改造している 低レイヤ技術に興味があり，情報交換したい 過去の発表資料は ここ に，録画は ここ にまとまっています． オフライン開催について 今回の自作OSもくもく発表作業会は 自作CPUを語る会 と併催のオフライン開催となります． また，Zoomからオンラインでも参加可能です． 当日のスケジュール 参加リンクについては，参加登録をすると見える，connpassの「参加者への情報」に当日記載しますので，ご確認ください． 時刻 内容 13:00-13:05 集合，準備 13:05-13:10 開会…"
     },
     {
-      "title": "【AWSセキュリティ】「怖い」をなくす権限管理！IAMユーザー作成と安全な運用ルールを学ぼう",
-      "event_url": "https://zeki-chan-lab.connpass.com/event/413737/",
+      "title": "【AWS×Linux】AWSで学ぶ 現場で使うLinuxコマンド",
+      "event_url": "https://zeki-chan-lab.connpass.com/event/413975/",
       "started_at": "2026/11/28 13:00",
       "place": "東京都",
       "catch": "初心者向けハンズオンです",
-      "description": "🔐【AWSセキュリティ】「怖い」をなくす権限管理！IAMユーザー作成と安全な運用ルールを学ぼう 😱 もしかして「ルートユーザー」で作業していませんか？ 「AWSアカウントを作った時のメールアドレス（ルートユーザー）でログインして、そのままEC2を立てている」 もしそうだとしたら、 非常に危険 です。 万が一、そのアカウントが乗っ取られたら… 一瞬で数百万円の高額請求（クラウド破産） システムを全削除される 個人情報の流出 これらを防ぐための「最初の砦」が、 AWS IAM（アイアム） です。 このハンズオンでは、現場では絶対にやってはいけない「NG行動」を知り、安全にAWSを使うための「権限管理」の基本をマスターします。 「セキュリティって難しそう…」と思っている方こそ、最初に受けてほしい講座です。 🎯 今回のミッション：安全な組織を作れ！…"
+      "description": "【初級・未経験OK】AWSで学ぶ！現場で使うLinuxコマンドハンズオン 〜前任者が残した\"謎フォルダ\"を棚卸しせよ〜 今日のあなたは、異動してきた「後任者」です ある日、先輩からこう言われます。 「前任者のフォルダ、そのまま引き継いで。中身の棚卸しだけ先にやっといて」 サーバーにログインしました。黒い画面が出ました。 ……で、何を打てばいい？ ホームディレクトリには handson という、前任者が残していった作業フォルダがあります。 中には README_FIRST.txt という引き継ぎメモが1枚。開いてみると、4つのお願いが書かれていました。 [ミッション1] このフォルダに何が入っているか把握してください [ミッション2] logs/ のアクセスログから HTTP 500 エラーが何件出ているか数えてください [ミッション3] tmp/…"
     },
     {
       "title": "【未経験者にオススメ!】月一ハッキング体験会 #2026/11",
@@ -816,6 +816,14 @@
       "place": "東京都",
       "catch": "赤羽・北区周辺で開催するゆるいもくもく会です。 初心者歓迎・入退室自由。",
       "description": "赤羽ゆるもく会 #11｜初心者歓迎・作業/勉強/読書OK 赤羽・北区周辺で「近所でふらっと来れる作業場所」があったらいいなと思い、ゆるいもくもく会を始めました。 土日の昼に集まり、それぞれがやりたい作業や勉強をするシンプルな会です。 エンジニアに限らず、学習・制作・読書など何でもOKです。 「家だと集中できない」 「近所で作業仲間がほしい」 「ゆるく人と繋がれる場所がほしい」 そんな方はぜひ気軽に参加してください。 気軽に参加できるゆるい作業会です☕ 💴 参加費 1000円（会場費・お菓子代込み） 🧑‍💻 この会について 作業ジャンル自由（プログラミング・資格勉強・個人開発・読書など） 初心者歓迎 入退室自由 会話OK（作業優先・静かめな雰囲気） 主催者も一参加者として作業しています Wi-Fiあり 電源あり 簡単なお菓子あり 簡単な自己紹介はありますが、無理な交流はありません。 ⏰…"
+    },
+    {
+      "title": "【AWSセキュリティ】「怖い」をなくす権限管理！IAMユーザー作成と安全な運用ルールを学ぼう",
+      "event_url": "https://zeki-chan-lab.connpass.com/event/413737/",
+      "started_at": "2026/11/28 14:00",
+      "place": "東京都",
+      "catch": "初心者向けハンズオンです",
+      "description": "🔐【AWSセキュリティ】「怖い」をなくす権限管理！IAMユーザー作成と安全な運用ルールを学ぼう 😱 もしかして「ルートユーザー」で作業していませんか？ 「AWSアカウントを作った時のメールアドレス（ルートユーザー）でログインして、そのままEC2を立てている」 もしそうだとしたら、 非常に危険 です。 万が一、そのアカウントが乗っ取られたら… 一瞬で数百万円の高額請求（クラウド破産） システムを全削除される 個人情報の流出 これらを防ぐための「最初の砦」が、 AWS IAM（アイアム） です。 このハンズオンでは、現場では絶対にやってはいけない「NG行動」を知り、安全にAWSを使うための「権限管理」の基本をマスターします。 「セキュリティって難しそう…」と思っている方こそ、最初に受けてほしい講座です。 🎯 今回のミッション：安全な組織を作れ！…"
     },
     {
       "title": "第118回 Machine Learning 15minutes! Hybrid",
