@@ -1,14 +1,6 @@
 {
-  "generated_at": "2026-11-24T04:09:55Z",
+  "generated_at": "2026-11-25T02:55:02Z",
   "events": [
-    {
-      "title": "[Google Cloud Next 参加レポート] Google Cloud Next Tokyo ’26レポート〜クラウドエースのテーマは「個人のAI活用から組織のAXへ」 - クラウドエース株式会社",
-      "event_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qQXZ6dGpTSW5POGxrY0JKVEZ6b29OVUw3MVQ2MktxRGJScGR6eWxFVnA3bzlFUEZMLVZlWTAwSHFNWG5DM2MtbEhpTTVfY0E?oc=5",
-      "started_at": "2026/08/27 16:00",
-      "place": "Las Vegas / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qQXZ6dGpTSW5POGxrY0JKVEZ6b29OVUw3MVQ2MktxRGJScGR6eWxFVnA3bzlFUEZMLVZlWTAwSHFNWG5DM2MtbEhpTTVfY0E?oc=5\" target=\"_blank\">Google Cloud Next To",
-      "vendor_event": true
-    },
     {
       "title": "[AWS Summit Japan 参加レポート] NEC官公領域メンバーによる AWS Summit Washington, D.C. 2026 参加レポート - NEC",
       "event_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tZEhEOTVFbm1PZWs3YkVQazgzYkxyTE5nLVJIeGYybnloS0dZSWw5Z3FKNC14QjdWTXI3RU9aWEdYY21ZMXZKbUZoTDRlQnMwY1NmbmQwaUdNdU50OGZqUGxadkxacENU?oc=5",
@@ -90,19 +82,27 @@
       "vendor_event": true
     },
     {
+      "title": "[GitHub Universe] GitHub、Universe 2026でCopilot Fusionの一般提供を開始 - Unite.AI",
+      "event_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSUVRZjRkdjh1VFpMTXp1Rk5pS1BkNHMxeWRVZnVpc3ZzeGFrU0U?oc=5",
+      "started_at": "2026/10/28 16:00",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNYVNBSEhheXNmMmF3VjlNeFZELWdPcXY2LWYtMktiMEY3TE9WdjJ4aklZVlpFZm1TRnQzdDF5dm9zbFJjTkJxRTNxUkFYa3EwaFA2bTdicEFnMzloSG5Ic29JSlFINDVsc2NTQ08zSU",
+      "vendor_event": true
+    },
+    {
+      "title": "[GitHub Universe] GitHub、AIコード急増に対応するため400万CPUコアを追加―度重なる障害を受け - BigGo ファイナンス",
+      "event_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaHhLMmNW?oc=5",
+      "started_at": "2026/10/28 16:00",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5fOUViY1JiWDZXV09meEtpWEo5WjJsZEIxM0w2bGhRcHl3MjB6VksyY3ZMWi1zZ1A2a0hSZFFDcGpHNnlDTUZxSVJGNTdoTGVLTDRaSDN3Y0NnR05zOUVtTzJIZmd0eTBrbm5abENDaH",
+      "vendor_event": true
+    },
+    {
       "title": "[GitHub Universe] GitHub、GitHub Universe 2026でAIエージェント時代の ソフトウェア開発を加速する新機能とインフラ基盤の進化を発表 - Digital PR Platform",
       "event_url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiSTdLdkFzNjRfbno4M0xRT0RrQTlKUUpuTXhBLUFnY3dUTDB0b3Y4dmxwQzFtbzlzOGRUeGFWUmxSbHc?oc=5",
       "started_at": "2026/10/29 16:00",
       "place": "San Francisco / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiSTdLdkFzNjRfbno4M0xRT0RrQTlKUUpuTXhBLUFnY3dUTDB0b3Y4dmxwQzFtbzlzOGRUeGFWUmxSbHc?oc=5\" target=\"_blank\">GitHub、GitHub Universe 2026でAIエージェント",
-      "vendor_event": true
-    },
-    {
-      "title": "[GitHub Universe] GitHub、AIエージェント時代のソフト開発を加速する新機能とインフラ基盤の進化をGitHub Universe 2026で発表 - gamebiz【ゲームビズ】",
-      "event_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1PbzZ0N2VCTUI2UWNVU1l4Q1pGckIzSlYxNWxGWm5UOFpLcmVGeFhqVWtHUkI5eXhla0pZV085c1ZEZXZK?oc=5",
-      "started_at": "2026/10/29 16:00",
-      "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1PbzZ0N2VCTUI2UWNVU1l4Q1pGckIzSlYxNWxGWm5UOFpLcmVGeFhqVWtHUkI5eXhla0pZV085c1ZEZXZK?oc=5\" target=\"_blank\">GitHub、AIエージェント時代のソフト開発を加速する新機能とインフ",
       "vendor_event": true
     },
     {
@@ -122,11 +122,19 @@
       "vendor_event": true
     },
     {
-      "title": "[GitHub Universe 参加レポート] 【GitHub Universe 2026】AIエージェント急増に伴うGitインフラ全面刷新の舞台裏と、人とAIが対等に協調する開発の未来 - クラウド Watch",
-      "event_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOXRwZGVSZnBEd0FoMk1TcUZzTXhNVE5LV3NQNEN1d2RPOUptOV9aWFNrQ3E3cFBmdV81OWNDTTFFUlN6RFJQT3hEZTlzUXZRZzZoYmVTM0Rpb2Q1b0tGa0xuYWdqdjg1?oc=5",
-      "started_at": "2026/11/05 17:00",
+      "title": "[GitHub Universe 参加レポート] 月間70億件超のコミットを、GitHubは新しいGitアーキテクチャで支える──Copilot Fusionなど新機能も発表【GitHub Universe 2026】 (1/3)|DeveloperZine - CodeZine",
+      "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uS0hDa2pIdFhFSUNwek5HOHJXLWQtYW9ieVNwSl9oeFlWc0xydHkxT3VPVmh5QjRBZmYzN08xNXoxYUZTM3FHY2c1ODROSlh0dGc?oc=5",
+      "started_at": "2026/10/29 16:00",
       "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SOXRwZGVSZnBEd0FoMk1TcUZzTXhNVE5LV3NQNEN1d2RPOUptOV9aWFNrQ3E3cFBmdV81OWNDTTFFUlN6RFJQT3hEZTlzUXZRZzZoYmVTM0Rpb2Q1b0tGa0xuYWdqdjg1?oc=5\" tar",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uS0hDa2pIdFhFSUNwek5HOHJXLWQtYW9ieVNwSl9oeFlWc0xydHkxT3VPVmh5QjRBZmYzN08xNXoxYUZTM3FHY2c1ODROSlh0dGc?oc=5\" target=\"_blank\">月間70億件超のコミットを、Gi",
+      "vendor_event": true
+    },
+    {
+      "title": "[GitHub Universe 参加レポート] 「AIは物語を書かない。あなたが書く」AI slopに向き合うGitHubが示した、メンテナーを守る機能と人間の役割【GitHub Universe 2026】 (1/3)|DeveloperZine - CodeZine",
+      "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EUWJIMVF2Y2dPcVNIY3BfLUR0MmgtNG9ZNi1GXzVxU1d3ZC1MVWFidllpMC10cWJfS21NUGxFcUdLbndVZk5La1IzSTBIQ3NoUWc?oc=5",
+      "started_at": "2026/10/30 16:00",
+      "place": "San Francisco / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EUWJIMVF2Y2dPcVNIY3BfLUR0MmgtNG9ZNi1GXzVxU1d3ZC1MVWFidllpMC10cWJfS21NUGxFcUdLbndVZk5La1IzSTBIQ3NoUWc?oc=5\" target=\"_blank\">「AIは物語を書かない。あなたが",
       "vendor_event": true
     },
     {
@@ -135,6 +143,14 @@
       "started_at": "2026/11/17 13:15",
       "place": "東京 / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5fZ3p1RjhHVzdLYjFTY3o2b3QtbmVlZFBYYnlpanNfN3JtSkFESVFpM2hXNUt4N1BrRW9zZUJkQzdzcEJfdGNZMk5oQllrbUlVN29kNWczVUlhZTVKSlZDZWYwUTcyNDBtOWZ0U09LTD",
+      "vendor_event": true
+    },
+    {
+      "title": "[Microsoft Ignite] 米マイクロソフト（MSFT.US）の「Ignite」カンファレンスが本日開幕しました。Copilotの収益化とAI演算能力への投資回収が焦点となり、企業向けAIの好循環が実現するかどうかが注目されます。 - Moomoo",
+      "event_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpGZTlfdTlVOEhNYmVVZVVCNzlDTTN6bUFudkVGRC1aeGx1NkRwLTExeXZEOE9Tb0pwNVVkNGRYZkZhMjBoTURsOWlwX3ZGOU12bjZTWVA3bnNVYlNXWDVINnFQd2tBdkpfbE9ja0FJYmI0TXhEaWpBeHktbTNuWTlrUjJjNE1xR1RCOC1GVnFwMFE5akRYVlRzWGt2Z0l5UkEzT3ZBQXE2blByc0cweXhORXY?oc=5",
+      "started_at": "2026/11/17 18:42",
+      "place": "Chicago / オンライン",
+      "catch": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNWpGZTlfdTlVOEhNYmVVZVVCNzlDTTN6bUFudkVGRC1aeGx1NkRwLTExeXZEOE9Tb0pwNVVkNGRYZkZhMjBoTURsOWlwX3ZGOU12bjZTWVA3bnNVYlNXWDVINnFQd2tBdkpfbE9ja0",
       "vendor_event": true
     },
     {
@@ -162,23 +178,7 @@
       "vendor_event": true
     },
     {
-      "title": "[Microsoft Ignite] オッペンハイマー氏、マイクロソフトのIgniteカンファレンスでAI製品イノベーションを発表 - Moomoo",
-      "event_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZl9ZTmktel9TMlBpZ3d6NjVDVWFGczdfLWxiMUVnajBNbkF2NXNCU0JTa3d4eEVtb3VodVhMclY2b2tkQVRFWThUdU1DYjVjS3JzaklHOENxV1RoTV9GVU5YX0VjVTBCZVBZZGdHd1hQSHVLVVg3YnBYcFJlRkQ4REJZaUswUnNGbzNTWGlrdzZKeTVPdGtLemdnd1dOYVJtcVQ1NHJ4NlBoWlJ5MFZDVXc1UlNid2w0WDdaNk0xZw?oc=5",
-      "started_at": "2026/11/19 01:39",
-      "place": "Chicago / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNZl9ZTmktel9TMlBpZ3d6NjVDVWFGczdfLWxiMUVnajBNbkF2NXNCU0JTa3d4eEVtb3VodVhMclY2b2tkQVRFWThUdU1DYjVjS3JzaklHOENxV1RoTV9GVU5YX0VjVTBCZVBZZGdHd1",
-      "vendor_event": true
-    },
-    {
-      "title": "[GitHub Universe] 「エージェントにプロダクトへの思いは引き継げない」GitHubのプロダクト・CTO・アドボカシー責任者に聞く、エージェント時代の開発 (1/3)|DeveloperZine - CodeZine",
-      "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KajB2c0dSM1dLM21STll4YTlQczVibTNaQ1Myb0hNMXVPYldVSUlTblpuYm9oUTFORmhSVHA5MjB6OGtBUTJ3bGNDOE5CTEQ5bUE?oc=5",
-      "started_at": "2026/11/19 10:00",
-      "place": "San Francisco / オンライン",
-      "catch": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KajB2c0dSM1dLM21STll4YTlQczVibTNaQ1Myb0hNMXVPYldVSUlTblpuYm9oUTFORmhSVHA5MjB6OGtBUTJ3bGNDOE5CTEQ5bUE?oc=5\" target=\"_blank\">「エージェントにプロダクトへの思",
-      "vendor_event": true
-    },
-    {
-      "title": "[GitHub Universe] 日本から参加した3人が注目するGitHubの新機能は？ GitHub Universe 2026の会場で聞いた現場の本音 - CodeZine",
+      "title": "[GitHub Universe 参加レポート] 日本から参加した3人が注目するGitHubの新機能は？ GitHub Universe 2026の会場で聞いた現場の本音 - CodeZine",
       "event_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Va3FLdFBXVmtiZWdWNGlXZXFqTTk3a0JCeXREZk5PaF9lamVncnBoWlBSdG1TNEk0aVNadnZHYXFQR2c1VWhxQ3NyLTdWQWdOSnc?oc=5",
       "started_at": "2026/11/20 08:00",
       "place": "San Francisco / オンライン",
@@ -200,70 +200,6 @@
       "place": "Chicago / オンライン",
       "catch": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5NcUNjMVROQkpEVElhYUJiMkJjd002UnlqZG14S01ZR0pHekFqV25wVHUwcjFuMXVkY1U1aUJqTWNCSzBxeGR0ZDdFZFZ6S2NUanVqcno1aWd3M3E3dTdybERCek5CTVBIRU1OQjZKdU",
       "vendor_event": true
-    },
-    {
-      "title": "QA Test Talk Vol.9",
-      "event_url": "https://test-talk.connpass.com/event/407164/",
-      "started_at": "2026/11/24 18:15",
-      "place": "東京都",
-      "catch": "QAについて熱く語り合う夜",
-      "description": "イベントの概要 本イベントはQA周りについて話すことを目的とした勉強会です。 今回はオフライン・オンラインの両方での開催を予定しています。 オンラインでのアクセス先は当日連絡予定です。 プログラム 時間 コンテンツ 登壇者 18:15-18:30 開場 ---- 18:30-18:35 オープニング tarappo 18:35-18:50 テスト自動化の先、テスト自律化に向けて 松谷峰生 18:50-19:05 品質を積み上げられるようにする 井芹洋輝 19:05-19:25 「動かしてみないと分からない」をなくす。本番トラフィックを活用した新旧ロジック比較と安全なリリースへの道 ブロッコリー 18:25-19:40 不具合データを用いたプロダクトコードの弱点可視化 tarappo 19:40-19:55 ブラウザ互換性を保つために、ブラウザテスト以外にできること 末村拓也…"
-    },
-    {
-      "title": "毎週火曜にやってる！プログラミング&ITなんでも勉強部屋（11月第4週）",
-      "event_url": "https://hfs.connpass.com/event/409002/",
-      "started_at": "2026/11/24 19:00",
-      "place": "東京都",
-      "catch": "毎週火曜にやってる、もくもく勉強部屋！！",
-      "description": "#プログラミング勉強部屋 #eLV勉強会 毎週火曜やってます!! ※その他の火曜も参加希望の場合は このリンク からお願いします！ どんなイベント？ 一人だと、自宅だと、だらけちゃって自分に負けちゃう！やる気はあるのに進まない......心配ありません、人間そんなものです（笑）そこで、以下の環境を用意しております！！ なんとなく学習モードに切り替わることのできる「場」 一人ではなく同じような学習テーマをもった「仲間」 毎週火曜日開催！ 無言、途中参加、途中退出、ちょっと抜けてまた戻ってくる、などなど自由です。 ゆる〜くやっているので、お気軽にご参加ください。 参加者ってどんなことやっているの？ ・プログラミングの勉強 ・ネットワークやCloudの勉強 ・書籍を読む ・会社の仕事を仕上げる ・各種資料を作成する ・ブログなどの記事を書く ・統計や数学など基礎的な勉強 ・その他なんでも！…"
-    },
-    {
-      "title": "Raycast Meetup Japan #3 with masuipeo",
-      "event_url": "https://raycast.connpass.com/event/411739/",
-      "started_at": "2026/11/24 19:00",
-      "place": "東京都",
-      "catch": "Your shortcut to everything.",
-      "description": "はじめに Raycast Community Japan（非公式）による「Raycast Meetup Japan #3」を開催します！ 今回は、Raycast Community JapanとRaycast本を共著下さった 増井敏克（masuipeo）さん をゲストにお迎えします。 Raycastの使い方や日々の工夫を共有し、ユーザー同士で交流するMeetupです。これから使い始めたい方も、普段から使い込んでいる方も、ぜひご参加ください！ 開催概要 日時：2026年11月24日（火）19:00〜21:30（時間は仮・調整中） 会場：株式会社BuySell Technologies 開催形式：現地開催のみ（オンライン配信はありません） ゲスト 増井敏克 増井技術士事務所 代表…"
-    },
-    {
-      "title": "【増枠】赤坂これから会議〜AI時代、エンジニアはどう働き、どう生きる？〜",
-      "event_url": "https://lycorptech-jp.connpass.com/event/409956/",
-      "started_at": "2026/11/24 19:00",
-      "place": "東京都",
-      "catch": "技術もキャリアも人生も。ばんくし氏 ×ぎぎねっと氏と語る、これからの話。",
-      "description": "イベント概要 エンジニアとして、これからどう働き、どう生きていく？ AIの進化によって、エンジニアの仕事や求められるスキルが大きく変わろうとしています。一方で、私たち自身も年齢を重ね、結婚、育児、介護、健康など、さまざまなライフステージの変化に向き合っていきます。 技術を追い続けたい。でも、仕事だけが人生ではない。 キャリアを積み重ねる中で、働き方や大切にしたいことが変わってきた人もいるのではないでしょうか。今回の「赤坂 これから会議」では、 ばんくし氏とぎぎねっと氏 と一緒に、AI時代のエンジニアのキャリアと人生について、赤坂でざっくばらんに語り合います。AIによって仕事はどう変わるのか。育児や家庭と仕事をどう両立するのか。年齢を重ねても技術を楽しみ続けるにはどうすればいいのか。正解を出すのではなく、それぞれの経験や考え方を共有しながら、これからのエンジニア人生を考える時間です。…"
-    },
-    {
-      "title": "「その要求、何のため？」成果に繋げる要件定義",
-      "event_url": "https://sdq.connpass.com/event/403640/",
-      "started_at": "2026/11/24 19:00",
-      "place": "東京都",
-      "catch": "ビジネス成果と開発をKPIでつなぐ、効果検証設計編",
-      "description": "イベントの説明 「この機能を作ってほしい」 その要求に対して、 なぜ作るのか？ 何が変われば、作った意味があったと言えるのか？ その変化を、どうやって測るのか？ まで説明できていますか？ プロダクト開発では、顧客や事業部門から提示された要求を整理し、仕様を決め、開発できる状態にすることが求められます。 しかし、目の前の要求や仕様に集中するあまり、「その開発が、どのようなビジネス成果につながったのか」を十分に検証できていないことがあります。 そこで重要になるのが、 ビジネス成果とプロダクトの変化をつなぐKPIと、その効果を確かめるための設計 です。 KPIは、単に目標を数値化するためのものではありません。 事業として期待する成果から、ユーザーや業務に必要な変化を考え、その変化を測定できるようにすることで、開発の成果を評価し、次の改善や投資判断につなげることができます。 本講座では、…"
-    },
-    {
-      "title": "集まれSwift好き！Swift愛好会 vol.101 @ マルイユナイト",
-      "event_url": "https://love-swift.connpass.com/event/405314/",
-      "started_at": "2026/11/24 19:00",
-      "place": "東京都",
-      "catch": "初心者大歓迎！みんなでわいわいSwiftについて語ろう！",
-      "description": "📃 イベント概要 今年で11年目となるSwift愛好会は、言語としてのSwiftが好きな方からiOSアプリ開発が好きな方まで、幅広い方々が集まるコミュニティです。自分の好きなことをビール片手にワイワイとLTをするイベントとなっています！ 色々なバックグラウンドを持つ参加者が集い、LTや懇親会を通じてSwiftやApple Platformを遊び倒します！ イベント前半では、 Swift全般 に関する話や、iOSアプリ開発のノウハウ共有を話す \"談義タイム\" 後半は、Swift仲間をつくる懇親会を行います！ 🎯 対象者 Swiftが好きな人！ Swiftを好きになる予定の人 むしろSwiftから好かれている人 最近AIを利用してアプリを作っている個人開発者の方 iOSアプリを作っているエンジニアと交流したい人 🎤 登壇者（談義）…"
-    },
-    {
-      "title": "AWS re:Invent 2026 直前交流会 〜現地で一緒に楽しめる「仲間」をつくろう！〜",
-      "event_url": "https://kinto-technologies.connpass.com/event/411542/",
-      "started_at": "2026/11/24 19:00",
-      "place": "東京都",
-      "catch": "豪華6社から現地参加者向けのお得な情報をお届けしちゃいます！",
-      "description": "📝 イベント概要 AWS re:Invent 2026(11/30〜12/4・ラスベガス)に現地参加する皆さん、準備は進んでいますか？ 人気セッションの予約がもう埋まっていて、どう動くか迷っている ほかの参加者がどんな予定を組んでいるのか知りたい 現地のイベントやパーティーにも行きたいけど、一人だと踏み出しづらい そんな人同士で、出発前に予定や情報を持ち寄る交流会です🚀 目指すのは、現地に着いたとき「あ、この前話した人だ！」と声をかけられる関係をつくること。 当日は AWS の方からの情報共有に加え、re:Invent でブース出展やパーティーを企画している協力企業 5 社が、現地の見どころを 5 分 LT で紹介してくれます。「どこに行けば何があるか」が出発前に一気に手に入る会です。 今年は社内から 4…"
-    },
-    {
-      "title": "〜AIのアウトプット、そのまま使って大丈夫？人の介在価値を考えよう〜",
-      "event_url": "https://data-learning-guild.connpass.com/event/412488/",
-      "started_at": "2026/11/24 19:30",
-      "place": "東京都",
-      "catch": "11/24(火)に東京で、AI時代の「人の介在価値」を考えませんか？",
-      "description": "こんにちは！データラーニングギルドは、データサイエンスに関心のある方を中心に、学びと交流の機会を提供するコミュニティです。(Slackコミュニティ所属人数は1200人超) 東京や大阪、名古屋など各地で、データサイエンスをテーマとしたイベントを開催しています。 今回のイベントでは、 「AIが出すアウトプットは良いのか？」 をテーマに、AI時代の 人の介在価値 を考えるグループワークを実施します。 「AIに頼んだ答え、そのまま仕事に使っていいのか分からない…」 「一見すごそうなのに、なぜか『このままでは使えない』と感じる…」 「AIがここまで賢くなったら、自分の仕事の価値はどこに残るんだろう？」 10月にはMetaが新しいAI「Muse Wonder」を発表するなど、AIは毎月のように進化しています。…"
     },
     {
       "title": "これからのプロダクトデザイン",
@@ -319,7 +255,7 @@
       "started_at": "2026/11/25 19:00",
       "place": "東京都",
       "catch": "COGBOT Meetup #52 で最新情報を収集だよー(๑•̀ㅂ•́)و",
-      "description": "🎫 参加方法: オンライン での配信ですのでお気軽にご参加くださいませ😊。 項目 内容 開催日 11/25 (水) 場所 日本マイクロソフト株式会社 (品川) 開始 19:00 (開場18:30より) 終了 20:30ごろ 📺 今回の Cogbot Community は... 毎年恒例の Microsoft の年次イベント Microsoft Ignite 2026 が2026年11月17日～21日 (アメリカサンフランシスコ現地時間) に開催されます。そこで発表された AI ・Agent Platform に関するエキサイティングな最新情報をまとめてお届けします！ Microsoft Foundry、Microsoft 365 Copilot、Copilot Studio、GitHub Copilot…"
+      "description": "🎫 参加方法: オンライン での配信ですのでお気軽にご参加くださいませ😊。 今回はオンサイト(会場にて)開催です 項目 内容 開催日 11/25 (水) 場所 日本マイクロソフト株式会社 (品川) 開始 19:00 (開場18:30より) 終了 20:30ごろ 📺 今回の Cogbot Community は... 毎年恒例の Microsoft の年次イベント Microsoft Ignite 2026 が2026年11月17日～21日 (アメリカサンフランシスコ現地時間) に開催されます。そこで発表された AI ・Agent Platform に関するエキサイティングな最新情報をまとめてお届けします！ Microsoft Foundry、Microsoft 365 Copilot、Copilot Studio、GitHub Copilot…"
     },
     {
       "title": "no me in agile #21  お笑い芸人から学ぶ場づくり",
@@ -710,7 +646,7 @@
       "event_url": "https://akiressecurity.connpass.com/event/413149/",
       "started_at": "2026/11/28 11:00",
       "place": "東京都",
-      "catch": "前回開催し好評だったAI×セキュリティLT会第二弾開催！セキュリティ初心者も大歓迎！(/・ω・)/",
+      "catch": "オンライン視聴枠アリ！",
       "description": "🤖 Akires Tech Event #6｜AI×セキュリティ LT＆交流会 〜相次ぐサイバー攻撃、AIで何が変わる？〜 📢 オンライン視聴枠を追加しました！ 「興味はあるけど、当日は会場まで行くのが難しい……」 そんな方にもご参加いただけるよう、今回新たに オンライン視聴枠を追加しました！ 🎉 AI×セキュリティをテーマにしたLTを、オンラインからもご視聴いただけます。 もちろん、会場での参加も引き続き受付中です！ 現地でLTや交流会に参加したい方も、オンラインでLTを視聴したい方も大歓迎！ ご都合に合わせて、ぜひお気軽にご参加ください！ ※オンライン視聴は11:00〜12:00のオープニング・LT会を予定しています。LT終了後の交流会は現地参加の方が対象となります。 🚀 イベントについて…"
     },
     {
@@ -775,7 +711,7 @@
       "started_at": "2026/11/28 13:00",
       "place": "東京都",
       "catch": "自作CPUを語る会との併催です！",
-      "description": "自作OSもくもく発表作業会とは？ OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です．このイベントの対象は次のような方々です． 自作OSに興味があり，OS関係の本を読んでいる（または今から読み始める） 自分のOSを作っていたり，既存のOSを学んだり，改造している 低レイヤ技術に興味があり，情報交換したい 過去の発表資料は ここ に，録画は ここ にまとまっています． オフライン開催について 今回の自作OSもくもく発表作業会は 自作CPUを語る会 と併催のオフライン開催となります． また，Zoomからオンラインでも参加可能です． 当日のスケジュール 参加リンクについては，参加登録をすると見える，connpassの「参加者への情報」に当日記載しますので，ご確認ください． 時刻 内容 13:00-13:05 集合，準備 13:05-13:10 開会…"
+      "description": "自作OSもくもく発表作業会とは？ OS自作をやっている人々で集まって，進捗を共有したり，みんなで黙々と作業する時間を取る会です．このイベントの対象は次のような方々です． 自作OSに興味があり，OS関係の本を読んでいる（または今から読み始める） 自分のOSを作っていたり，既存のOSを学んだり，改造している 低レイヤ技術に興味があり，情報交換したい 過去の発表資料は ここ に，録画は ここ にまとまっています． オフライン開催について 今回の自作OSもくもく発表作業会は 自作CPUを語る会 および セキュリティ・キャンプ修了生 技術交流＆LT会 と併催のオフライン開催となります． また，Zoomからオンラインでも参加可能です． 当日のスケジュール 参加リンクについては，参加登録をすると見える，connpassの「参加者への情報」に当日記載しますので，ご確認ください． 時刻 内容…"
     },
     {
       "title": "【AWS×Linux】AWSで学ぶ 現場で使うLinuxコマンド",
@@ -903,7 +839,7 @@
       "started_at": "2026/11/30 19:00",
       "place": "東京都",
       "catch": "基盤立ち上げの意思決定と苦労のリアル",
-      "description": "【イベント概要】 AIの進展や事業拡大に伴い、単一プロダクトから複数プロダクトを展開する組織が増えています。 プロダクトが増えるほど、「共通基盤をどう設計し、どう運用し続けるか」という課題は避けて通れません。 権限や境界をどう引くか、優先順位をどう決めるか、負債や複雑性とどう向き合うか——マルチプロダクト化に取り組む企業の多くが、同じような壁にぶつかっています。 本イベントでは、認証認可基盤のように複数のプロダクトから共通で利用される、プロダクトそのものを支える機能群に焦点を当て、マルチプロダクト展開を進めるログラス・LayerX・SmartHRの3社が、それぞれの基盤立ち上げと運用における意思決定と苦労のリアルを共有します。 前半のセッションでは、各社のメンバーが「なぜその設計を選んだのか」「優先順位はどう決めたのか」「負債とどう付き合っているのか」といった具体的な事例を共有します。…"
+      "description": "【イベント概要】 ※11/24追記：登壇者が一部変更となっております。 AIの進展や事業拡大に伴い、単一プロダクトから複数プロダクトを展開する組織が増えています。 プロダクトが増えるほど、「共通基盤をどう設計し、どう運用し続けるか」という課題は避けて通れません。 権限や境界をどう引くか、優先順位をどう決めるか、負債や複雑性とどう向き合うか——マルチプロダクト化に取り組む企業の多くが、同じような壁にぶつかっています。 本イベントでは、認証認可基盤のように複数のプロダクトから共通で利用される、プロダクトそのものを支える機能群に焦点を当て、マルチプロダクト展開を進めるログラス・LayerX・SmartHRの3社が、それぞれの基盤立ち上げと運用における意思決定と苦労のリアルを共有します。…"
     },
     {
       "title": "【テスト初心者歓迎】みんなでテスト設計やってみよう！@QAブリッジ",
